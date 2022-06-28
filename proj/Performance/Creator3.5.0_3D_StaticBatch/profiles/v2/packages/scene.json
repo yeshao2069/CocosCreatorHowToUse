@@ -1,0 +1,121 @@
+{
+  "gizmos-infos": {
+    "is2D": false,
+    "is3DIcon": false,
+    "iconSize": 2,
+    "gridVisible": false,
+    "gridColor": [
+      150,
+      150,
+      150,
+      255
+    ],
+    "isIconGizmo3D": false,
+    "iconGizmoSize": 2,
+    "isGridVisible": false
+  },
+  "camera-infos": {
+    "f46876e4-e81b-4931-b493-6d367be385e7": {
+      "position": {
+        "x": 50,
+        "y": 50,
+        "z": 50
+      },
+      "rotation": {
+        "x": -0.27984814233312133,
+        "y": 0.3647051996310009,
+        "z": 0.11591689595929514,
+        "w": 0.8804762392171493
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb": {
+      "position": {
+        "x": -1.6016737268109011,
+        "y": 5.0988384717131225,
+        "z": 12.043098859476032
+      },
+      "rotation": {
+        "x": -0.14422768962649635,
+        "y": -0.07072584453741823,
+        "z": -0.01033540211602936,
+        "w": 0.9869596789750694
+      },
+      "viewCenter": {
+        "x": -0.6851788668167448,
+        "y": 3.179286764006639,
+        "z": 5.681220355436367
+      }
+    }
+  },
+  "camera-uuids": [
+    "7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb"
+  ],
+  "float-window": {
+    "position": {
+      "cc": {
+        "Camera": {
+          "dock": false,
+          "top": null,
+          "bottom": 10,
+          "left": null,
+          "right": 10
+        },
+        "Terrain": {
+          "dock": false,
+          "top": null,
+          "bottom": 10,
+          "left": null,
+          "right": 10
+        }
+      }
+    }
+  },
+  "camera": {
+    "fov": 45,
+    "far": 10000,
+    "near": 0.01,
+    "color": [
+      48,
+      48,
+      48,
+      255
+    ],
+    "wheelSpeed": 0.01,
+    "wanderSpeed": 10,
+    "enableAcceleration": true,
+    "far2D": 10000,
+    "near2D": 1,
+    "wheelSpeed2D": 6
+  },
+  "9edMUYCR1DOaJVaCD0oXlv": {
+    "layer": 0,
+    "sculpt_brush": "",
+    "paint_brush": "",
+    "sculpt": {
+      "radius": 5,
+      "strength": 5
+    },
+    "paint": {
+      "radius": 5,
+      "strength": 5
+    }
+  },
+  "d0N7yFlvtG253nGGV4N+T7": {
+    "sculpt_brush": "",
+    "paint_brush": "",
+    "sculpt": {
+      "radius": 5,
+      "strength": 5
+    },
+    "paint": {
+      "radius": 5,
+      "strength": 5
+    }
+  },
+  "__version__": "1.0.0"
+}

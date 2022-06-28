@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "a7cb0fed-da9a-4eca-9dec-774f8d746b4f",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/EditableGeometry/EditableCone.js",
+    "simulateGlobals": []
+  }
+}

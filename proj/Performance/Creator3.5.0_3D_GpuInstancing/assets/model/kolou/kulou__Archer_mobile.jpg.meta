@@ -1,0 +1,42 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "d67a02b0-ffdc-44e2-bf72-1a686c30fc2e",
+  "files": [
+    ".jpg",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "d67a02b0-ffdc-44e2-bf72-1a686c30fc2e@6c48a",
+      "displayName": "kulou__Archer_mobile",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d67a02b0-ffdc-44e2-bf72-1a686c30fc2e"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "d67a02b0-ffdc-44e2-bf72-1a686c30fc2e@6c48a",
+    "hasAlpha": false,
+    "fixAlphaTransparencyArtifacts": false
+  }
+}

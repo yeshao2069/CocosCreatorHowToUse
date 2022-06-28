@@ -1,0 +1,15 @@
+{
+  "ver": "1.1.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "309701e8-b459-43c4-a638-9f6444532ff3",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleName": "resources",
+    "priority": 8,
+    "compressionType": {},
+    "isRemoteBundle": {}
+  }
+}

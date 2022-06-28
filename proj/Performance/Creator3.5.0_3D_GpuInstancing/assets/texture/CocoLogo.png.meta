@@ -1,0 +1,76 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "17102ed8-e4c0-4c0c-b4e5-622d5587f6b1",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "17102ed8-e4c0-4c0c-b4e5-622d5587f6b1@6c48a",
+      "displayName": "CocoLogo",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "imageUuidOrDatabaseUri": "17102ed8-e4c0-4c0c-b4e5-622d5587f6b1",
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "17102ed8-e4c0-4c0c-b4e5-622d5587f6b1@f9941",
+      "displayName": "CocoLogo",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 214,
+        "height": 308,
+        "rawWidth": 214,
+        "rawHeight": 308,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "17102ed8-e4c0-4c0c-b4e5-622d5587f6b1@6c48a",
+        "atlasUuid": "",
+        "packable": true
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "17102ed8-e4c0-4c0c-b4e5-622d5587f6b1@f9941",
+    "hasAlpha": true,
+    "fixAlphaTransparencyArtifacts": false
+  }
+}

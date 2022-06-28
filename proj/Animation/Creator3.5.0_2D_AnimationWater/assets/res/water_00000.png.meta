@@ -1,0 +1,75 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "145d5556-35f4-4e40-a3e6-ba79ef920150",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "145d5556-35f4-4e40-a3e6-ba79ef920150@6c48a",
+      "displayName": "water_00000",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "145d5556-35f4-4e40-a3e6-ba79ef920150"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "145d5556-35f4-4e40-a3e6-ba79ef920150@f9941",
+      "displayName": "water_00000",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -2.5,
+        "offsetY": -123,
+        "trimX": 162,
+        "trimY": 318,
+        "width": 183,
+        "height": 60,
+        "rawWidth": 512,
+        "rawHeight": 450,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "145d5556-35f4-4e40-a3e6-ba79ef920150@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "145d5556-35f4-4e40-a3e6-ba79ef920150@f9941",
+    "fixAlphaTransparencyArtifacts": false
+  }
+}

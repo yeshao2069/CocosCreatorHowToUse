@@ -1,0 +1,48 @@
+{
+  "__version__": "1.0.2",
+  "layer": [
+    {
+      "name": "canvas_17",
+      "value": 131072
+    },
+    {
+      "name": "canvas_18",
+      "value": 262144
+    },
+    {
+      "name": "canvas_19",
+      "value": 524288
+    }
+  ],
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "BIT_1"
+      },
+      {
+        "index": 2,
+        "name": "BIT_2"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 5,
+      "1": 6,
+      "2": 7
+    }
+  },
+  "general": {
+    "designResolution": {
+      "width": 960,
+      "height": 640,
+      "fitHeight": true,
+      "fitWidth": true
+    }
+  },
+  "custom_joint_texture_layouts": [],
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  }
+}

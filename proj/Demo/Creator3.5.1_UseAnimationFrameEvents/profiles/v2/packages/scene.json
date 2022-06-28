@@ -1,0 +1,126 @@
+{
+  "__version__": "1.0.0",
+  "current-scene": "1f7e20db-512f-4ef9-8714-89e938e8e2e4",
+  "gizmos-infos": {
+    "is2D": true,
+    "is3DIcon": false,
+    "iconSize": 2,
+    "gridVisible": true,
+    "gridColor": [
+      150,
+      150,
+      150,
+      255
+    ],
+    "isIconGizmo3D": false,
+    "iconGizmoSize": 2,
+    "isGridVisible": true
+  },
+  "camera-infos": {
+    "57580b21-75f0-4966-a906-422c3ec257df": {
+      "position": {
+        "x": 480,
+        "y": 320,
+        "z": 5000
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "98b71406-5c49-4cb6-93d5-6893ba2dada0": {
+      "position": {
+        "x": 480,
+        "y": 320,
+        "z": 5000
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "1f7e20db-512f-4ef9-8714-89e938e8e2e4": {
+      "position": {
+        "x": 480,
+        "y": 320,
+        "z": 5000
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "f46876e4-e81b-4931-b493-6d367be385e7": {
+      "position": {
+        "x": 480,
+        "y": 320,
+        "z": 5000
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
+  },
+  "camera-uuids": [
+    "1f7e20db-512f-4ef9-8714-89e938e8e2e4"
+  ],
+  "float-window": {
+    "position": {
+      "cc": {
+        "Camera": {
+          "dock": false,
+          "top": null,
+          "bottom": 10,
+          "left": null,
+          "right": 10
+        }
+      }
+    }
+  },
+  "camera": {
+    "fov": 45,
+    "far": 10000,
+    "near": 0.01,
+    "color": [
+      48,
+      48,
+      48,
+      255
+    ],
+    "wheelSpeed": 0.01,
+    "wanderSpeed": 10,
+    "enableAcceleration": true,
+    "far2D": 10000,
+    "near2D": 1,
+    "wheelSpeed2D": 6
+  }
+}

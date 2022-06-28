@@ -1,0 +1,25 @@
+{
+  "__version__": "1.0.2",
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "box1"
+      },
+      {
+        "index": 2,
+        "name": "box2"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 0,
+      "1": 4,
+      "2": 2
+    }
+  },
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  }
+}

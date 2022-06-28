@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "da73afc5-6de8-4c23-85d5-df9f8a90a50d",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/EditableGeometry/EditableTorus.js",
+    "simulateGlobals": []
+  }
+}

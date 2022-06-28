@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "be9ddcb9-e30a-44dc-9286-14a4e4c0e767",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/model-animation/script/framework/util/constants.js",
+    "simulateGlobals": []
+  }
+}

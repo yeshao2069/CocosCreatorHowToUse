@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "461b361c-d736-4dd3-a97c-4d6e7bba5e83",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/EditableGeometry/EditableCube.js",
+    "simulateGlobals": []
+  }
+}
