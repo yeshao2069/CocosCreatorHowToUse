@@ -1,0 +1,78 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "sheep_run",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 10,
+    "speed": 1,
+    "wrapMode": 2,
+    "_duration": 0.4,
+    "_hash": 928065261,
+    "_tracks": [
+      {
+        "__id__": 1
+      }
+    ],
+    "_events": [],
+    "_exoticAnimation": null
+  },
+  {
+    "__type__": "cc.animation.ObjectTrack",
+    "_binding": {
+      "__type__": "cc.animation.TrackBinding",
+      "path": {
+        "__id__": 2
+      }
+    },
+    "_channel": {
+      "__id__": 4
+    }
+  },
+  {
+    "__type__": "cc.animation.TrackPath",
+    "_paths": [
+      {
+        "__id__": 3
+      },
+      "spriteFrame"
+    ]
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  },
+  {
+    "__type__": "cc.animation.Channel",
+    "_curve": {
+      "__id__": 5
+    }
+  },
+  {
+    "__type__": "cc.ObjectCurve",
+    "_times": [
+      0,
+      0.1,
+      0.2,
+      0.3
+    ],
+    "_values": [
+      {
+        "__uuid__": "cd935b82-0280-4a04-95b4-1664fcec362b@e0c75",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "cd935b82-0280-4a04-95b4-1664fcec362b@a8883",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "cd935b82-0280-4a04-95b4-1664fcec362b@6a8f4",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "cd935b82-0280-4a04-95b4-1664fcec362b@07ea9",
+        "__expectedType__": "cc.Asset"
+      }
+    ]
+  }
+]

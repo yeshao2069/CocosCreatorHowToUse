@@ -1,0 +1,68 @@
+[
+    {
+        "name": "model-triangles",
+        "sceneUrl": "model-triangles/main.scene",
+        "coverImgUrl": "lobby/model-triangles/spriteFrame",
+        "tips": "用于静态模型面数测试"
+    },
+    {
+        "name": "model-animation",
+        "sceneUrl": "model-animation/main.scene",
+        "coverImgUrl": "lobby/model-animation/spriteFrame",
+        "tips": "用于动画模型测试"
+    },
+    {
+        "name": "physics-benchmark",
+        "sceneUrl": "physics-benchmark/benchmark.scene",
+        "coverImgUrl": "lobby/physics-benchmark/spriteFrame",
+        "tips": "用于物理测试"
+    },
+    {
+        "name": "particle-test",
+        "sceneUrl": "particle-test/ParticleTest.scene",
+        "coverImgUrl": "lobby/particle-test/spriteFrame",
+        "tips": "用于粒子测试"
+    },
+    {
+        "name": "render-2d-test",
+        "sceneUrl": "render-2d/render-test-2d.scene",
+        "coverImgUrl": "lobby/render-2d-test/spriteFrame",
+        "tips": "用于2d渲染测试"
+    },
+    {
+        "name": "ui-sprite-test",
+        "sceneUrl": "ui-test/BunnyTest.scene",
+        "coverImgUrl": "lobby/bunny-test/spriteFrame",
+        "tips": "用于UI精灵测试"
+    },
+    {
+        "name": "ui-backpack-no-batch",
+        "sceneUrl": "backpack/backpack_no_batch.scene",
+        "coverImgUrl": "lobby/backpack/spriteFrame",
+        "tips": "用于不开启合批的背包测试"
+    },
+    {
+        "name": "ui-backpack-batch",
+        "sceneUrl": "backpack/backpack_batch.scene",
+        "coverImgUrl": "lobby/backpack/spriteFrame",
+        "tips": "用于开启合批的背包测试"
+    },
+    {
+        "name": "ui-test",
+        "sceneUrl": "ui-test-ani/scene/UITest.scene",
+        "coverImgUrl": "lobby/uiTest/spriteFrame",
+        "tips": "用于ui复杂场景测试"
+    },
+    {
+        "name": "ui-frameAni-test",
+        "sceneUrl": "ui-test-ani/scene/BunnyFrameAnimationTest.scene",
+        "coverImgUrl": "lobby/uiSpriteFrameAni/spriteFrame",
+        "tips": "用于ui帧动画测试"
+    },
+    {
+        "name": "ui-transAni-test",
+        "sceneUrl": "ui-test-ani/scene/BunnyTransformAnimationTest.scene",
+        "coverImgUrl": "lobby/uiTransAni/spriteFrame",
+        "tips": "用于ui位移动画测试"
+    }
+]

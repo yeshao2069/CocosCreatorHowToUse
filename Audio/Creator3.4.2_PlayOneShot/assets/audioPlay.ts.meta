@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "199900dd-770f-43e3-b513-823f1cc06b46",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/audioPlay.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}
