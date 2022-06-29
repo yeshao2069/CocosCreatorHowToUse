@@ -1,0 +1,42 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Video/Creator3.5.0_VideoPlayer/assets/VideoPlayer.scene": {
+    "time": 1653208342549.3845,
+    "uuid": "523b8b27-e151-49b3-9383-8ec153517f26",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Video/Creator3.5.0_VideoPlayer/assets/VideoPlayer.ts": {
+    "time": 1648658111480.314,
+    "uuid": "89ed828e-c177-408c-85e1-e62921e7623c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Video/Creator3.5.0_VideoPlayer/assets/res": {
+    "time": 1648658111499.9338,
+    "uuid": "049455f9-0baf-42cd-a537-4822a7a42f89",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Video/Creator3.5.0_VideoPlayer/assets/res/cocosvideo.mp4": {
+    "time": 1648658111499.0037,
+    "uuid": "cb15d38f-0db0-44a8-aa77-e702a8b3da49",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Video/Creator3.5.0_VideoPlayer/assets/res/videplayIcon.jpg": {
+    "time": 1648658111499.8699,
+    "uuid": "e8b05ec6-8e2d-48db-be6c-fc0e969d9d9a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Video/Creator3.5.0_VideoPlayer/assets/res.meta": {
+    "time": 1648658111480.8171
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Video/Creator3.5.0_VideoPlayer/assets/VideoPlayer.ts.meta": {
+    "time": 1648658111480.6855
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Video/Creator3.5.0_VideoPlayer/assets/VideoPlayer.scene.meta": {
+    "time": 1653208334911.4375
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Video/Creator3.5.0_VideoPlayer/assets/res/videplayIcon.jpg.meta": {
+    "time": 1653208334933.4058
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Video/Creator3.5.0_VideoPlayer/assets/res/cocosvideo.mp4.meta": {
+    "time": 1648658111499.7424
+  }
+}

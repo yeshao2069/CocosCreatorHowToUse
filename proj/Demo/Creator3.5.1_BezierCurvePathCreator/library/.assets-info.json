@@ -1,0 +1,306 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/bezier.scene": {
+    "time": 1654051357332.8533,
+    "uuid": "04ec3c0e-262d-43be-879a-eda55cac8472",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res": {
+    "time": 1653963060971.856,
+    "uuid": "c4fcf77b-720b-4d8e-a5c0-288830fc2025",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts": {
+    "time": 1653963060981.5999,
+    "uuid": "4e7b6f64-3c53-4d57-a2b0-8f36275b74a6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/images": {
+    "time": 1653963060970.7231,
+    "uuid": "7457bf68-9c0f-4c02-a11b-07af213d182c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/json": {
+    "time": 1653963060971.4434,
+    "uuid": "71bc61bc-575c-4391-97a5-cb46b8cd823a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/prefabs": {
+    "time": 1653963060972.6353,
+    "uuid": "6bc2fee2-35f0-4228-a632-a382974aa32e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts/Bezier.ts": {
+    "time": 1653963060973.167,
+    "uuid": "d039da9a-d53b-48ab-b966-bd38c9f67731",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts/BezierData.ts": {
+    "time": 1654050862394.1675,
+    "uuid": "0bdd44e6-f26c-4c08-bcf2-31cd764de6dc",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts/Enums.ts": {
+    "time": 1653963060975.979,
+    "uuid": "5f289290-70aa-468d-abcd-e11ae57fa3a7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts/EventListener.ts": {
+    "time": 1653963060976.7644,
+    "uuid": "79ece5ba-ac6f-47cd-aecf-0dce2dd8421b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts/NodeEvents.ts": {
+    "time": 1654050762737.5837,
+    "uuid": "09ffe1d1-6bde-43fb-87c8-e3e165c7b321",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts/drawBezier.ts": {
+    "time": 1654051471048.8018,
+    "uuid": "3c1ae14b-38b4-45ae-b414-f6d15327f2a0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts/globalConfig.ts": {
+    "time": 1653963060981.5352,
+    "uuid": "8e9c34b0-58ff-476e-9c34-017267fd2bfa",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/images/control.png": {
+    "time": 1653963060970.1597,
+    "uuid": "6ed01162-93ed-4eb0-85de-a8e2782e418e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/images/delete.png": {
+    "time": 1653963060970.452,
+    "uuid": "9beb95ff-c729-4e82-b136-f0250339cf45",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/images/point.png": {
+    "time": 1653963060970.6636,
+    "uuid": "8b2c3fba-c821-475b-ac77-c530050e83ab",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/json/test.json": {
+    "time": 1653963060971.3406,
+    "uuid": "3605f8ff-e9df-479f-9f26-a5b4a912ac05",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/prefabs/controlPrefab.prefab": {
+    "time": 1654049903327.3547,
+    "uuid": "627e0364-ffec-44f7-aa9a-dabf125f5c6e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/prefabs/pointPrefab.prefab": {
+    "time": 1654049903327.3857,
+    "uuid": "516ee9fe-a233-463f-a5c8-3c7ce117a3bc",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res.meta": {
+    "time": 1653963060969.775
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts.meta": {
+    "time": 1653963060972.9492
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/images.meta": {
+    "time": 1653963060969.9285
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/json.meta": {
+    "time": 1653963060970.895
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/prefabs.meta": {
+    "time": 1653963060971.7722
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts/Bezier.ts.meta": {
+    "time": 1653963060974.3308
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts/BezierData.ts.meta": {
+    "time": 1653963060975.106
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts/Enums.ts.meta": {
+    "time": 1653963060976.595
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts/EventListener.ts.meta": {
+    "time": 1653963060977.0618
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts/NodeEvents.ts.meta": {
+    "time": 1653963060981.0273
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts/drawBezier.ts.meta": {
+    "time": 1653963060981.395
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/scripts/globalConfig.ts.meta": {
+    "time": 1653963060981.6428
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/json/test.json.meta": {
+    "time": 1653963060971.643
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/bezier.scene.meta": {
+    "time": 1654049903310.5806
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/images/control.png.meta": {
+    "time": 1654049903347.2063
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/prefabs/pointPrefab.prefab.meta": {
+    "time": 1654049903351.2214
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/prefabs/controlPrefab.prefab.meta": {
+    "time": 1654049903353.4153
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/images/delete.png.meta": {
+    "time": 1654049903358.168
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_BezierCurvePathCreator/assets/res/images/point.png.meta": {
+    "time": 1654049903362.4167
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/bezier.scene": {
+    "time": 1654680621058.926,
+    "uuid": "04ec3c0e-262d-43be-879a-eda55cac8472",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res": {
+    "time": 1654680621063.7097,
+    "uuid": "c4fcf77b-720b-4d8e-a5c0-288830fc2025",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts": {
+    "time": 1654680621073.3079,
+    "uuid": "4e7b6f64-3c53-4d57-a2b0-8f36275b74a6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/images": {
+    "time": 1654680621062.0056,
+    "uuid": "7457bf68-9c0f-4c02-a11b-07af213d182c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/json": {
+    "time": 1654680621063.1873,
+    "uuid": "71bc61bc-575c-4391-97a5-cb46b8cd823a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/prefabs": {
+    "time": 1654680621065.7302,
+    "uuid": "6bc2fee2-35f0-4228-a632-a382974aa32e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts/Bezier.ts": {
+    "time": 1654680621066.2043,
+    "uuid": "d039da9a-d53b-48ab-b966-bd38c9f67731",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts/BezierData.ts": {
+    "time": 1654680621066.4595,
+    "uuid": "0bdd44e6-f26c-4c08-bcf2-31cd764de6dc",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts/Enums.ts": {
+    "time": 1654680621066.8494,
+    "uuid": "5f289290-70aa-468d-abcd-e11ae57fa3a7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts/EventListener.ts": {
+    "time": 1654680621067.1077,
+    "uuid": "79ece5ba-ac6f-47cd-aecf-0dce2dd8421b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts/NodeEvents.ts": {
+    "time": 1654680621067.5137,
+    "uuid": "09ffe1d1-6bde-43fb-87c8-e3e165c7b321",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts/drawBezier.ts": {
+    "time": 1654680621072.11,
+    "uuid": "3c1ae14b-38b4-45ae-b414-f6d15327f2a0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts/globalConfig.ts": {
+    "time": 1654680621073.1453,
+    "uuid": "8e9c34b0-58ff-476e-9c34-017267fd2bfa",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/images/control.png": {
+    "time": 1654680621059.9673,
+    "uuid": "6ed01162-93ed-4eb0-85de-a8e2782e418e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/images/delete.png": {
+    "time": 1654680621061.129,
+    "uuid": "9beb95ff-c729-4e82-b136-f0250339cf45",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/images/point.png": {
+    "time": 1654680621061.9246,
+    "uuid": "8b2c3fba-c821-475b-ac77-c530050e83ab",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/json/test.json": {
+    "time": 1654680621062.9812,
+    "uuid": "3605f8ff-e9df-479f-9f26-a5b4a912ac05",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/prefabs/controlPrefab.prefab": {
+    "time": 1654680621065.0808,
+    "uuid": "627e0364-ffec-44f7-aa9a-dabf125f5c6e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/prefabs/pointPrefab.prefab": {
+    "time": 1654680621065.6606,
+    "uuid": "516ee9fe-a233-463f-a5c8-3c7ce117a3bc",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res.meta": {
+    "time": 1654680621059.5754
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts.meta": {
+    "time": 1654680621066.023
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/images.meta": {
+    "time": 1654680621059.769
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/json.meta": {
+    "time": 1654680621062.3357
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/prefabs.meta": {
+    "time": 1654680621063.5735
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts/Bezier.ts.meta": {
+    "time": 1654680621066.313
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts/BezierData.ts.meta": {
+    "time": 1654680621066.5627
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts/Enums.ts.meta": {
+    "time": 1654680621066.9817
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts/EventListener.ts.meta": {
+    "time": 1654680621067.3735
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts/NodeEvents.ts.meta": {
+    "time": 1654680621070.5686
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts/drawBezier.ts.meta": {
+    "time": 1654680621072.9575
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/scripts/globalConfig.ts.meta": {
+    "time": 1654680621073.3633
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/bezier.scene.meta": {
+    "time": 1654680621059.437
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/json/test.json.meta": {
+    "time": 1654680621063.335
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/prefabs/controlPrefab.prefab.meta": {
+    "time": 1654680621065.5298
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/prefabs/pointPrefab.prefab.meta": {
+    "time": 1654680621065.8896
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/images/control.png.meta": {
+    "time": 1654680621060.9622
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/images/point.png.meta": {
+    "time": 1654680621062.1877
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_BezierCurvePathCreator/assets/res/images/delete.png.meta": {
+    "time": 1654680621061.5337
+  }
+}

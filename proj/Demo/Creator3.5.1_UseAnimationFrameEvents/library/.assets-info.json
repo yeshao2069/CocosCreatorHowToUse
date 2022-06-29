@@ -1,0 +1,82 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_UseAnimationFrameEvents/assets/UseAnimationFrameEvents.scene": {
+    "time": 1654046235306.4238,
+    "uuid": "1f7e20db-512f-4ef9-8714-89e938e8e2e4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_UseAnimationFrameEvents/assets/UseAnimationFrameEvents.ts": {
+    "time": 1653963061064.398,
+    "uuid": "fef93931-88bb-41f7-83cb-0bfbd7bd28f1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_UseAnimationFrameEvents/assets/res": {
+    "time": 1654046231569.6084,
+    "uuid": "b6034a7c-2174-4a7c-9ab3-a7607853d8f7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_UseAnimationFrameEvents/assets/res/HelloWorld.png": {
+    "time": 1653963061065.1558,
+    "uuid": "1971ffd9-189a-4c12-ad43-541c85e87ab7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_UseAnimationFrameEvents/assets/res.meta": {
+    "time": 1653963061064.9097
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_UseAnimationFrameEvents/assets/UseAnimationFrameEvents.ts.meta": {
+    "time": 1653963061064.5544
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_UseAnimationFrameEvents/assets/UseAnimationFrameEvents.scene.meta": {
+    "time": 1654046203742.628
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_UseAnimationFrameEvents/assets/res/HelloWorld.png.meta": {
+    "time": 1654046203765.619
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_UseAnimationFrameEvents/assets/res/move.anim.meta": {
+    "time": 1653963061064.7644
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_UseAnimationFrameEvents/assets/res/move.anim": {
+    "time": 1653963061064.664,
+    "uuid": "80e960ed-ce25-41e1-b911-8e341469a36a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_UseAnimationFrameEvents/assets/UseAnimationFrameEvents.scene": {
+    "time": 1654680621043.1335,
+    "uuid": "1f7e20db-512f-4ef9-8714-89e938e8e2e4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_UseAnimationFrameEvents/assets/UseAnimationFrameEvents.ts": {
+    "time": 1654680621043.6995,
+    "uuid": "fef93931-88bb-41f7-83cb-0bfbd7bd28f1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_UseAnimationFrameEvents/assets/res": {
+    "time": 1654680621045.0322,
+    "uuid": "b6034a7c-2174-4a7c-9ab3-a7607853d8f7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_UseAnimationFrameEvents/assets/res/HelloWorld.png": {
+    "time": 1654680621044.4734,
+    "uuid": "1971ffd9-189a-4c12-ad43-541c85e87ab7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_UseAnimationFrameEvents/assets/res/move.anim": {
+    "time": 1654680621044.9626,
+    "uuid": "80e960ed-ce25-41e1-b911-8e341469a36a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_UseAnimationFrameEvents/assets/res.meta": {
+    "time": 1654680621043.9617
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_UseAnimationFrameEvents/assets/UseAnimationFrameEvents.ts.meta": {
+    "time": 1654680621043.8445
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_UseAnimationFrameEvents/assets/res/move.anim.meta": {
+    "time": 1654680621045.0857
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_UseAnimationFrameEvents/assets/UseAnimationFrameEvents.scene.meta": {
+    "time": 1654680621043.493
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_UseAnimationFrameEvents/assets/res/HelloWorld.png.meta": {
+    "time": 1654680621044.805
+  }
+}

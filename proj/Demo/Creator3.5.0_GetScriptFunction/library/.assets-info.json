@@ -1,0 +1,34 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_GetScriptFunction/assets/GetScriptFunction.scene": {
+    "time": 1654049434036.8535,
+    "uuid": "3b4d92fa-b97f-415b-b68f-9d2676c38754",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_GetScriptFunction/assets/GetScriptFunction.scene.meta": {
+    "time": 1654046494221.558
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_GetScriptFunction/assets/script.meta": {
+    "time": 1654046704392.339
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_GetScriptFunction/assets/script": {
+    "time": 1654046709136.121,
+    "uuid": "b826f73b-b00f-487e-873e-874dcb22ff51",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_GetScriptFunction/assets/script/CTest.ts.meta": {
+    "time": 1653963061031.2996
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_GetScriptFunction/assets/script/CTest.ts": {
+    "time": 1653963061031.174,
+    "uuid": "a002e8e6-d1eb-4bd2-a482-18b0672fdbbe",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_GetScriptFunction/assets/script/GetScriptFunction.ts.meta": {
+    "time": 1653963061032.2195
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_GetScriptFunction/assets/script/GetScriptFunction.ts": {
+    "time": 1654048505722.934,
+    "uuid": "dd7389ad-dcd5-4d0d-a882-f4bd5b750e77",
+    "missing": false
+  }
+}

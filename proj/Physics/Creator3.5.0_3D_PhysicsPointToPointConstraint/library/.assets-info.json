@@ -1,0 +1,146 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/PhysicsPointToPointConstraint.scene": {
+    "time": 1652080924828.727,
+    "uuid": "767a4b48-3b2b-49ce-824b-d0cb53f94709",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/res": {
+    "time": 1648658110996.6006,
+    "uuid": "2146d70c-1b08-4bf0-8363-61b9a73da974",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/script": {
+    "time": 1648658110997.0735,
+    "uuid": "3098e051-9394-4a71-b569-b2374fef9ec4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/res/blue-emissive.mtl": {
+    "time": 1652080924816.587,
+    "uuid": "31b864f0-ee0f-41bb-bb7a-ef2cc0354588",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/res/cannon-ammo.prefab": {
+    "time": 1652080924830.2168,
+    "uuid": "b63e9ce0-5f15-4258-b7fb-e69ba24a00ed",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/res/green-emissive.mtl": {
+    "time": 1652080924818.1736,
+    "uuid": "a3b809c2-9dc1-42e1-8366-b36479ded938",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/res/red-emissive.mtl": {
+    "time": 1652080924818.2383,
+    "uuid": "5b671e39-2678-4c11-8487-e16b23584dc2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/res/yellow-emissive.mtl": {
+    "time": 1652080924828.6853,
+    "uuid": "2afa5504-f8e0-4566-a716-7125c67b783d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/script/PhysicsEnvCheck.ts": {
+    "time": 1648658110997.0037,
+    "uuid": "598e7566-442a-4947-8b7d-03d8fe9d834d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/res.meta": {
+    "time": 1648658110993.8838
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/script.meta": {
+    "time": 1648658110996.7996
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/res/blue-emissive.mtl.meta": {
+    "time": 1652080924826.0237
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/res/green-emissive.mtl.meta": {
+    "time": 1652080924829.3557
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/res/red-emissive.mtl.meta": {
+    "time": 1652080924831.0288
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/script/PhysicsEnvCheck.ts.meta": {
+    "time": 1652080924834.0789
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/res/yellow-emissive.mtl.meta": {
+    "time": 1652080924836.7097
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/PhysicsPointToPointConstraint.scene.meta": {
+    "time": 1652080924838.144
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPointToPointConstraint/assets/res/cannon-ammo.prefab.meta": {
+    "time": 1652080924839.1436
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/PhysicsPointToPointConstraint.scene": {
+    "time": 1653979062470.6697,
+    "uuid": "767a4b48-3b2b-49ce-824b-d0cb53f94709",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/res": {
+    "time": 1653963062266.0264,
+    "uuid": "2146d70c-1b08-4bf0-8363-61b9a73da974",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/script": {
+    "time": 1653963062266.8423,
+    "uuid": "3098e051-9394-4a71-b569-b2374fef9ec4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/res/blue-emissive.mtl": {
+    "time": 1653979062441.2568,
+    "uuid": "31b864f0-ee0f-41bb-bb7a-ef2cc0354588",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/res/cannon-ammo.prefab": {
+    "time": 1653979062441.3894,
+    "uuid": "b63e9ce0-5f15-4258-b7fb-e69ba24a00ed",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/res/green-emissive.mtl": {
+    "time": 1653979062441.436,
+    "uuid": "a3b809c2-9dc1-42e1-8366-b36479ded938",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/res/red-emissive.mtl": {
+    "time": 1653979062441.486,
+    "uuid": "5b671e39-2678-4c11-8487-e16b23584dc2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/res/yellow-emissive.mtl": {
+    "time": 1653979062474.7239,
+    "uuid": "2afa5504-f8e0-4566-a716-7125c67b783d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/script/PhysicsEnvCheck.ts": {
+    "time": 1653963062266.7666,
+    "uuid": "598e7566-442a-4947-8b7d-03d8fe9d834d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/res.meta": {
+    "time": 1653963062264.6138
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/script.meta": {
+    "time": 1653963062266.2295
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/res/blue-emissive.mtl.meta": {
+    "time": 1653979062464.3
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/res/red-emissive.mtl.meta": {
+    "time": 1653979062466.3694
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/res/green-emissive.mtl.meta": {
+    "time": 1653979062467.4558
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/script/PhysicsEnvCheck.ts.meta": {
+    "time": 1653963062266.9014
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/res/cannon-ammo.prefab.meta": {
+    "time": 1653979062475.9238
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/PhysicsPointToPointConstraint.scene.meta": {
+    "time": 1653979062484.8345
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPointToPointConstraint/assets/res/yellow-emissive.mtl.meta": {
+    "time": 1653979062488.5386
+  }
+}

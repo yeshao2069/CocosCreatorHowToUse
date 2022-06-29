@@ -1,0 +1,74 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/SpineBoy.scene": {
+    "time": 1653284994637.1316,
+    "uuid": "e5bd45ee-b961-4aac-8679-c4331918497c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/res": {
+    "time": 1653275796490.0632,
+    "uuid": "f97bac35-7c00-4082-8a8c-a843b7e95100",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/script": {
+    "time": 1653275796510.2405,
+    "uuid": "ccb7d3f5-eb22-4519-a7ff-1374f1ec26b2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/res/spine": {
+    "time": 1653275796490.223,
+    "uuid": "df5b2ca8-9c6f-4c91-adb5-e8e627c77658",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/script/SpineBoyCtrl.ts": {
+    "time": 1653275796510.1704,
+    "uuid": "3b340a60-33aa-4a9e-af2f-0250d9b41e7f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/res/spine/spineboy": {
+    "time": 1653275796509.7737,
+    "uuid": "44b86b5a-f7d2-4788-8ab9-2325faf8e772",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/res/spine/spineboy/spineboy-pro.atlas": {
+    "time": 1653275796490.356,
+    "uuid": "132ed8a9-c936-498b-b899-3f1962ca6fe0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/res/spine/spineboy/spineboy-pro.json": {
+    "time": 1653275796491.663,
+    "uuid": "c9dc6ac0-8a2d-4767-938f-1e7f4e586072",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/res/spine/spineboy/spineboy-pro.png": {
+    "time": 1653275796509.5854,
+    "uuid": "80d7ce6f-7be3-4a7a-a2ea-9c21375d8d13",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/res.meta": {
+    "time": 1653275796489.7744
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/script.meta": {
+    "time": 1653275796509.974
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/res/spine.meta": {
+    "time": 1653275796489.9895
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/res/spine/spineboy.meta": {
+    "time": 1653275796490.1575
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/script/SpineBoyCtrl.ts.meta": {
+    "time": 1653275796510.305
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/res/spine/spineboy/spineboy-pro.atlas.meta": {
+    "time": 1653275796490.4749
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/res/spine/spineboy/spineboy-pro.json.meta": {
+    "time": 1653275796491.8542
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/SpineBoy.scene.meta": {
+    "time": 1653284549908.439
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineBoy/assets/res/spine/spineboy/spineboy-pro.png.meta": {
+    "time": 1653284549922.0234
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BuleMonster",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 77,
+      "height": 77
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 77,
+      "height": 77
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "268951d5-47ed-4fba-9838-6919d49c2c06@6c48a",
+    "packable": true
+  }
+}

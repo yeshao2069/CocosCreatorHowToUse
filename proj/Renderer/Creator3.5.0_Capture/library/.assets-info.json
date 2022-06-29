@@ -1,0 +1,162 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/Script": {
+    "time": 1648658111192.6536,
+    "uuid": "07b8c4ff-d310-411a-bdb9-061f8a0aab52",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/Texture": {
+    "time": 1648658111196.8567,
+    "uuid": "eab97ce0-820d-498c-9e5c-497f7b7af251",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/game.scene": {
+    "time": 1648658111197.725,
+    "uuid": "5a84c214-2faf-40c1-a8e4-adc5dab60795",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/res": {
+    "time": 1648658111200.2876,
+    "uuid": "ea42fe72-1403-4581-b2f6-eb5d243d07d6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/Script/Canvas2Image.ts": {
+    "time": 1648658111190.9092,
+    "uuid": "204eeeb3-c184-4a28-b408-c597b75b0a73",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/Script/ScreenShot.ts": {
+    "time": 1648658111192.554,
+    "uuid": "53fb3a98-7bb7-40b0-b876-51209cd3b590",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/Texture/erase-small.png": {
+    "time": 1648658111193.9275,
+    "uuid": "19b7871f-4c6e-4efc-bee9-40200a944930",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/Texture/pen-small.png": {
+    "time": 1648658111195.517,
+    "uuid": "0349d038-9f5d-488e-a6b9-d949fd956470",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/Texture/singleColor.png": {
+    "time": 1648658111196.7117,
+    "uuid": "8beb93ca-6fc3-4226-9976-8a3cc3f0acff",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/res/page1.jpeg": {
+    "time": 1648658111200.136,
+    "uuid": "d105abd7-eb34-4424-9b03-798b8cc03daf",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/Script.meta": {
+    "time": 1648658111201.0098
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/Texture.meta": {
+    "time": 1648658111193.4077
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/res.meta": {
+    "time": 1648658111198.783
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/Script/Canvas2Image.ts.meta": {
+    "time": 1648658111192.0127
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/Script/ScreenShot.ts.meta": {
+    "time": 1648658111192.973
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/game.scene.meta": {
+    "time": 1648658111198.1875
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/Texture/erase-small.png.meta": {
+    "time": 1648658111194.333
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/Texture/pen-small.png.meta": {
+    "time": 1648658111196.1726
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/Texture/singleColor.png.meta": {
+    "time": 1648658111197.175
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_Capture/assets/res/page1.jpeg.meta": {
+    "time": 1648658111200.611
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/Script": {
+    "time": 1648658111192.6536,
+    "uuid": "07b8c4ff-d310-411a-bdb9-061f8a0aab52",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/Texture": {
+    "time": 1648658111196.8567,
+    "uuid": "eab97ce0-820d-498c-9e5c-497f7b7af251",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/game.scene": {
+    "time": 1653211978071.506,
+    "uuid": "5a84c214-2faf-40c1-a8e4-adc5dab60795",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/res": {
+    "time": 1648658111200.2876,
+    "uuid": "ea42fe72-1403-4581-b2f6-eb5d243d07d6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/Script/Canvas2Image.ts": {
+    "time": 1648658111190.9092,
+    "uuid": "204eeeb3-c184-4a28-b408-c597b75b0a73",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/Script/ScreenShot.ts": {
+    "time": 1648658111192.554,
+    "uuid": "53fb3a98-7bb7-40b0-b876-51209cd3b590",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/Texture/erase-small.png": {
+    "time": 1648658111193.9275,
+    "uuid": "19b7871f-4c6e-4efc-bee9-40200a944930",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/Texture/pen-small.png": {
+    "time": 1648658111195.517,
+    "uuid": "0349d038-9f5d-488e-a6b9-d949fd956470",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/Texture/singleColor.png": {
+    "time": 1648658111196.7117,
+    "uuid": "8beb93ca-6fc3-4226-9976-8a3cc3f0acff",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/res/page1.jpeg": {
+    "time": 1648658111200.136,
+    "uuid": "d105abd7-eb34-4424-9b03-798b8cc03daf",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/Script.meta": {
+    "time": 1648658111201.0098
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/Texture.meta": {
+    "time": 1648658111193.4077
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/res.meta": {
+    "time": 1648658111198.783
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/Script/Canvas2Image.ts.meta": {
+    "time": 1648658111192.0127
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/Script/ScreenShot.ts.meta": {
+    "time": 1648658111192.973
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/game.scene.meta": {
+    "time": 1653211978089.9944
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/Texture/pen-small.png.meta": {
+    "time": 1653211978099.6238
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/Texture/erase-small.png.meta": {
+    "time": 1653211978102.9158
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/Texture/singleColor.png.meta": {
+    "time": 1653211978106.3738
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_Capture/assets/res/page1.jpeg.meta": {
+    "time": 1653211978143.6128
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/DragonBonesAttach.scene": {
+    "time": 1653275692796.9136,
+    "uuid": "f680f696-538a-4063-b42c-0af1c22a6084",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/res": {
+    "time": 1653273105151.46,
+    "uuid": "415ef236-9126-4a16-ac56-fc5b8f657851",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/script": {
+    "time": 1653275347954.7893,
+    "uuid": "05c56e4b-d65f-4d3b-b0b5-ff4333e292da",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/res/NewDragonTest.json": {
+    "time": 1653273105140.7253,
+    "uuid": "b7608bc2-3ca5-4743-a52f-76847c080a63",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/res/Sprite.prefab": {
+    "time": 1653273105141.1165,
+    "uuid": "e0bc1836-44b8-48a8-8c25-5479a0ad43cd",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/res/star.png": {
+    "time": 1653273105141.4111,
+    "uuid": "652d8016-e937-4b61-bbdf-95aacb2b950a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/res/texture.json": {
+    "time": 1653273105141.6396,
+    "uuid": "e57fddb2-8def-4c1d-81eb-3b1e44620686",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/res/texture.png": {
+    "time": 1653273105151.2935,
+    "uuid": "982c7932-8385-4fb1-a856-4976212806c2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/script/DragonBonesAttach.ts": {
+    "time": 1653275690531.1526,
+    "uuid": "bd83d1f4-064b-47ae-bc2a-65513658839b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/res.meta": {
+    "time": 1653273105140.3572
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/script.meta": {
+    "time": 1653273105151.7817
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/res/Sprite.prefab.meta": {
+    "time": 1653273105141.2485
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/res/NewDragonTest.json.meta": {
+    "time": 1653273105140.8665
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/DragonBonesAttach.scene.meta": {
+    "time": 1653273105140.2449
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/script/DragonBonesAttach.ts.meta": {
+    "time": 1653273105152.2014
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/res/texture.png.meta": {
+    "time": 1653273105151.6113
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/res/star.png.meta": {
+    "time": 1653273105141.5254
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBonesAttach/assets/res/texture.json.meta": {
+    "time": 1653273105141.7568
+  }
+}

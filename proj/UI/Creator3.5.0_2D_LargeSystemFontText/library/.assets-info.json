@@ -1,0 +1,34 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_LargeSystemFontText/assets/LargeSystemFontText.scene": {
+    "time": 1653203332008.1226,
+    "uuid": "00920546-ee44-4b66-ba5e-4f9dfdea861a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_LargeSystemFontText/assets/LargeSystemFontText.ts": {
+    "time": 1648658111392.1204,
+    "uuid": "0c84530e-3ec6-43cd-88ec-dd62f0efbb56",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_LargeSystemFontText/assets/res": {
+    "time": 1648658111393.3726,
+    "uuid": "ca61ea11-5b8c-41cb-b6db-0a650ffa082d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_LargeSystemFontText/assets/res/zoomout.anim": {
+    "time": 1648658111393.2903,
+    "uuid": "bf9f1d2d-cc90-4593-9bec-ee13a2ffc9ba",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_LargeSystemFontText/assets/res.meta": {
+    "time": 1648658111392.7246
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_LargeSystemFontText/assets/LargeSystemFontText.ts.meta": {
+    "time": 1648658111392.583
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_LargeSystemFontText/assets/res/zoomout.anim.meta": {
+    "time": 1648658111393.6765
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_LargeSystemFontText/assets/LargeSystemFontText.scene.meta": {
+    "time": 1653203267386.1687
+  }
+}

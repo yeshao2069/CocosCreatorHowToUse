@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_mermaid",
+    "atlas": "",
+    "rect": {
+      "x": 33,
+      "y": 35,
+      "width": 92,
+      "height": 96
+    },
+    "offset": {
+      "x": 4,
+      "y": -8
+    },
+    "originalSize": {
+      "width": 150,
+      "height": 150
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "41a05f93-118a-4070-9f8b-eb81d9e70334@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/SpriteFrameAnimation.scene": {
+    "time": 1653212785064.4065,
+    "uuid": "dcc2d475-faf1-44e4-acda-09737c617d13",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/res": {
+    "time": 1648658109345.335,
+    "uuid": "9e1b131f-539e-42a2-a667-d0c1a95e1128",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/res/sheep.plist": {
+    "time": 1648658109341.399,
+    "uuid": "cd935b82-0280-4a04-95b4-1664fcec362b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/res/sheep.png": {
+    "time": 1648658109343.283,
+    "uuid": "b6fc9602-f01d-4150-ab7d-d8e8816bbecc",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/res/sheep_jump.anim": {
+    "time": 1648658109344.1016,
+    "uuid": "5d46b53f-f633-4ffb-b578-1fe4f2a0a032",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/res/sheep_run.anim": {
+    "time": 1648658109344.7668,
+    "uuid": "58101039-63ff-4888-b55d-ee712b0935b5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/res/singleColor.png": {
+    "time": 1648658109345.251,
+    "uuid": "14425ce7-f382-40ec-bf86-74da51664b98",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/res.meta": {
+    "time": 1648658109340.8296
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/res/sheep_jump.anim.meta": {
+    "time": 1648658109344.4558
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/res/sheep_run.anim.meta": {
+    "time": 1648658109345.0857
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/SpriteFrameAnimation.scene.meta": {
+    "time": 1653212728254.736
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/res/sheep.png.meta": {
+    "time": 1653212728353.836
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/res/singleColor.png.meta": {
+    "time": 1653212728358.2441
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/res/sheep.plist.meta": {
+    "time": 1648658109341.8108
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/script.meta": {
+    "time": 1653212780405.5623
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/script": {
+    "time": 1653212782396.7625,
+    "uuid": "0fb9cd4c-3626-46ac-994b-e1cd23857b76",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/script/SheepAnimationCtrl.ts.meta": {
+    "time": 1648658109339.7722
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_SpriteFrameAnimation/assets/script/SheepAnimationCtrl.ts": {
+    "time": 1648658109339.2678,
+    "uuid": "42181c99-48c5-421d-b1fc-2ac48c6bb858",
+    "missing": false
+  }
+}

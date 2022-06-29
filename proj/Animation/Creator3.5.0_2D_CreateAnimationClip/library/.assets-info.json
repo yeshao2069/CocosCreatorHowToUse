@@ -1,0 +1,82 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/CreateAnimationClip.scene": {
+    "time": 1653213130497.6802,
+    "uuid": "256944e3-fb7b-481d-92bc-49abbd63dc67",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/res": {
+    "time": 1653213145819.6797,
+    "uuid": "9c30fd67-5516-488a-a705-6b90ad1a563a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/resources": {
+    "time": 1648658109329.2651,
+    "uuid": "3ee9df6e-ec14-482c-84d1-1ccac9ee3cb4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/res/singleColor.png": {
+    "time": 1648658109327.9392,
+    "uuid": "1b6a0b3c-2a0e-410a-95ab-53dc9a03a360",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/resources/sheep": {
+    "time": 1648658109330.4048,
+    "uuid": "d368e3c0-432d-4017-a1c8-136daf88b7ca",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/resources/sheep/atlas.plist": {
+    "time": 1648658109329.3984,
+    "uuid": "ae9e4b41-d749-46bd-8e54-92aa6292fec0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/resources/sheep/atlas.png": {
+    "time": 1648658109330.2727,
+    "uuid": "0040ef84-ea1a-47a1-ab86-27420ea7619b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/res.meta": {
+    "time": 1648658109327.7087
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/resources.meta": {
+    "time": 1648658109328.9036
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/resources/sheep.meta": {
+    "time": 1648658109329.1304
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/CreateAnimationClip.scene.meta": {
+    "time": 1653213130527.8667
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/res/singleColor.png.meta": {
+    "time": 1653213130540.2502
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/resources/sheep/atlas.png.meta": {
+    "time": 1653213130547.9048
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/resources/sheep/atlas.plist.meta": {
+    "time": 1648658109329.5476
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/res/sheep-run.anim.meta": {
+    "time": 1648658109332.0261
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/res/sheep-run.anim": {
+    "time": 1648658109331.5513,
+    "uuid": "f86382a9-10c9-4374-ae4d-8e7c3c36a6dd",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/script.meta": {
+    "time": 1653213176096.1895
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/script": {
+    "time": 1653213178611.907,
+    "uuid": "72cb2cdd-a7f8-44fb-b1f3-7cdf518ca298",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/script/CreateClipCtrl.ts.meta": {
+    "time": 1648658109327.5159
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_CreateAnimationClip/assets/script/CreateClipCtrl.ts": {
+    "time": 1648658109327.214,
+    "uuid": "444f6757-c300-4c43-9fca-e22a038c15a7",
+    "missing": false
+  }
+}

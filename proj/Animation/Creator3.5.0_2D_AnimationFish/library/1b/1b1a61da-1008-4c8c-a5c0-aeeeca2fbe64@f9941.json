@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mermaid-12",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    "offset": {
+      "x": -1,
+      "y": 16.5
+    },
+    "originalSize": {
+      "width": 452,
+      "height": 483
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "1b1a61da-1008-4c8c-a5c0-aeeeca2fbe64@6c48a",
+    "packable": true
+  }
+}

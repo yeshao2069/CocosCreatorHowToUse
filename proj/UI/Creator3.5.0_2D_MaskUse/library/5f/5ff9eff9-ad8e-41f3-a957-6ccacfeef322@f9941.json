@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cocos_creator",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 480
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 800,
+      "height": 480
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5ff9eff9-ad8e-41f3-a957-6ccacfeef322@6c48a",
+    "packable": true
+  }
+}

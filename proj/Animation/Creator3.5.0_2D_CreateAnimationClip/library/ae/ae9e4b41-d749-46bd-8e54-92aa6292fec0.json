@@ -1,0 +1,16 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "atlas",
+    "spriteFrames": [
+      "sheep_run_0",
+      "ae9e4b41-d749-46bd-8e54-92aa6292fec0@e0c75",
+      "sheep_run_1",
+      "ae9e4b41-d749-46bd-8e54-92aa6292fec0@a8883",
+      "sheep_run_2",
+      "ae9e4b41-d749-46bd-8e54-92aa6292fec0@6a8f4",
+      "sheep_run_3",
+      "ae9e4b41-d749-46bd-8e54-92aa6292fec0@07ea9"
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleRenderer/assets/ParticleRenderer.scene": {
+    "time": 1648658110630.9163,
+    "uuid": "265c03ca-808e-4c10-910c-01c83efc1d40",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleRenderer/assets/res": {
+    "time": 1648658110641.316,
+    "uuid": "40736304-7c8b-4abe-a708-2d32d155d3e2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleRenderer/assets/script": {
+    "time": 1648658110647.3704,
+    "uuid": "4f87bc01-85db-478e-99b3-1e7a0e41ab91",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleRenderer/assets/res/20190711114141.png": {
+    "time": 1648658110637.2395,
+    "uuid": "5e54b489-5603-40da-bf8e-3324372aa1db",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleRenderer/assets/res/meshrenderer.mtl": {
+    "time": 1648658110641.2324,
+    "uuid": "c8669fe6-3e4d-4cff-91c3-5caf2d1598b4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleRenderer/assets/script/ShowTips.ts": {
+    "time": 1648658110641.9353,
+    "uuid": "8d9c784e-f0c1-4579-ba6b-164ca05124c6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleRenderer/assets/script/first-person-camera.ts": {
+    "time": 1648658110646.9426,
+    "uuid": "4843b7b1-1ec7-4210-8875-44a829a4517d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleRenderer/assets/res.meta": {
+    "time": 1648658110633.1248
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleRenderer/assets/script.meta": {
+    "time": 1648658110641.7358
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleRenderer/assets/script/ShowTips.ts.meta": {
+    "time": 1648658110646.2756
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleRenderer/assets/script/first-person-camera.ts.meta": {
+    "time": 1648658110647.7227
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleRenderer/assets/res/meshrenderer.mtl.meta": {
+    "time": 1648658110641.5764
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleRenderer/assets/ParticleRenderer.scene.meta": {
+    "time": 1648658110632.9314
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleRenderer/assets/res/20190711114141.png.meta": {
+    "time": 1648658110641.0647
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleRenderer/assets/ParticleRenderer.scene": {
+    "time": 1654078182258.3171,
+    "uuid": "265c03ca-808e-4c10-910c-01c83efc1d40",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleRenderer/assets/res": {
+    "time": 1653963061494.501,
+    "uuid": "40736304-7c8b-4abe-a708-2d32d155d3e2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleRenderer/assets/script": {
+    "time": 1653963061498.5432,
+    "uuid": "4f87bc01-85db-478e-99b3-1e7a0e41ab91",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleRenderer/assets/res/20190711114141.png": {
+    "time": 1653963061493.4514,
+    "uuid": "5e54b489-5603-40da-bf8e-3324372aa1db",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleRenderer/assets/res/meshrenderer.mtl": {
+    "time": 1654077978868.3757,
+    "uuid": "c8669fe6-3e4d-4cff-91c3-5caf2d1598b4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleRenderer/assets/script/ShowTips.ts": {
+    "time": 1653963061494.883,
+    "uuid": "8d9c784e-f0c1-4579-ba6b-164ca05124c6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleRenderer/assets/script/first-person-camera.ts": {
+    "time": 1653963061498.3442,
+    "uuid": "4843b7b1-1ec7-4210-8875-44a829a4517d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleRenderer/assets/res.meta": {
+    "time": 1653963061492.3767
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleRenderer/assets/script.meta": {
+    "time": 1653963061494.6868
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleRenderer/assets/script/ShowTips.ts.meta": {
+    "time": 1653963061498.1917
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleRenderer/assets/script/first-person-camera.ts.meta": {
+    "time": 1653963061498.6008
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleRenderer/assets/res/meshrenderer.mtl.meta": {
+    "time": 1654077978880.879
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleRenderer/assets/ParticleRenderer.scene.meta": {
+    "time": 1654077979426.4
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleRenderer/assets/res/20190711114141.png.meta": {
+    "time": 1654077979439.8906
+  }
+}

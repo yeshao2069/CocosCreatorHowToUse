@@ -1,0 +1,48 @@
+{
+  "uuid": {
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsMeshCollider/assets/res/green-emissive.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsMeshCollider/assets/res/suzanne/Materials_Suzanne/Suzanne.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsMeshCollider/assets/res/green-emissive.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsMeshCollider/assets/res/suzanne/Materials_Suzanne/Suzanne.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  },
+  "path": {
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsMeshCollider/assets/res/duck/Duck.gltf": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsMeshCollider/assets/res/duck/Duck0.bin"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsMeshCollider/assets/res/duck/Duck.gltf@e39f7": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsMeshCollider/assets/res/duck/DuckCM.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsMeshCollider/assets/res/suzanne/Suzanne.gltf": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsMeshCollider/assets/res/suzanne/Suzanne.bin"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsMeshCollider/assets/res/suzanne/Suzanne.gltf@3effa": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsMeshCollider/assets/res/suzanne/Suzanne_BaseColor.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsMeshCollider/assets/res/suzanne/Suzanne.gltf@221a5": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsMeshCollider/assets/res/suzanne/Suzanne_MetallicRoughness.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsMeshCollider/assets/res/suzanne/Suzanne.gltf": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsMeshCollider/assets/res/suzanne/Suzanne.bin"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsMeshCollider/assets/res/suzanne/Suzanne.gltf@3effa": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsMeshCollider/assets/res/suzanne/Suzanne_BaseColor.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsMeshCollider/assets/res/suzanne/Suzanne.gltf@221a5": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsMeshCollider/assets/res/suzanne/Suzanne_MetallicRoughness.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsMeshCollider/assets/res/duck/Duck.gltf": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsMeshCollider/assets/res/duck/Duck0.bin"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsMeshCollider/assets/res/duck/Duck.gltf@e39f7": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsMeshCollider/assets/res/duck/DuckCM.png"
+    ]
+  }
+}

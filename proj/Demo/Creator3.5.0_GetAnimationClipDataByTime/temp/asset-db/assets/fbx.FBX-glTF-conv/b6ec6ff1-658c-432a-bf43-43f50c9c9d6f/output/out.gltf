@@ -1,0 +1,209 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        1.0,
+        2.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -7.166659369358015e-15,
+        -1.0
+      ],
+      "name": "act1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 24,
+      "name": "act1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 24,
+      "name": "act1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 36,
+      "name": "act1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1001,
+      "max": [
+        33.33333206176758
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "act1/Trs/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1001,
+      "name": "act1/translation/Output",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1001,
+      "name": "act1/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 1001,
+      "name": "act1/scale/Output",
+      "type": "VEC3"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 0,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 0,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 0,
+            "path": "scale"
+          }
+        }
+      ],
+      "name": "Take 001",
+      "samplers": [
+        {
+          "input": 4,
+          "output": 5
+        },
+        {
+          "input": 4,
+          "output": 6
+        },
+        {
+          "input": 4,
+          "output": 7
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 768,
+      "byteStride": 32,
+      "name": "act1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 144,
+      "byteOffset": 768
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4004,
+      "byteOffset": 912
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12012,
+      "byteOffset": 4916
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16016,
+      "byteOffset": 16928
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12012,
+      "byteOffset": 32944
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 44956,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 30.0
+    }
+  },
+  "meshes": [
+    {
+      "name": "act1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "act1",
+      "rotation": [
+        -1.711291368282201e-15,
+        1.0,
+        -2.1855694143368964e-08,
+        -7.549790126404332e-08
+      ],
+      "translation": [
+        813.1077880859375,
+        1.2000000476837158,
+        5619.0185546875
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

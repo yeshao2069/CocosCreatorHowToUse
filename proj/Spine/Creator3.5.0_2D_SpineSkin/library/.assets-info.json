@@ -1,0 +1,74 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/SpineSkin.scene": {
+    "time": 1653277925153.8015,
+    "uuid": "bc5d12b6-9b8c-4669-9e12-b822a83f71b1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/res": {
+    "time": 1653277925154.6548,
+    "uuid": "309cb09a-d06d-45a1-bad8-18841812a81b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/script": {
+    "time": 1653277925162.1377,
+    "uuid": "fbbe5cd7-ecda-49c5-9db5-46d9878c474c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/res/spine": {
+    "time": 1653277925154.8442,
+    "uuid": "fadcb757-3bbf-4733-9f98-bb445987dda4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/script/SpineSkin.ts": {
+    "time": 1653277925162.053,
+    "uuid": "8f8f866e-7d7c-403e-abc0-04843dc19c7b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/res/spine/girl": {
+    "time": 1653277925161.5173,
+    "uuid": "30ed7865-746b-4686-8a5f-482ee130436c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/res/spine/girl/mix-and-match-pro.atlas": {
+    "time": 1653277925155.0144,
+    "uuid": "503f7833-ecd0-452b-b801-21de87f40b20",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/res/spine/girl/mix-and-match-pro.json": {
+    "time": 1653277925157.487,
+    "uuid": "56e66b8c-8bb7-4ed3-bd12-6757b38c7915",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/res/spine/girl/mix-and-match-pro.png": {
+    "time": 1653277925161.373,
+    "uuid": "5c82f5c2-2901-4211-8b92-ac556b1ba3eb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/res.meta": {
+    "time": 1653277925154.2832
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/script.meta": {
+    "time": 1653277925161.8481
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/res/spine.meta": {
+    "time": 1653277925154.5852
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/res/spine/girl.meta": {
+    "time": 1653277925154.7788
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/script/SpineSkin.ts.meta": {
+    "time": 1653277925162.2034
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/res/spine/girl/mix-and-match-pro.atlas.meta": {
+    "time": 1653277925155.1584
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/res/spine/girl/mix-and-match-pro.json.meta": {
+    "time": 1653277925158.9883
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/SpineSkin.scene.meta": {
+    "time": 1653277925154.1494
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_SpineSkin/assets/res/spine/girl/mix-and-match-pro.png.meta": {
+    "time": 1653277925161.687
+  }
+}

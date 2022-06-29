@@ -1,0 +1,1439 @@
+{
+  "modules": {
+    "cce:/internal/x/cc": {
+      "mTimestamp": 18657.737299999222,
+      "chunkId": "06905a76530cf57ee019d9d8bcfb507c2d037fd3",
+      "imports": [
+        {
+          "value": "cce:/internal/x/cc-fu/base",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 14
+            },
+            "end": {
+              "line": 3,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/3d",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 14
+            },
+            "end": {
+              "line": 4,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/animation",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/skeletal-animation",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 14
+            },
+            "end": {
+              "line": 6,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/2d",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 14
+            },
+            "end": {
+              "line": 7,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/ui",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 14
+            },
+            "end": {
+              "line": 8,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/particle",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 14
+            },
+            "end": {
+              "line": 9,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/particle-2d",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 14
+            },
+            "end": {
+              "line": 10,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-framework",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 14
+            },
+            "end": {
+              "line": 11,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 14
+            },
+            "end": {
+              "line": 12,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/intersection-2d",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 14
+            },
+            "end": {
+              "line": 13,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/primitive",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 14
+            },
+            "end": {
+              "line": 14,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/profiler",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 14
+            },
+            "end": {
+              "line": 15,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/audio",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 14
+            },
+            "end": {
+              "line": 16,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/video",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 14
+            },
+            "end": {
+              "line": 17,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/terrain",
+          "resolved": "__unresolved_17",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 14
+            },
+            "end": {
+              "line": 18,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/webview",
+          "resolved": "__unresolved_18",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 14
+            },
+            "end": {
+              "line": 19,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tween",
+          "resolved": "__unresolved_19",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 14
+            },
+            "end": {
+              "line": 20,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tiled-map",
+          "resolved": "__unresolved_20",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 14
+            },
+            "end": {
+              "line": 21,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/spine",
+          "resolved": "__unresolved_21",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 14
+            },
+            "end": {
+              "line": 22,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/dragon-bones",
+          "resolved": "__unresolved_22",
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 14
+            },
+            "end": {
+              "line": 23,
+              "column": 50
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/base"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/3d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/skeletal-animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/ui"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/primitive"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/profiler"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/audio"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/video"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/terrain"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/webview"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tween"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/spine"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/x/prerequisite-imports": {
+      "mTimestamp": 18695.542499998584,
+      "chunkId": "c7b3630852a39c519832234211fb0d553b547b1d",
+      "imports": [
+        {
+          "value": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/instacingMaterial.ts",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 35
+            },
+            "end": {
+              "line": 5,
+              "column": 177
+            }
+          }
+        },
+        {
+          "value": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/mapManager.ts",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 193
+            },
+            "end": {
+              "line": 5,
+              "column": 328
+            }
+          }
+        },
+        {
+          "value": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/player.ts",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 344
+            },
+            "end": {
+              "line": 5,
+              "column": 475
+            }
+          }
+        },
+        {
+          "value": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/playerManager.ts",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 491
+            },
+            "end": {
+              "line": 5,
+              "column": 629
+            }
+          }
+        },
+        {
+          "value": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/config/storageManager.ts",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 645
+            },
+            "end": {
+              "line": 5,
+              "column": 795
+            }
+          }
+        },
+        {
+          "value": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/constants.ts",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 811
+            },
+            "end": {
+              "line": 5,
+              "column": 954
+            }
+          }
+        },
+        {
+          "value": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/gameLogic.ts",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 970
+            },
+            "end": {
+              "line": 5,
+              "column": 1113
+            }
+          }
+        },
+        {
+          "value": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/resManager.ts",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1129
+            },
+            "end": {
+              "line": 5,
+              "column": 1273
+            }
+          }
+        },
+        {
+          "value": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/subPackageManager.ts",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1289
+            },
+            "end": {
+              "line": 5,
+              "column": 1440
+            }
+          }
+        },
+        {
+          "value": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/ui/main/confirmBox.ts",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1456
+            },
+            "end": {
+              "line": 5,
+              "column": 1593
+            }
+          }
+        },
+        {
+          "value": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/ui/main/mainUI.ts",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1609
+            },
+            "end": {
+              "line": 5,
+              "column": 1742
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/instacingMaterial.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/mapManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/player.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/playerManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/config/storageManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/constants.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/gameLogic.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/resManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/subPackageManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/ui/main/confirmBox.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/ui/main/mainUI.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/instacingMaterial.ts": {
+      "mTimestamp": {
+        "mtime": 1640661137910.5042,
+        "uuid": "bcf19597-43f1-4d4a-869a-3c4a8f15b61b"
+      },
+      "chunkId": "afad8ff29b21bd48c0e21496b927ce10a9690f74",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 94
+            },
+            "end": {
+              "line": 1,
+              "column": 98
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/mapManager.ts": {
+      "mTimestamp": {
+        "mtime": 1640661137910.8887,
+        "uuid": "a324f04d-602b-4db7-a025-c88962e16e49"
+      },
+      "chunkId": "f37fc4c72d1385e4a98c8038f2c4c33608569449",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 57
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        },
+        {
+          "value": "../framework/util/resManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 23
+            },
+            "end": {
+              "line": 3,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/resManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/code-quality/cr.mjs": {
+      "mTimestamp": 1653205894012,
+      "chunkId": "84741ad843cea9a440c5d8c2d379669b6551400d",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
+    },
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/resManager.ts": {
+      "mTimestamp": {
+        "mtime": 1640661137913.9534,
+        "uuid": "1716fd45-e58b-4ed5-ac76-f3e6751b9c36"
+      },
+      "chunkId": "7074fd86f93f1ab7dd0a8b55ad047ffc4e11a6f3",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/player.ts": {
+      "mTimestamp": {
+        "mtime": 1640661137911.2612,
+        "uuid": "62579375-7c57-4875-b693-344759725aa3"
+      },
+      "chunkId": "8bf90a0d89a3a0467ef0116b185bbcc3387027d6",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 125
+            },
+            "end": {
+              "line": 1,
+              "column": 129
+            }
+          }
+        },
+        {
+          "value": "./instacingMaterial",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 34
+            },
+            "end": {
+              "line": 3,
+              "column": 55
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/instacingMaterial.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/playerManager.ts": {
+      "mTimestamp": {
+        "mtime": 1641907859763.4263,
+        "uuid": "a4e784fe-db66-4e5b-b498-938f9bb0ca71"
+      },
+      "chunkId": "f69fa9c0577d51488e8d38b1ebc2bf432847f7c2",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 181
+            },
+            "end": {
+              "line": 1,
+              "column": 185
+            }
+          }
+        },
+        {
+          "value": "./player",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 23
+            },
+            "end": {
+              "line": 2,
+              "column": 33
+            }
+          }
+        },
+        {
+          "value": "../framework/util/resManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 23
+            },
+            "end": {
+              "line": 4,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../framework/config/storageManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 31
+            },
+            "end": {
+              "line": 5,
+              "column": 67
+            }
+          }
+        },
+        {
+          "value": "../framework/util/gameLogic",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 26
+            },
+            "end": {
+              "line": 6,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "../framework/util/constants",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 26
+            },
+            "end": {
+              "line": 7,
+              "column": 55
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/player.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/resManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/config/storageManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/gameLogic.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/constants.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/config/storageManager.ts": {
+      "mTimestamp": {
+        "mtime": 1640661137912.571,
+        "uuid": "4adea3f3-80b4-4ce5-8775-45e86063e44f"
+      },
+      "chunkId": "2e17da163dad477021a9925012813148342685a9",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/gameLogic.ts": {
+      "mTimestamp": {
+        "mtime": 1640661137913.573,
+        "uuid": "da479318-8997-466e-b964-0d22a271ab35"
+      },
+      "chunkId": "857c1d76f36737551a57f2035b0474d16159487d",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/constants.ts": {
+      "mTimestamp": {
+        "mtime": 1640661137913.2175,
+        "uuid": "be9ddcb9-e30a-44dc-9286-14a4e4c0e767"
+      },
+      "chunkId": "ba20af332b2bf7ac2a2781eef131436565eb1e88",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/subPackageManager.ts": {
+      "mTimestamp": {
+        "mtime": 1640661137914.3162,
+        "uuid": "bdff3100-98cf-4df2-87a9-2078929707b6"
+      },
+      "chunkId": "d7ae22fb9231c59d1986e6b4f8b01ce934e0f2e7",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/ui/main/confirmBox.ts": {
+      "mTimestamp": {
+        "mtime": 1640661137915.2202,
+        "uuid": "424b9496-6893-412c-912a-90712aae7ce8"
+      },
+      "chunkId": "a30c84c63072f3f636c18fdb28156bb1c36dab22",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 60
+            },
+            "end": {
+              "line": 1,
+              "column": 64
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/ui/main/mainUI.ts": {
+      "mTimestamp": {
+        "mtime": 1644313067875.5579,
+        "uuid": "b58f445c-9870-4114-82ce-1b9ab1004bc3"
+      },
+      "chunkId": "7e65c8ca8696889832faeab2599e20111e53c63f",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 103
+            },
+            "end": {
+              "line": 1,
+              "column": 107
+            }
+          }
+        },
+        {
+          "value": "../../fight/playerManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 30
+            },
+            "end": {
+              "line": 2,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "./confirmBox",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 27
+            },
+            "end": {
+              "line": 3,
+              "column": 41
+            }
+          }
+        },
+        {
+          "value": "../../framework/util/constants",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 26
+            },
+            "end": {
+              "line": 4,
+              "column": 58
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/fight/playerManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/ui/main/confirmBox.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/script/framework/util/constants.ts"
+          },
+          "messages": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/scene.scene.meta": {
+    "time": 1649770926375.5288
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/scene.scene": {
+    "time": 1649771964190.5645,
+    "uuid": "142c1fe9-0bfa-4b71-854c-f727f6b9745c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res.meta": {
+    "time": 1649770930988.536
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res": {
+    "time": 1649771516078.381,
+    "uuid": "647a0039-8f5e-4612-938f-fd2039647186",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids.meta": {
+    "time": 1649771071836.9426
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-1.png.meta": {
+    "time": 1649771087484.0903
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-10.png.meta": {
+    "time": 1649771087241.6929
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-11.png.meta": {
+    "time": 1649771087081.2378
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-12.png.meta": {
+    "time": 1649771087093.1382
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-13.png.meta": {
+    "time": 1649771087081.9922
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-14.png.meta": {
+    "time": 1649771087072.6711
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-15.png.meta": {
+    "time": 1649771087084.1794
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-2.png.meta": {
+    "time": 1649771087399.8586
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-3.png.meta": {
+    "time": 1649771087401.7395
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-4.png.meta": {
+    "time": 1649771087400.554
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-5.png.meta": {
+    "time": 1649771087392.8086
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-6.png.meta": {
+    "time": 1649771087242.4543
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-7.png.meta": {
+    "time": 1649771087252.7446
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-8.png.meta": {
+    "time": 1649771087390.2952
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-9.png.meta": {
+    "time": 1649771087253.1172
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids": {
+    "time": 1649771132798.3132,
+    "uuid": "5b19be1e-0f56-4438-8835-d27905462cad",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-12.png": {
+    "time": 1382741486000,
+    "uuid": "1b1a61da-1008-4c8c-a5c0-aeeeca2fbe64",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-13.png": {
+    "time": 1382741488000,
+    "uuid": "c0885b3b-2e9e-4015-8bcd-d130f564d196",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-10.png": {
+    "time": 1382741502000,
+    "uuid": "9eca84e1-155a-4642-a6b8-71951e214331",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-1.png": {
+    "time": 1382741492000,
+    "uuid": "917bc072-6d26-455a-b7fa-b1ef8671baa0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-11.png": {
+    "time": 1382741502000,
+    "uuid": "c4979b90-997d-4512-a538-84b227744574",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-14.png": {
+    "time": 1382741488000,
+    "uuid": "67bd343b-af71-459e-8f6e-5c150b2b4cf9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-15.png": {
+    "time": 1382741490000,
+    "uuid": "7928c422-92cb-4360-895a-89bc41f3398b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-2.png": {
+    "time": 1382741484000,
+    "uuid": "beb1df1c-e901-4d19-8c7f-1eabe0565bf9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-3.png": {
+    "time": 1382741484000,
+    "uuid": "112d9625-0964-427b-9764-a3b6a21e1976",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-4.png": {
+    "time": 1382741494000,
+    "uuid": "45067d96-3318-40ce-b87c-5bc90bfe1685",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-7.png": {
+    "time": 1382741498000,
+    "uuid": "cfc88fd7-6ee1-43f0-953d-bf15e60a45b9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-5.png": {
+    "time": 1382741494000,
+    "uuid": "bc1c69bf-72ef-4778-bd21-642f9ca23805",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-6.png": {
+    "time": 1382741496000,
+    "uuid": "43d206d4-e92e-406d-a470-f4de83c93c96",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-8.png": {
+    "time": 1382741498000,
+    "uuid": "41c8abbd-f37e-4c68-b059-a017ccf69a82",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaid-9.png": {
+    "time": 1382741500000,
+    "uuid": "0851a244-9941-47e1-a93c-c9c2041a87bd",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaids.anim.meta": {
+    "time": 1649771132800.6243
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids/mermaids.anim": {
+    "time": 1649771321871.049,
+    "uuid": "400f2912-fc3e-4817-a339-220656cfc512",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2.meta": {
+    "time": 1649771516083.404
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-1.png.meta": {
+    "time": 1649771530882.9805
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-10.png.meta": {
+    "time": 1649771531114.1257
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-11.png.meta": {
+    "time": 1649771531212.233
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-12.png.meta": {
+    "time": 1649771531213.1868
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-13.png.meta": {
+    "time": 1649771531362.2588
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-14.png.meta": {
+    "time": 1649771531292.122
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-15.png.meta": {
+    "time": 1649771531360.6628
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-16.png.meta": {
+    "time": 1649771531415.4343
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-3.png.meta": {
+    "time": 1649771530878.1333
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-4.png.meta": {
+    "time": 1649771531112.363
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-6.png.meta": {
+    "time": 1649771530884.2537
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-7.png.meta": {
+    "time": 1649771531112.776
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-8.png.meta": {
+    "time": 1649771530955.6267
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-9.png.meta": {
+    "time": 1649771530970.6062
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2": {
+    "time": 1649771665120.594,
+    "uuid": "561f9988-1a47-4be2-9349-175dbd1ef2c1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-1.png": {
+    "time": 1382741452000,
+    "uuid": "47483c1c-5808-4be0-92ef-e4251bc66f3d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-13.png": {
+    "time": 1382741446000,
+    "uuid": "bfad7bb1-dc30-4983-a923-2a94748fb653",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-10.png": {
+    "time": 1382741458000,
+    "uuid": "ee796ff1-d8bd-4c9a-affb-eef14ab630a2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-12.png": {
+    "time": 1382741460000,
+    "uuid": "f43ebd9b-61df-46a7-940a-eff77fe69236",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-11.png": {
+    "time": 1382741460000,
+    "uuid": "b8725ac5-ff7d-4937-a035-6ff7610dee42",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-14.png": {
+    "time": 1382741448000,
+    "uuid": "a05841cf-a0cd-4b3f-93ea-79786ff42322",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-15.png": {
+    "time": 1382741448000,
+    "uuid": "ecc0b781-0209-459c-9a22-77fa09aae85f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-16.png": {
+    "time": 1382741450000,
+    "uuid": "2e23cbdf-f777-4ff5-8033-761bf5e7532b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-3.png": {
+    "time": 1382741444000,
+    "uuid": "570e8ef4-de04-45c6-9019-837113b7d55c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-4.png": {
+    "time": 1382741452000,
+    "uuid": "52962929-68e9-4704-8927-35f31003ef0f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-6.png": {
+    "time": 1382741454000,
+    "uuid": "e0e5bc04-9875-4fea-bdb5-61efe647356f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-7.png": {
+    "time": 1382741454000,
+    "uuid": "b53f978f-1dd7-4019-9254-7b215493c896",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-9.png": {
+    "time": 1382741456000,
+    "uuid": "66be024e-e447-449d-a90d-08b5da5c798a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-8.png": {
+    "time": 1382741456000,
+    "uuid": "8e209b47-854a-41a6-bb81-bcce434cd6ee",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2.anim.meta": {
+    "time": 1649771558006.9854
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2.anim": {
+    "time": 1649771804462.4556,
+    "uuid": "f9dbfeef-6b72-4b87-8266-28f8eed03ff2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-5.png.meta": {
+    "time": 1649771665133.5474
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationRole/assets/res/mermaids2/mermaids2-5.png": {
+    "time": 1382741426000,
+    "uuid": "cd466cfa-24eb-4297-8452-cc2d62e6d95a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res": {
+    "time": 1653223676007.47,
+    "uuid": "647a0039-8f5e-4612-938f-fd2039647186",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/scene.scene": {
+    "time": 1653223699091.525,
+    "uuid": "142c1fe9-0bfa-4b71-854c-f727f6b9745c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids": {
+    "time": 1649771132798.3132,
+    "uuid": "5b19be1e-0f56-4438-8835-d27905462cad",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-1.png": {
+    "time": 1382741492000,
+    "uuid": "917bc072-6d26-455a-b7fa-b1ef8671baa0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-10.png": {
+    "time": 1382741502000,
+    "uuid": "9eca84e1-155a-4642-a6b8-71951e214331",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-11.png": {
+    "time": 1382741502000,
+    "uuid": "c4979b90-997d-4512-a538-84b227744574",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-12.png": {
+    "time": 1382741486000,
+    "uuid": "1b1a61da-1008-4c8c-a5c0-aeeeca2fbe64",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-13.png": {
+    "time": 1382741488000,
+    "uuid": "c0885b3b-2e9e-4015-8bcd-d130f564d196",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-14.png": {
+    "time": 1382741488000,
+    "uuid": "67bd343b-af71-459e-8f6e-5c150b2b4cf9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-15.png": {
+    "time": 1382741490000,
+    "uuid": "7928c422-92cb-4360-895a-89bc41f3398b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-2.png": {
+    "time": 1382741484000,
+    "uuid": "beb1df1c-e901-4d19-8c7f-1eabe0565bf9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-3.png": {
+    "time": 1382741484000,
+    "uuid": "112d9625-0964-427b-9764-a3b6a21e1976",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-4.png": {
+    "time": 1382741494000,
+    "uuid": "45067d96-3318-40ce-b87c-5bc90bfe1685",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-5.png": {
+    "time": 1382741494000,
+    "uuid": "bc1c69bf-72ef-4778-bd21-642f9ca23805",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-6.png": {
+    "time": 1382741496000,
+    "uuid": "43d206d4-e92e-406d-a470-f4de83c93c96",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-7.png": {
+    "time": 1382741498000,
+    "uuid": "cfc88fd7-6ee1-43f0-953d-bf15e60a45b9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-8.png": {
+    "time": 1382741498000,
+    "uuid": "41c8abbd-f37e-4c68-b059-a017ccf69a82",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-9.png": {
+    "time": 1382741500000,
+    "uuid": "0851a244-9941-47e1-a93c-c9c2041a87bd",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaids.anim": {
+    "time": 1649771321871.049,
+    "uuid": "400f2912-fc3e-4817-a339-220656cfc512",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res.meta": {
+    "time": 1649770930988.536
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids.meta": {
+    "time": 1649771071836.9426
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/scene.scene.meta": {
+    "time": 1653223630154.6104
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-1.png.meta": {
+    "time": 1653223630269.5042
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-10.png.meta": {
+    "time": 1653223630272.261
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-11.png.meta": {
+    "time": 1653223630278.845
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-12.png.meta": {
+    "time": 1653223630283.2947
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-13.png.meta": {
+    "time": 1653223630359.1826
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-14.png.meta": {
+    "time": 1653223630365.3572
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-15.png.meta": {
+    "time": 1653223630375.7693
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-2.png.meta": {
+    "time": 1653223630384.76
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-3.png.meta": {
+    "time": 1653223630392.499
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-4.png.meta": {
+    "time": 1653223630444.544
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-5.png.meta": {
+    "time": 1653223630447.31
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-6.png.meta": {
+    "time": 1653223630461.8506
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaids.anim.meta": {
+    "time": 1649771132800.6243
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-7.png.meta": {
+    "time": 1653223630479.3567
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-8.png.meta": {
+    "time": 1653223630496.4048
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/assets/res/mermaids/mermaid-9.png.meta": {
+    "time": 1653223630555.984
+  }
+}

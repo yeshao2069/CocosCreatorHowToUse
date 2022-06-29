@@ -1,0 +1,146 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/DynamicLoadMaterial.scene": {
+    "time": 1648658110450.7778,
+    "uuid": "c8af204c-3432-46d0-b5ac-a68e26f4e209",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/res": {
+    "time": 1648658110453.6663,
+    "uuid": "bb7fd12a-03f7-4240-ad97-0faa3af8fce5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/resources": {
+    "time": 1648658110454.5232,
+    "uuid": "b13a2094-c1c6-447a-a928-110fd82afe6d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/script": {
+    "time": 1648658110460.8867,
+    "uuid": "6e48bcab-ed3d-48c4-a3fd-03464869e1e7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/res/content.png": {
+    "time": 1648658110453.4905,
+    "uuid": "5c8a87bd-3fa4-49b5-9d2c-c3b669f4fe1b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/resources/materials": {
+    "time": 1648658110458.6665,
+    "uuid": "1d6530b5-6c5f-47b3-8ec5-acd03a9260ab",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/script/DynamicLoadMaterial.ts": {
+    "time": 1648658110460.255,
+    "uuid": "3e74245d-1ebb-4c39-b0e8-297babc09efc",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/script/rotate.ts": {
+    "time": 1648658110460.818,
+    "uuid": "933fc047-d7dc-4270-9a1b-cf3539bdb762",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/resources/materials/dynamic-load-material.mtl": {
+    "time": 1648658110454.9292,
+    "uuid": "3b8c5fa1-02a4-44a7-b941-e17ed356d957",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/res.meta": {
+    "time": 1648658110451.4094
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/resources.meta": {
+    "time": 1648658110454.1987
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/script.meta": {
+    "time": 1648658110459.6187
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/resources/materials.meta": {
+    "time": 1648658110454.4023
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/script/DynamicLoadMaterial.ts.meta": {
+    "time": 1648658110460.6677
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/script/rotate.ts.meta": {
+    "time": 1648658110461.182
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/resources/materials/dynamic-load-material.mtl.meta": {
+    "time": 1648658110459.2864
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/DynamicLoadMaterial.scene.meta": {
+    "time": 1648658110451.1206
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DynamicLoadMaterial/assets/res/content.png.meta": {
+    "time": 1648658110454.0383
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/DynamicLoadMaterial.scene": {
+    "time": 1653210973429.414,
+    "uuid": "c8af204c-3432-46d0-b5ac-a68e26f4e209",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/res": {
+    "time": 1648658110453.6663,
+    "uuid": "bb7fd12a-03f7-4240-ad97-0faa3af8fce5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/resources": {
+    "time": 1648658110454.5232,
+    "uuid": "b13a2094-c1c6-447a-a928-110fd82afe6d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/script": {
+    "time": 1648658110460.8867,
+    "uuid": "6e48bcab-ed3d-48c4-a3fd-03464869e1e7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/res/content.png": {
+    "time": 1648658110453.4905,
+    "uuid": "5c8a87bd-3fa4-49b5-9d2c-c3b669f4fe1b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/resources/materials": {
+    "time": 1648658110458.6665,
+    "uuid": "1d6530b5-6c5f-47b3-8ec5-acd03a9260ab",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/script/DynamicLoadMaterial.ts": {
+    "time": 1648658110460.255,
+    "uuid": "3e74245d-1ebb-4c39-b0e8-297babc09efc",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/script/rotate.ts": {
+    "time": 1648658110460.818,
+    "uuid": "933fc047-d7dc-4270-9a1b-cf3539bdb762",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/resources/materials/dynamic-load-material.mtl": {
+    "time": 1653210969947.905,
+    "uuid": "3b8c5fa1-02a4-44a7-b941-e17ed356d957",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/res.meta": {
+    "time": 1648658110451.4094
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/resources.meta": {
+    "time": 1648658110454.1987
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/script.meta": {
+    "time": 1648658110459.6187
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/resources/materials.meta": {
+    "time": 1648658110454.4023
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/script/DynamicLoadMaterial.ts.meta": {
+    "time": 1648658110460.6677
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/script/rotate.ts.meta": {
+    "time": 1648658110461.182
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/resources/materials/dynamic-load-material.mtl.meta": {
+    "time": 1653210969958.809
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/DynamicLoadMaterial.scene.meta": {
+    "time": 1653210969965.723
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DynamicLoadMaterial/assets/res/content.png.meta": {
+    "time": 1653210969975.8018
+  }
+}

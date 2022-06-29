@@ -1,0 +1,114 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_CameraUseSample/assets/CameraSample.scene": {
+    "time": 1653204316401.596,
+    "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_CameraUseSample/assets/Script": {
+    "time": 1648658111381.3022,
+    "uuid": "efbb3ead-621f-4aa1-8078-3fe7d86bc21f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture": {
+    "time": 1648658111383.5967,
+    "uuid": "bd7ac289-8f8f-4208-9ee7-e58ab9c452ef",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_CameraUseSample/assets/Script/CameraSample.ts": {
+    "time": 1648658111381.0547,
+    "uuid": "e1b90feb-a217-4493-849d-9a611900d683",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture/HelloWorld.png": {
+    "time": 1648658111381.9756,
+    "uuid": "6aa0aa6a-ebee-4155-a088-a687a6aadec4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture/default_scrollbar.png": {
+    "time": 1648658111382.5771,
+    "uuid": "2a2ea5c1-6177-4a3b-9f4b-b31d21d5cba2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture/singleColor.png": {
+    "time": 1648658111383.4949,
+    "uuid": "a8027877-d8d6-4645-97a0-52d4a0123dba",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_CameraUseSample/assets/Script.meta": {
+    "time": 1648658111380.8254
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture.meta": {
+    "time": 1648658111381.7317
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_CameraUseSample/assets/Script/CameraSample.ts.meta": {
+    "time": 1648658111381.5747
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_CameraUseSample/assets/CameraSample.scene.meta": {
+    "time": 1653204316424.373
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture/default_scrollbar.png.meta": {
+    "time": 1653204316443.1392
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture/singleColor.png.meta": {
+    "time": 1653204316453.1333
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture/HelloWorld.png.meta": {
+    "time": 1653204316459.1914
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_CameraUseSample/assets/CameraSample.scene": {
+    "time": 1653204694993.4749,
+    "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_CameraUseSample/assets/Script": {
+    "time": 1653204491733.1946,
+    "uuid": "efbb3ead-621f-4aa1-8078-3fe7d86bc21f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture": {
+    "time": 1653204491735.8926,
+    "uuid": "bd7ac289-8f8f-4208-9ee7-e58ab9c452ef",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_CameraUseSample/assets/Script/CameraSample.ts": {
+    "time": 1653204690551.291,
+    "uuid": "e1b90feb-a217-4493-849d-9a611900d683",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture/HelloWorld.png": {
+    "time": 1653204491733.9548,
+    "uuid": "6aa0aa6a-ebee-4155-a088-a687a6aadec4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture/default_scrollbar.png": {
+    "time": 1653204491734.6736,
+    "uuid": "2a2ea5c1-6177-4a3b-9f4b-b31d21d5cba2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture/singleColor.png": {
+    "time": 1653204491735.7673,
+    "uuid": "a8027877-d8d6-4645-97a0-52d4a0123dba",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_CameraUseSample/assets/Script.meta": {
+    "time": 1653204491732.938
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture.meta": {
+    "time": 1653204491733.4937
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_CameraUseSample/assets/Script/CameraSample.ts.meta": {
+    "time": 1653204491733.3052
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_CameraUseSample/assets/CameraSample.scene.meta": {
+    "time": 1653204491732.737
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture/default_scrollbar.png.meta": {
+    "time": 1653204491734.9434
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture/HelloWorld.png.meta": {
+    "time": 1653204491734.4138
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/UI/Creator3.5.0_2D_CameraUseSample/assets/Texture/singleColor.png.meta": {
+    "time": 1653204491736.097
+  }
+}

@@ -1,0 +1,208 @@
+debug: Sun, 22 May 2022 07:57:33 GMT
+debug: Project: /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch
+debug: Targets: editor,preview
+debug: [PackerDriver] Options doesn't match.
+Last: {
+  "version": "19",
+  "config": {
+    "useDefineForClassFields": true,
+    "allowDeclareFields": true,
+    "loose": true,
+    "exportsConditions": [
+      "browser"
+    ],
+    "guessCommonJsExports": false
+  }
+}
+Current: {
+  "version": "14",
+  "config": {
+    "useDefineForClassFields": true,
+    "allowDeclareFields": true,
+    "loose": true,
+    "exportsConditions": [
+      "browser"
+    ],
+    "guessCommonJsExports": false
+  }
+}
+debug: Clearing out the targets...
+debug: Engine path: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Record file loaded failed with error: Error: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/temp/programming/packer-driver/targets/editor/main-record.json'
+debug: Loading cache costs 0.8676980007439852ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Record file loaded failed with error: Error: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/temp/programming/packer-driver/targets/preview/main-record.json'
+debug: Loading cache costs 0.3913629986345768ms.
+debug: Sync engine features: 2d,3d,animation,base,dragon-bones,gfx-webgl,gfx-webgl2,marionette,particle,primitive,profiler,skeletal-animation,spine,tween,ui
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 74.70999100059271ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 11
+Feature changed: false
+debug: Target(editor) build started.
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/mapManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/mapManager.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/mapManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/mapManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/mapManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/mapManager.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/util/resManager from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/mapManager.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/resManager.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/resManager.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/resManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts as cce:/internal/x/cc.
+debug: Resolve ./vbMaterial from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/vbMaterial.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/vbMaterial.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/vbMaterial.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/vbMaterial.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as cce:/internal/x/cc.
+debug: Resolve ./player from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts.
+debug: Resolve ../framework/util/resManager from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/resManager.ts.
+debug: Resolve ../framework/config/storageManager from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/config/storageManager.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/config/storageManager.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/config/storageManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/config/storageManager.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/util/gameLogic from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/gameLogic.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/gameLogic.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/gameLogic.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/gameLogic.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/util/constants from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/constants.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/constants.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/constants.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/constants.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/vbMaterial.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/vbMaterial.ts.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/config/storageManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/config/storageManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/constants.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/constants.ts.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/gameLogic.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/gameLogic.ts.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/resManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/resManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/subPackageManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/subPackageManager.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/subPackageManager.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/subPackageManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/subPackageManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/confirmBox.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/confirmBox.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/confirmBox.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/confirmBox.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/confirmBox.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts as cce:/internal/x/cc.
+debug: Resolve ../../fight/playerManager from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts.
+debug: Resolve ./confirmBox from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/confirmBox.ts.
+debug: Resolve ../../framework/util/constants from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/constants.ts.
+debug: Resolve ../../framework/config/storageManager from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/config/storageManager.ts.
+debug: Target(editor) ends with cost 1705.143263000995ms.
+debug: Target(preview) build started.
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/mapManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/mapManager.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/mapManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/mapManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/mapManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/mapManager.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/util/resManager from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/mapManager.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/resManager.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/resManager.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/resManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts as cce:/internal/x/cc.
+debug: Resolve ./vbMaterial from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/vbMaterial.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/vbMaterial.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/vbMaterial.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/vbMaterial.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as cce:/internal/x/cc.
+debug: Resolve ./player from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/player.ts.
+debug: Resolve ../framework/util/resManager from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/resManager.ts.
+debug: Resolve ../framework/config/storageManager from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/config/storageManager.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/config/storageManager.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/config/storageManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/config/storageManager.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/util/gameLogic from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/gameLogic.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/gameLogic.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/gameLogic.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/gameLogic.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/util/constants from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/constants.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/constants.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/constants.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/constants.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/vbMaterial.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/vbMaterial.ts.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/config/storageManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/config/storageManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/constants.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/constants.ts.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/gameLogic.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/gameLogic.ts.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/resManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/resManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/subPackageManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/subPackageManager.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/subPackageManager.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/subPackageManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/subPackageManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/confirmBox.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/confirmBox.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/confirmBox.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/confirmBox.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/confirmBox.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts.
+debug: Inspect file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts as cce:/internal/x/cc.
+debug: Resolve ../../fight/playerManager from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/fight/playerManager.ts.
+debug: Resolve ./confirmBox from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/confirmBox.ts.
+debug: Resolve ../../framework/util/constants from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/util/constants.ts.
+debug: Resolve ../../framework/config/storageManager from file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/ui/main/mainUI.ts as file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_VBBatch/assets/script/framework/config/storageManager.ts.
+debug: Target(preview) ends with cost 749.9606769997627ms.

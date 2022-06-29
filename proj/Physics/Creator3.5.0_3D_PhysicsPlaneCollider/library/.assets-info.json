@@ -1,0 +1,226 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/PhysicsPlaneCollider.scene": {
+    "time": 1652080875422.5361,
+    "uuid": "7cfe3647-eb30-40fe-b798-e5ebc70a7db6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/res": {
+    "time": 1648658110986.098,
+    "uuid": "1e35d6cd-1c63-4d49-a0b4-56ce287f80c2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/script": {
+    "time": 1648658110989.2786,
+    "uuid": "b0a6a2b2-b15a-4d28-bdeb-8d9b18467279",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/res/blue-emissive.mtl": {
+    "time": 1652080875405.0918,
+    "uuid": "2655ecf9-8ecc-46d9-916f-2638bc0ae997",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/res/cannon-ammo.prefab": {
+    "time": 1652080875417.1558,
+    "uuid": "fd33e7ae-bd45-438d-81df-6a9331fe451d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/res/green-emissive-ins.mtl": {
+    "time": 1652080875407.9858,
+    "uuid": "cbd2edf8-8a79-486c-92c7-f75043e3ecaa",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/res/red-emissive.mtl": {
+    "time": 1652080875408.1035,
+    "uuid": "337e02d3-f21e-41f0-932a-4d5d5bf11ffd",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/res/white-emissive.mtl": {
+    "time": 1652080875416.382,
+    "uuid": "438e0c84-a304-470a-bba0-ab457749df15",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/res/yellow-emissive.mtl": {
+    "time": 1652080875431.2134,
+    "uuid": "dd66f7e0-3d5d-433b-a1cc-694e79716f11",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/script/PhysicsEnvCheck.ts": {
+    "time": 1648658110986.955,
+    "uuid": "7d8f78a9-e73b-4b30-9f72-3b04dac65bbf",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/script/PrefabPoolUtil.ts": {
+    "time": 1648658110987.2478,
+    "uuid": "53d11dc8-fd7d-4a5f-9cac-efc85f60a8ee",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/script/RaycastHelper.ts": {
+    "time": 1648658110988.2122,
+    "uuid": "9e3c6edc-b50a-4ad0-9a11-62bb43c98c86",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/script/TriggerTest.ts": {
+    "time": 1648658110988.4924,
+    "uuid": "2c217e79-878b-4a68-aa44-539cd2bda73c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/script/first-person-camera.ts": {
+    "time": 1648658110989.1343,
+    "uuid": "53907d5f-037a-4a95-96e1-e2c7a0f8ef3d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/res.meta": {
+    "time": 1648658110983.8674
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/script.meta": {
+    "time": 1648658110986.5886
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/res/blue-emissive.mtl.meta": {
+    "time": 1652080875419.1477
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/res/green-emissive-ins.mtl.meta": {
+    "time": 1652080875420.8728
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/res/red-emissive.mtl.meta": {
+    "time": 1652080875423.6597
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/script/PhysicsEnvCheck.ts.meta": {
+    "time": 1652080875427.7598
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/script/PrefabPoolUtil.ts.meta": {
+    "time": 1652080875429.9812
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/res/cannon-ammo.prefab.meta": {
+    "time": 1652080875433.0068
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/res/white-emissive.mtl.meta": {
+    "time": 1652080875434.5823
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/script/RaycastHelper.ts.meta": {
+    "time": 1652080875437.503
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/PhysicsPlaneCollider.scene.meta": {
+    "time": 1652080875438.92
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/script/TriggerTest.ts.meta": {
+    "time": 1652080875439.9863
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/script/first-person-camera.ts.meta": {
+    "time": 1652080875440.8093
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsPlaneCollider/assets/res/yellow-emissive.mtl.meta": {
+    "time": 1652080875442.2764
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/PhysicsPlaneCollider.scene": {
+    "time": 1653979282421.2236,
+    "uuid": "7cfe3647-eb30-40fe-b798-e5ebc70a7db6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/res": {
+    "time": 1653963062254.456,
+    "uuid": "1e35d6cd-1c63-4d49-a0b4-56ce287f80c2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/script": {
+    "time": 1653963062256.5825,
+    "uuid": "b0a6a2b2-b15a-4d28-bdeb-8d9b18467279",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/res/blue-emissive.mtl": {
+    "time": 1653979159026.768,
+    "uuid": "2655ecf9-8ecc-46d9-916f-2638bc0ae997",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/res/cannon-ammo.prefab": {
+    "time": 1653979159034.0793,
+    "uuid": "fd33e7ae-bd45-438d-81df-6a9331fe451d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/res/green-emissive-ins.mtl": {
+    "time": 1653979159034.9097,
+    "uuid": "cbd2edf8-8a79-486c-92c7-f75043e3ecaa",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/res/red-emissive.mtl": {
+    "time": 1653979159036.8203,
+    "uuid": "337e02d3-f21e-41f0-932a-4d5d5bf11ffd",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/res/white-emissive.mtl": {
+    "time": 1653979159057.5945,
+    "uuid": "438e0c84-a304-470a-bba0-ab457749df15",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/res/yellow-emissive.mtl": {
+    "time": 1653979159080.2837,
+    "uuid": "dd66f7e0-3d5d-433b-a1cc-694e79716f11",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/script/PhysicsEnvCheck.ts": {
+    "time": 1653979245655.801,
+    "uuid": "7d8f78a9-e73b-4b30-9f72-3b04dac65bbf",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/script/PrefabPoolUtil.ts": {
+    "time": 1653963062255.3958,
+    "uuid": "53d11dc8-fd7d-4a5f-9cac-efc85f60a8ee",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/script/RaycastHelper.ts": {
+    "time": 1653979209387.7285,
+    "uuid": "9e3c6edc-b50a-4ad0-9a11-62bb43c98c86",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/script/TriggerTest.ts": {
+    "time": 1653963062255.9492,
+    "uuid": "2c217e79-878b-4a68-aa44-539cd2bda73c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/script/first-person-camera.ts": {
+    "time": 1653979270819.614,
+    "uuid": "53907d5f-037a-4a95-96e1-e2c7a0f8ef3d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/res.meta": {
+    "time": 1653963062251.6497
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/script.meta": {
+    "time": 1653963062254.7253
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/res/blue-emissive.mtl.meta": {
+    "time": 1653979159047.504
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/res/green-emissive-ins.mtl.meta": {
+    "time": 1653979159054.282
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/res/red-emissive.mtl.meta": {
+    "time": 1653979159055.1765
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/script/PhysicsEnvCheck.ts.meta": {
+    "time": 1653963062255.1292
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/res/cannon-ammo.prefab.meta": {
+    "time": 1653979159062.2632
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/script/PrefabPoolUtil.ts.meta": {
+    "time": 1653963062255.5315
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/script/RaycastHelper.ts.meta": {
+    "time": 1653963062255.8132
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/PhysicsPlaneCollider.scene.meta": {
+    "time": 1653979159071.578
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/res/white-emissive.mtl.meta": {
+    "time": 1653979159076.487
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/script/TriggerTest.ts.meta": {
+    "time": 1653963062256.2524
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/script/first-person-camera.ts.meta": {
+    "time": 1653963062256.6309
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsPlaneCollider/assets/res/yellow-emissive.mtl.meta": {
+    "time": 1653979159085.0918
+  }
+}

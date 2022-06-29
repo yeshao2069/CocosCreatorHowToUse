@@ -1,0 +1,60 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "sheep_jump",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 20,
+    "speed": 1,
+    "wrapMode": 1,
+    "events": [],
+    "_duration": 0.5,
+    "_keys": [
+      [
+        0,
+        0.05,
+        0.15,
+        0.4,
+        0.45
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "spriteFrame"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__uuid__": "cd935b82-0280-4a04-95b4-1664fcec362b@52715"
+            },
+            {
+              "__uuid__": "cd935b82-0280-4a04-95b4-1664fcec362b@6982f"
+            },
+            {
+              "__uuid__": "cd935b82-0280-4a04-95b4-1664fcec362b@d19ec"
+            },
+            {
+              "__uuid__": "cd935b82-0280-4a04-95b4-1664fcec362b@123b8"
+            },
+            {
+              "__uuid__": "cd935b82-0280-4a04-95b4-1664fcec362b@2f938"
+            }
+          ],
+          "easingMethods": {}
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 956621031
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  }
+]

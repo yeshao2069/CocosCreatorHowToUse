@@ -1,0 +1,34 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenRotateAndScaleForever/assets/TweenRotateAndScale.scene": {
+    "time": 1648658111322.6694,
+    "uuid": "7de3bf7f-4eed-44b1-8bff-586e6148431f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenRotateAndScaleForever/assets/TweenRotateAndScale.ts": {
+    "time": 1648658111323.2058,
+    "uuid": "6abc96c2-596b-4e52-907a-9f53f95f1c0a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenRotateAndScaleForever/assets/TweenRotateAndScale.ts.meta": {
+    "time": 1648658111323.6306
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenRotateAndScaleForever/assets/TweenRotateAndScale.scene.meta": {
+    "time": 1648658111323.0579
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenRotateAndScaleForever/assets/TweenRotateAndScale.scene": {
+    "time": 1653963937361.9114,
+    "uuid": "7de3bf7f-4eed-44b1-8bff-586e6148431f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenRotateAndScaleForever/assets/TweenRotateAndScale.ts": {
+    "time": 1653963062658.9963,
+    "uuid": "6abc96c2-596b-4e52-907a-9f53f95f1c0a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenRotateAndScaleForever/assets/TweenRotateAndScale.ts.meta": {
+    "time": 1653963062659.2417
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenRotateAndScaleForever/assets/TweenRotateAndScale.scene.meta": {
+    "time": 1653963937375.9214
+  }
+}

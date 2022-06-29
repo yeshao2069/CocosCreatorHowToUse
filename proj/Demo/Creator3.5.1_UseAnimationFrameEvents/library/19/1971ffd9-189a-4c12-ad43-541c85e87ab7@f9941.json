@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HelloWorld",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 195,
+      "height": 270
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 195,
+      "height": 270
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "1971ffd9-189a-4c12-ad43-541c85e87ab7@6c48a",
+    "packable": true
+  }
+}

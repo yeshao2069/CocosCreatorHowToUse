@@ -1,0 +1,175 @@
+{
+  "uuid": {
+    "/Users/mu/Desktop/NewProject_2/assets/material/hdcSky.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/Desktop/NewProject_2/assets/material/plane.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/Desktop/NewProject_2/assets/material/seafloor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/Desktop/NewProject_2/assets/material/shield.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/Desktop/NewProject_2/assets/material/soldier.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mu/Desktop/NewProject_2/assets/material/stone.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mu/Desktop/NewProject_2/assets/material/tree.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mu/Desktop/NewProject_2/assets/model/helloWorld/grass/grass.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/20220121演讲/LargeSceneOpDemo/assets/material/hdcSky.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/20220121演讲/LargeSceneOpDemo/assets/material/plane.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/20220121演讲/LargeSceneOpDemo/assets/material/seafloor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/20220121演讲/LargeSceneOpDemo/assets/material/shield.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/20220121演讲/LargeSceneOpDemo/assets/material/stone.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mu/work/20220121演讲/LargeSceneOpDemo/assets/material/tree.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mu/work/20220121演讲/LargeSceneOpDemo/assets/model/helloWorld/grass/grass.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/20220121演讲/StaticBatchOpDemo/assets/material/seafloor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/20220121演讲/StaticBatchOpDemo/assets/material/plane.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/20220121演讲/StaticBatchOpDemo/assets/material/hdcSky.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/20220121演讲/StaticBatchOpDemo/assets/material/shield.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/20220121演讲/StaticBatchOpDemo/assets/material/stone.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mu/work/20220121演讲/StaticBatchOpDemo/assets/material/tree.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mu/work/20220121演讲/StaticBatchOpDemo/assets/model/helloWorld/grass/grass.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/20220121演讲/StaticBatchOpDemo/assets/material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_StaticBatch/assets/material/plane.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_StaticBatch/assets/material/seafloor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_StaticBatch/assets/material/shield.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_StaticBatch/assets/material/hdcSky.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_StaticBatch/assets/material/stone.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_StaticBatch/assets/material/tree.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_StaticBatch/assets/model/helloWorld/grass/grass.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_StaticBatch/assets/material/hdcSky.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_StaticBatch/assets/material/plane.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_StaticBatch/assets/material/seafloor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_StaticBatch/assets/material/shield.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_StaticBatch/assets/material/stone.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_StaticBatch/assets/material/tree.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_StaticBatch/assets/model/helloWorld/grass/grass.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_StaticBatch/assets/material/hdcSky.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_StaticBatch/assets/material/shield.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_StaticBatch/assets/material/plane.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_StaticBatch/assets/material/seafloor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_StaticBatch/assets/material/stone.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_StaticBatch/assets/material/tree.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_StaticBatch/assets/model/helloWorld/grass/grass.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ]
+  },
+  "path": {
+    "/Users/mu/Desktop/NewProject_2/assets/model/helloWorld/islands.FBX@2df3a": [
+      "/Users/mu/Desktop/NewProject_2/assets/model/helloWorld/seafloor.jpg"
+    ],
+    "/Users/mu/Desktop/NewProject_2/assets/model/helloWorld/grass/grass.FBX@9787f": [
+      "/Users/mu/Desktop/NewProject_2/assets/model/helloWorld/grass/grass.png"
+    ],
+    "/Users/mu/work/20220121演讲/LargeSceneOpDemo/assets/model/helloWorld/grass/grass.FBX@9787f": [
+      "/Users/mu/work/20220121演讲/LargeSceneOpDemo/assets/model/helloWorld/grass/grass.png"
+    ],
+    "/Users/mu/work/20220121演讲/LargeSceneOpDemo/assets/model/helloWorld/islands.FBX@2df3a": [
+      "/Users/mu/work/20220121演讲/LargeSceneOpDemo/assets/model/helloWorld/seafloor.jpg"
+    ],
+    "/Users/mu/work/20220121演讲/StaticBatchOpDemo/assets/model/helloWorld/grass/grass.FBX@9787f": [
+      "/Users/mu/work/20220121演讲/StaticBatchOpDemo/assets/model/helloWorld/grass/grass.png"
+    ],
+    "/Users/mu/work/20220121演讲/StaticBatchOpDemo/assets/model/helloWorld/islands.FBX@2df3a": [
+      "/Users/mu/work/20220121演讲/StaticBatchOpDemo/assets/model/helloWorld/seafloor.jpg"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_StaticBatch/assets/model/helloWorld/grass/grass.FBX@9787f": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_StaticBatch/assets/model/helloWorld/grass/grass.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_StaticBatch/assets/model/helloWorld/islands.FBX@2df3a": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_StaticBatch/assets/model/helloWorld/seafloor.jpg"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_StaticBatch/assets/model/helloWorld/grass/grass.FBX@9787f": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_StaticBatch/assets/model/helloWorld/grass/grass.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_StaticBatch/assets/model/helloWorld/islands.FBX@2df3a": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_StaticBatch/assets/model/helloWorld/seafloor.jpg"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_StaticBatch/assets/model/helloWorld/grass/grass.FBX@9787f": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_StaticBatch/assets/model/helloWorld/grass/grass.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_StaticBatch/assets/model/helloWorld/islands.FBX@2df3a": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_StaticBatch/assets/model/helloWorld/seafloor.jpg"
+    ]
+  }
+}

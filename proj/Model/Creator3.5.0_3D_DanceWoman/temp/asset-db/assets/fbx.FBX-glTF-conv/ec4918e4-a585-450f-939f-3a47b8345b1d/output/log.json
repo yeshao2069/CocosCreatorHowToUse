@@ -1,0 +1,46 @@
+[
+  {
+    "level": 0,
+    "message": "Frame rate: 30"
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig:LeftEye",
+      "type": "Rrs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig:RightEye",
+      "type": "Rrs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.041667, 1.000000]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.041667, 1.000000]"
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 6.733333]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 6.733333]"
+  },
+  {
+    "level": 0,
+    "message": "Frame rate: 30"
+  },
+  {
+    "level": 0,
+    "message": "Take mixamo.com: 6.733333333333333s"
+  }
+]

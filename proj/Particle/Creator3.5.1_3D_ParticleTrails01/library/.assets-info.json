@@ -1,0 +1,146 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/ParticleTrail-01.scene": {
+    "time": 1648658110684.8804,
+    "uuid": "e07cce90-f411-4c9e-be28-7caa02f7ba2e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/res": {
+    "time": 1648658110690.964,
+    "uuid": "c18d9335-d3e8-4e6b-810b-9af778af7910",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/script": {
+    "time": 1648658110691.9155,
+    "uuid": "ffe0f6fc-4a1e-4c8d-bbb7-b3677ad3aa1a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/res/00088.png": {
+    "time": 1648658110686.7285,
+    "uuid": "9e3f502b-57a7-4206-a7e0-54f2be1506c5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/res/000881.png": {
+    "time": 1648658110687.3528,
+    "uuid": "5d858dd3-854d-4e49-87bb-016aa7bcd5d1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/res/trail-1.mtl": {
+    "time": 1648658110688.2,
+    "uuid": "fb02b1eb-32a5-4655-875d-bc8e9c5a2e6d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/res/trail-roation.anim": {
+    "time": 1648658110689.4075,
+    "uuid": "a8a91bb4-77ba-4666-94e9-e022b435c5ad",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/res/trail.mtl": {
+    "time": 1648658110690.8818,
+    "uuid": "d80e580b-a970-43b8-9b50-8ae4edac6fa2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/script/first-person-camera.ts": {
+    "time": 1648658110691.836,
+    "uuid": "62d7713f-3e25-4686-bb81-4ca6151af794",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/res.meta": {
+    "time": 1648658110686.4824
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/script.meta": {
+    "time": 1648658110691.5303
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/res/trail-1.mtl.meta": {
+    "time": 1648658110688.747
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/res/trail-roation.anim.meta": {
+    "time": 1648658110690.5366
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/ParticleTrail-01.scene.meta": {
+    "time": 1648658110686.3037
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/script/first-person-camera.ts.meta": {
+    "time": 1648658110692.276
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/res/trail.mtl.meta": {
+    "time": 1648658110691.373
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/res/000881.png.meta": {
+    "time": 1648658110687.942
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleTrails01/assets/res/00088.png.meta": {
+    "time": 1648658110687.1206
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/ParticleTrail-01.scene": {
+    "time": 1654077139521.7412,
+    "uuid": "e07cce90-f411-4c9e-be28-7caa02f7ba2e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/res": {
+    "time": 1653963061522.0857,
+    "uuid": "c18d9335-d3e8-4e6b-810b-9af778af7910",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/script": {
+    "time": 1653963061522.6912,
+    "uuid": "ffe0f6fc-4a1e-4c8d-bbb7-b3677ad3aa1a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/res/00088.png": {
+    "time": 1653963061521.0913,
+    "uuid": "9e3f502b-57a7-4206-a7e0-54f2be1506c5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/res/000881.png": {
+    "time": 1653963061521.3167,
+    "uuid": "5d858dd3-854d-4e49-87bb-016aa7bcd5d1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/res/trail-1.mtl": {
+    "time": 1654077139534.4866,
+    "uuid": "fb02b1eb-32a5-4655-875d-bc8e9c5a2e6d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/res/trail-roation.anim": {
+    "time": 1653963061521.808,
+    "uuid": "a8a91bb4-77ba-4666-94e9-e022b435c5ad",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/res/trail.mtl": {
+    "time": 1654077139556.0417,
+    "uuid": "d80e580b-a970-43b8-9b50-8ae4edac6fa2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/script/first-person-camera.ts": {
+    "time": 1653963061522.5989,
+    "uuid": "62d7713f-3e25-4686-bb81-4ca6151af794",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/res.meta": {
+    "time": 1653963061520.8735
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/script.meta": {
+    "time": 1653963061522.2341
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/res/trail-roation.anim.meta": {
+    "time": 1653963061521.91
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/script/first-person-camera.ts.meta": {
+    "time": 1653963061522.7375
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/res/trail-1.mtl.meta": {
+    "time": 1654077139553.1445
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/ParticleTrail-01.scene.meta": {
+    "time": 1654077139604.5496
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/res/trail.mtl.meta": {
+    "time": 1654077140134.12
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/res/000881.png.meta": {
+    "time": 1654077140138.3984
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleTrails01/assets/res/00088.png.meta": {
+    "time": 1654077140140.0125
+  }
+}

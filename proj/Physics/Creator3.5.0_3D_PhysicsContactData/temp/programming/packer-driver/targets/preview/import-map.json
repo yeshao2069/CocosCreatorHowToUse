@@ -1,0 +1,58 @@
+{
+  "imports": {
+    "cce:/internal/x/cc": "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js",
+    "cce:/internal/x/prerequisite-imports": "./chunks/e6/e690d8d21c3264f88cef1049bc05ae341c5f161a.js",
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsContactData/assets/script/ContactPointHelper.ts": "./chunks/96/96b85a27156c387d18ff374ffc25e1688fbb157b.js",
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsContactData/assets/script/PhysicsEnvCheck.ts": "./chunks/ef/ef5600127bed170ea9066d74285a141fede40669.js",
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsContactData/assets/script/SupportPhyiscs.ts": "./chunks/06/0606c6c122778335a47152274270e88012d52fdc.js",
+    "file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsContactData/assets/script/first-person-camera.ts": "./chunks/29/294c9c7fe4720d0f82d4e273eba63c4375a352b3.js"
+  },
+  "scopes": {
+    "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js": {
+      "__unresolved_0": "cce:/internal/x/cc-fu/2d",
+      "__unresolved_1": "cce:/internal/x/cc-fu/3d",
+      "__unresolved_10": "cce:/internal/x/cc-fu/particle-2d",
+      "__unresolved_11": "cce:/internal/x/cc-fu/physics-2d-box2d",
+      "__unresolved_12": "cce:/internal/x/cc-fu/physics-2d-framework",
+      "__unresolved_13": "cce:/internal/x/cc-fu/physics-ammo",
+      "__unresolved_14": "cce:/internal/x/cc-fu/physics-framework",
+      "__unresolved_15": "cce:/internal/x/cc-fu/wait-for-ammo-instantiation",
+      "__unresolved_16": "cce:/internal/x/cc-fu/primitive",
+      "__unresolved_17": "cce:/internal/x/cc-fu/profiler",
+      "__unresolved_18": "cce:/internal/x/cc-fu/skeletal-animation",
+      "__unresolved_19": "cce:/internal/x/cc-fu/spine",
+      "__unresolved_2": "cce:/internal/x/cc-fu/animation",
+      "__unresolved_20": "cce:/internal/x/cc-fu/terrain",
+      "__unresolved_21": "cce:/internal/x/cc-fu/tiled-map",
+      "__unresolved_22": "cce:/internal/x/cc-fu/tween",
+      "__unresolved_23": "cce:/internal/x/cc-fu/ui",
+      "__unresolved_24": "cce:/internal/x/cc-fu/video",
+      "__unresolved_25": "cce:/internal/x/cc-fu/webview",
+      "__unresolved_3": "cce:/internal/x/cc-fu/audio",
+      "__unresolved_4": "cce:/internal/x/cc-fu/base",
+      "__unresolved_5": "cce:/internal/x/cc-fu/dragon-bones",
+      "__unresolved_6": "cce:/internal/x/cc-fu/gfx-webgl",
+      "__unresolved_7": "cce:/internal/x/cc-fu/gfx-webgl2",
+      "__unresolved_8": "cce:/internal/x/cc-fu/intersection-2d",
+      "__unresolved_9": "cce:/internal/x/cc-fu/particle"
+    },
+    "./chunks/e6/e690d8d21c3264f88cef1049bc05ae341c5f161a.js": {
+      "__unresolved_0": "./chunks/96/96b85a27156c387d18ff374ffc25e1688fbb157b.js",
+      "__unresolved_1": "./chunks/ef/ef5600127bed170ea9066d74285a141fede40669.js",
+      "__unresolved_2": "./chunks/06/0606c6c122778335a47152274270e88012d52fdc.js",
+      "__unresolved_3": "./chunks/29/294c9c7fe4720d0f82d4e273eba63c4375a352b3.js"
+    },
+    "./chunks/29/294c9c7fe4720d0f82d4e273eba63c4375a352b3.js": {
+      "cc": "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js"
+    },
+    "./chunks/06/0606c6c122778335a47152274270e88012d52fdc.js": {
+      "cc": "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js"
+    },
+    "./chunks/ef/ef5600127bed170ea9066d74285a141fede40669.js": {
+      "cc": "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js"
+    },
+    "./chunks/96/96b85a27156c387d18ff374ffc25e1688fbb157b.js": {
+      "cc": "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js"
+    }
+  }
+}

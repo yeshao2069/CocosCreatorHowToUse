@@ -1,0 +1,34 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRaycastClosest/assets/raycastClosest.ts": {
+    "time": 1648658111013.8894,
+    "uuid": "8c86e0cb-89aa-45c1-8196-54b6848a6b7b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRaycastClosest/assets/scene.scene": {
+    "time": 1652081077032.557,
+    "uuid": "01589e41-c18f-4b4c-bbaf-74493f9cf632",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRaycastClosest/assets/raycastClosest.ts.meta": {
+    "time": 1652081077027.681
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRaycastClosest/assets/scene.scene.meta": {
+    "time": 1652081077033.9792
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRaycastClosest/assets/raycastClosest.ts": {
+    "time": 1653963062285.0444,
+    "uuid": "8c86e0cb-89aa-45c1-8196-54b6848a6b7b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRaycastClosest/assets/scene.scene": {
+    "time": 1653978417625.8137,
+    "uuid": "01589e41-c18f-4b4c-bbaf-74493f9cf632",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRaycastClosest/assets/raycastClosest.ts.meta": {
+    "time": 1653963062285.161
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRaycastClosest/assets/scene.scene.meta": {
+    "time": 1653977764549.8936
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/Morph-Head.scene": {
+    "time": 1652076544947.0703,
+    "uuid": "b711e4ce-415b-4d6f-b183-2132134f34e7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/res": {
+    "time": 1649752255002.927,
+    "uuid": "39fa8f90-1add-4785-9ff1-31d975255bb9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/script": {
+    "time": 1649752255006.1382,
+    "uuid": "aaf9ee87-7874-49a2-ad89-07f71650cb31",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/res/morph": {
+    "time": 1649752254992.284,
+    "uuid": "289178b8-7286-427a-a1b1-8ebf756a1dcb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/res/prefab": {
+    "time": 1649752255003.7417,
+    "uuid": "2934b5e0-151e-4732-ac8b-a37935d05f33",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/script/MorphController.ts": {
+    "time": 1649752255005.996,
+    "uuid": "6ac40a11-ebc8-42e4-b3d6-a7c89887843c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/res/morph/morph_head": {
+    "time": 1649752255002.6328,
+    "uuid": "54c802d0-6256-464e-85a2-5a4c860cca11",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/res/prefab/ControlItem.prefab": {
+    "time": 1649752255003.6191,
+    "uuid": "86dd7180-5a56-4ffe-a878-be10682d8edf",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/res/morph/morph_head/head.glb": {
+    "time": 1649752254998.1946,
+    "uuid": "e1ec1aea-16e3-4213-8fea-5911bbeeb907",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/res/morph/morph_head/license.txt": {
+    "time": 1649752255002.5347,
+    "uuid": "7279eeea-0ce4-4dab-aa6e-45cd87eabc18",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/res.meta": {
+    "time": 1649752254991.4873
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/script.meta": {
+    "time": 1649752255005.3186
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/res/morph.meta": {
+    "time": 1649752254991.8674
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/res/prefab.meta": {
+    "time": 1649752255002.8442
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/res/morph/morph_head.meta": {
+    "time": 1649752254992.2087
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/script/MorphController.ts.meta": {
+    "time": 1649752255006.411
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/Morph-Head.scene.meta": {
+    "time": 1649752254989.7466
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/res/prefab/ControlItem.prefab.meta": {
+    "time": 1649752255004.098
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/res/morph/morph_head/license.txt.meta": {
+    "time": 1649752255002.6921
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_MorphHead/assets/res/morph/morph_head/head.glb.meta": {
+    "time": 1649752255002.2097
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/Morph-Head.scene": {
+    "time": 1653210171518.2307,
+    "uuid": "b711e4ce-415b-4d6f-b183-2132134f34e7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/res": {
+    "time": 1649752255002.927,
+    "uuid": "39fa8f90-1add-4785-9ff1-31d975255bb9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/script": {
+    "time": 1649752255006.1382,
+    "uuid": "aaf9ee87-7874-49a2-ad89-07f71650cb31",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/res/morph": {
+    "time": 1649752254992.284,
+    "uuid": "289178b8-7286-427a-a1b1-8ebf756a1dcb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/res/prefab": {
+    "time": 1649752255003.7417,
+    "uuid": "2934b5e0-151e-4732-ac8b-a37935d05f33",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/script/MorphController.ts": {
+    "time": 1649752255005.996,
+    "uuid": "6ac40a11-ebc8-42e4-b3d6-a7c89887843c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/res/morph/morph_head": {
+    "time": 1649752255002.6328,
+    "uuid": "54c802d0-6256-464e-85a2-5a4c860cca11",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/res/prefab/ControlItem.prefab": {
+    "time": 1653210171523.848,
+    "uuid": "86dd7180-5a56-4ffe-a878-be10682d8edf",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/res/morph/morph_head/head.glb": {
+    "time": 1649752254998.1946,
+    "uuid": "e1ec1aea-16e3-4213-8fea-5911bbeeb907",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/res/morph/morph_head/license.txt": {
+    "time": 1649752255002.5347,
+    "uuid": "7279eeea-0ce4-4dab-aa6e-45cd87eabc18",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/res.meta": {
+    "time": 1649752254991.4873
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/script.meta": {
+    "time": 1649752255005.3186
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/res/morph.meta": {
+    "time": 1649752254991.8674
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/res/prefab.meta": {
+    "time": 1649752255002.8442
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/res/morph/morph_head.meta": {
+    "time": 1649752254992.2087
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/script/MorphController.ts.meta": {
+    "time": 1649752255006.411
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/res/morph/morph_head/license.txt.meta": {
+    "time": 1649752255002.6921
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/Morph-Head.scene.meta": {
+    "time": 1653210171539.2214
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/res/prefab/ControlItem.prefab.meta": {
+    "time": 1653210171540.386
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_MorphHead/assets/res/morph/morph_head/head.glb.meta": {
+    "time": 1653210171572.6345
+  }
+}

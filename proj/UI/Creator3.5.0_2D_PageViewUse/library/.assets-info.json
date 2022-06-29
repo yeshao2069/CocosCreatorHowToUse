@@ -1,0 +1,50 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_PageViewUse/assets/PageViewUnifiedHorizortal.scene": {
+    "time": 1653203760861.9324,
+    "uuid": "00cab6e7-2395-4672-b99e-80183d42072e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_PageViewUse/assets/res": {
+    "time": 1648658111420.552,
+    "uuid": "efc4ea1a-5a0b-48d7-b6fd-71259a9562a8",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_PageViewUse/assets/res/default_color.png": {
+    "time": 1648658111419.5095,
+    "uuid": "85b1771b-b364-4d1a-818e-03ccd7332a01",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_PageViewUse/assets/res/page.prefab": {
+    "time": 1653203740075.4724,
+    "uuid": "364b0504-f359-47e0-adc1-5eb62e467fe2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_PageViewUse/assets/res.meta": {
+    "time": 1648658111419.1758
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_PageViewUse/assets/res/page.prefab.meta": {
+    "time": 1653203740095.6685
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_PageViewUse/assets/PageViewUnifiedHorizortal.scene.meta": {
+    "time": 1653203740096.8066
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_PageViewUse/assets/res/default_color.png.meta": {
+    "time": 1653203740108.5083
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_PageViewUse/assets/script.meta": {
+    "time": 1653203755196.7063
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_PageViewUse/assets/script": {
+    "time": 1653203757642.4683,
+    "uuid": "adae968b-9e85-43db-baf4-12fa45c6d9f4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_PageViewUse/assets/script/PageViewCtl.ts.meta": {
+    "time": 1648658111417.4883
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_PageViewUse/assets/script/PageViewCtl.ts": {
+    "time": 1648658111416.8125,
+    "uuid": "ec3c8b68-6605-424a-89cf-45601020ccf8",
+    "missing": false
+  }
+}

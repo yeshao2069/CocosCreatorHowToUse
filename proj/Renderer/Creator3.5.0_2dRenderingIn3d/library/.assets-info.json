@@ -1,0 +1,354 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/2d-rendering-in-3d.scene": {
+    "time": 1652929278167.859,
+    "uuid": "c2e51486-2228-4208-b96c-3470ccdb1614",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res": {
+    "time": 1648658111179.2397,
+    "uuid": "cd17712e-74f8-4910-a3c5-160e0ca519ac",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/script": {
+    "time": 1648658111183.7893,
+    "uuid": "2dd8ccdb-8181-47ec-a32a-2700916bdf95",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/depth-test.mtl": {
+    "time": 1652929197608.3677,
+    "uuid": "16bb87e8-39d3-4003-b61d-a5867635a80d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/dragonBones": {
+    "time": 1648658111164.48,
+    "uuid": "cafc6f7e-5231-40e7-8719-512de9f66b46",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/spine": {
+    "time": 1648658111178.1287,
+    "uuid": "3e1b42d2-89fa-4dbe-b4b4-5b210455b8de",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap": {
+    "time": 1648658111182.8958,
+    "uuid": "fd7d1364-5fd8-4d05-b1aa-aa18128a4578",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/script/node-move.ts": {
+    "time": 1648658111183.706,
+    "uuid": "83b0900b-f397-4979-92ba-5955ca52a8d2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/dragonBones/SwordsMan_ske.dbbin": {
+    "time": 1648658111132.8088,
+    "uuid": "69886acf-ece6-4654-93f4-65384b201812",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/dragonBones/SwordsMan_tex.json": {
+    "time": 1648658111142.5093,
+    "uuid": "9dd9b46a-abd7-43a9-9a43-e77fddf726e9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/dragonBones/SwordsMan_tex.png": {
+    "time": 1648658111163.4434,
+    "uuid": "143500a2-70ff-4f63-9051-01e50357a631",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/spine/depth-test-spine.mtl": {
+    "time": 1652929197613.305,
+    "uuid": "d2fc214c-51e6-4396-93d8-de8476527ed0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/spine/spineboy-pro.atlas": {
+    "time": 1648658111166.1199,
+    "uuid": "26d48e13-39cb-41b2-af7c-5a93a8d8a14a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/spine/spineboy-pro.json": {
+    "time": 1648658111166.9172,
+    "uuid": "31c551b9-139a-486e-9e1e-9d943f646f89",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/spine/spineboy-pro.png": {
+    "time": 1648658111176.5842,
+    "uuid": "0b7deb52-12e6-4346-873e-c2841dcf6a81",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset.png": {
+    "time": 1648658111179.6047,
+    "uuid": "7b2b4fbc-5ba3-4cf0-ab48-11a3811d19b2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset.tmx": {
+    "time": 1648658111180.122,
+    "uuid": "351eb61b-be3b-4048-ae4a-b3eee557d174",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx.tmx": {
+    "time": 1648658111180.384,
+    "uuid": "cab6091a-cbb2-48c1-9dd1-0eceee0cda38",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx1.png": {
+    "time": 1648658111181.2368,
+    "uuid": "33d38993-8831-4e26-b30a-01b1a8acc1b7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx1.tsx": {
+    "time": 1648658111181.8396,
+    "uuid": "1c1908f2-f6c8-4d7c-a1b4-94dd7c29820e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx2.png": {
+    "time": 1648658111182.2368,
+    "uuid": "4a7969c8-0d19-4d2f-b281-150dd05e9157",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx2.tsx": {
+    "time": 1648658111182.8142,
+    "uuid": "6e5b19ea-1f8f-4b41-a2e1-1b086a44c8e7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res.meta": {
+    "time": 1648658111127.1138
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/script.meta": {
+    "time": 1648658111183.4082
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/dragonBones.meta": {
+    "time": 1648658111131.8352
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/spine.meta": {
+    "time": 1648658111165.1284
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap.meta": {
+    "time": 1648658111179.1245
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/script/node-move.ts.meta": {
+    "time": 1648658111184.2625
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/depth-test.mtl.meta": {
+    "time": 1652929197620.3276
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/2d-rendering-in-3d.scene.meta": {
+    "time": 1652929197627.4885
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/spine/depth-test-spine.mtl.meta": {
+    "time": 1652929197624.45
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/spine/spineboy-pro.atlas.meta": {
+    "time": 1648658111166.2393
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/dragonBones/SwordsMan_ske.dbbin.meta": {
+    "time": 1648658111141.131
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/spine/spineboy-pro.json.meta": {
+    "time": 1648658111168.0486
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/dragonBones/SwordsMan_tex.png.meta": {
+    "time": 1652929197637.8108
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/dragonBones/SwordsMan_tex.json.meta": {
+    "time": 1648658111142.9243
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset.tmx.meta": {
+    "time": 1648658111180.2632
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/spine/spineboy-pro.png.meta": {
+    "time": 1652929197638.8843
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx.tmx.meta": {
+    "time": 1648658111180.5432
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx1.tsx.meta": {
+    "time": 1648658111181.991
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset.png.meta": {
+    "time": 1652929197667.4707
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx2.tsx.meta": {
+    "time": 1648658111182.9368
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx2.png.meta": {
+    "time": 1652929197669.2466
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Renderer/Creator3.4.2_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx1.png.meta": {
+    "time": 1652929197668.4084
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/2d-rendering-in-3d.scene": {
+    "time": 1653211900943.8208,
+    "uuid": "c2e51486-2228-4208-b96c-3470ccdb1614",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res": {
+    "time": 1653201293022.1262,
+    "uuid": "cd17712e-74f8-4910-a3c5-160e0ca519ac",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/script": {
+    "time": 1648658111183.7893,
+    "uuid": "2dd8ccdb-8181-47ec-a32a-2700916bdf95",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/depth-test.mtl": {
+    "time": 1653211900943.7822,
+    "uuid": "16bb87e8-39d3-4003-b61d-a5867635a80d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/dragonBones": {
+    "time": 1653201293022.6624,
+    "uuid": "cafc6f7e-5231-40e7-8719-512de9f66b46",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/spine": {
+    "time": 1653201293023.5894,
+    "uuid": "3e1b42d2-89fa-4dbe-b4b4-5b210455b8de",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap": {
+    "time": 1653201293024.8826,
+    "uuid": "fd7d1364-5fd8-4d05-b1aa-aa18128a4578",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/script/node-move.ts": {
+    "time": 1648658111183.706,
+    "uuid": "83b0900b-f397-4979-92ba-5955ca52a8d2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/dragonBones/SwordsMan_ske.dbbin": {
+    "time": 1648658111132.8088,
+    "uuid": "69886acf-ece6-4654-93f4-65384b201812",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/dragonBones/SwordsMan_tex.json": {
+    "time": 1648658111142.5093,
+    "uuid": "9dd9b46a-abd7-43a9-9a43-e77fddf726e9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/dragonBones/SwordsMan_tex.png": {
+    "time": 1648658111163.4434,
+    "uuid": "143500a2-70ff-4f63-9051-01e50357a631",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/spine/depth-test-spine.mtl": {
+    "time": 1653211900948.976,
+    "uuid": "d2fc214c-51e6-4396-93d8-de8476527ed0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/spine/spineboy-pro.atlas": {
+    "time": 1648658111166.1199,
+    "uuid": "26d48e13-39cb-41b2-af7c-5a93a8d8a14a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/spine/spineboy-pro.json": {
+    "time": 1648658111166.9172,
+    "uuid": "31c551b9-139a-486e-9e1e-9d943f646f89",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/spine/spineboy-pro.png": {
+    "time": 1648658111176.5842,
+    "uuid": "0b7deb52-12e6-4346-873e-c2841dcf6a81",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset.png": {
+    "time": 1648658111179.6047,
+    "uuid": "7b2b4fbc-5ba3-4cf0-ab48-11a3811d19b2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset.tmx": {
+    "time": 1648658111180.122,
+    "uuid": "351eb61b-be3b-4048-ae4a-b3eee557d174",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx.tmx": {
+    "time": 1648658111180.384,
+    "uuid": "cab6091a-cbb2-48c1-9dd1-0eceee0cda38",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx1.png": {
+    "time": 1648658111181.2368,
+    "uuid": "33d38993-8831-4e26-b30a-01b1a8acc1b7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx1.tsx": {
+    "time": 1648658111181.8396,
+    "uuid": "1c1908f2-f6c8-4d7c-a1b4-94dd7c29820e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx2.png": {
+    "time": 1648658111182.2368,
+    "uuid": "4a7969c8-0d19-4d2f-b281-150dd05e9157",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx2.tsx": {
+    "time": 1648658111182.8142,
+    "uuid": "6e5b19ea-1f8f-4b41-a2e1-1b086a44c8e7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res.meta": {
+    "time": 1648658111127.1138
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/script.meta": {
+    "time": 1648658111183.4082
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/dragonBones.meta": {
+    "time": 1648658111131.8352
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/spine.meta": {
+    "time": 1648658111165.1284
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap.meta": {
+    "time": 1648658111179.1245
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/script/node-move.ts.meta": {
+    "time": 1648658111184.2625
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/depth-test.mtl.meta": {
+    "time": 1653211900950.6475
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/2d-rendering-in-3d.scene.meta": {
+    "time": 1653211900958.8296
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/spine/depth-test-spine.mtl.meta": {
+    "time": 1653211900959.873
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/dragonBones/SwordsMan_ske.dbbin.meta": {
+    "time": 1648658111141.131
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/spine/spineboy-pro.atlas.meta": {
+    "time": 1648658111166.2393
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/spine/spineboy-pro.json.meta": {
+    "time": 1648658111168.0486
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/dragonBones/SwordsMan_tex.png.meta": {
+    "time": 1653211901055.3826
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/dragonBones/SwordsMan_tex.json.meta": {
+    "time": 1648658111142.9243
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset.tmx.meta": {
+    "time": 1648658111180.2632
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/spine/spineboy-pro.png.meta": {
+    "time": 1653211901069.568
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx.tmx.meta": {
+    "time": 1648658111180.5432
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx1.tsx.meta": {
+    "time": 1648658111181.991
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx2.tsx.meta": {
+    "time": 1648658111182.9368
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset.png.meta": {
+    "time": 1653211901088.4507
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx1.png.meta": {
+    "time": 1653211901110.356
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Renderer/Creator3.5.0_2dRenderingIn3d/assets/res/tiledMap/tile_iso_offset_with_tsx2.png.meta": {
+    "time": 1653211901122.2363
+  }
+}

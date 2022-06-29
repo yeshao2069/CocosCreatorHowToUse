@@ -1,0 +1,98 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/MainScene.scene": {
+    "time": 1654051757944.2239,
+    "uuid": "3f4aed90-3331-4700-be51-3663e946ca8f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/effect": {
+    "time": 1653963060953.7021,
+    "uuid": "444670c1-e98c-4004-bb32-34f6f7518ade",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/material": {
+    "time": 1653963060954.3374,
+    "uuid": "64b97921-08d9-414f-9b8f-a180896c1e6d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/model": {
+    "time": 1653963060955.9473,
+    "uuid": "622e2bfa-4653-47df-8beb-b77870f32d5d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/prefab": {
+    "time": 1653963060956.6765,
+    "uuid": "5268b37c-d283-4f01-a25a-419ac67c2194",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/effect/New Effect-001.effect": {
+    "time": 1654051586071.7449,
+    "uuid": "701f8798-69dc-4ff1-af55-119b96191ff0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/effect/New Effect.effect": {
+    "time": 1654051586116.316,
+    "uuid": "593eb8c1-f063-46f6-b820-6c272f7ac2a3",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/effect/curved.effect": {
+    "time": 1654051586152.6604,
+    "uuid": "7f2e342a-d8f8-4b3f-a050-a3be18949f51",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/material/road.mtl": {
+    "time": 1654051586185.6008,
+    "uuid": "b5fb3240-0e28-4249-a5d6-4f4b7e4024a8",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/model/road01.FBX": {
+    "time": 1653963060954.8809,
+    "uuid": "a7ff2512-9e56-469c-810f-74529a97e426",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/model/road01.jpg": {
+    "time": 1653963060955.5532,
+    "uuid": "d81ff52d-ca67-4e1b-9cb4-561c285f9c92",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/prefab/modeRoot.prefab": {
+    "time": 1654051586200.0825,
+    "uuid": "cab95c40-ab3f-4659-ac73-eabdddb58446",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/effect.meta": {
+    "time": 1653963060951.4329
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/material.meta": {
+    "time": 1653963060954.0212
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/model.meta": {
+    "time": 1653963060954.5027
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/prefab.meta": {
+    "time": 1653963060956.3005
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/effect/curved.effect.meta": {
+    "time": 1654051586183.5342
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/effect/New Effect-001.effect.meta": {
+    "time": 1654051586185.3289
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/effect/New Effect.effect.meta": {
+    "time": 1654051586186.2747
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/material/road.mtl.meta": {
+    "time": 1654051586201.1782
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/MainScene.scene.meta": {
+    "time": 1654051586615.326
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/prefab/modeRoot.prefab.meta": {
+    "time": 1654051586622.942
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/model/road01.jpg.meta": {
+    "time": 1654051586628.9688
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_RoadCurved/assets/model/road01.FBX.meta": {
+    "time": 1654051586694.5183
+  }
+}

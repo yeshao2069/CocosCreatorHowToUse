@@ -1,0 +1,194 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/PhysicsGroupMask.scene": {
+    "time": 1652080668790.1067,
+    "uuid": "f6457fb4-d9b4-4a5d-9af0-3c424dc969c9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res": {
+    "time": 1648658110866.0596,
+    "uuid": "178b4187-c3d0-438c-a683-27871d0b2395",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/script": {
+    "time": 1648658110891.3616,
+    "uuid": "31378d8d-a24e-465f-9364-b4da8bd3c815",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res/blue-emissive-ins.mtl": {
+    "time": 1652080668768.4556,
+    "uuid": "f7055990-20e0-4552-bed1-8a47a73dcfd4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res/cannon-ammo.prefab": {
+    "time": 1652080668790.1655,
+    "uuid": "981b2bec-ef06-4433-8735-a6da710b8aa5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res/green-emissive-ins.mtl": {
+    "time": 1652080668774.67,
+    "uuid": "cb867500-8a0b-45be-955b-93ce500ccd23",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res/ground.prefab": {
+    "time": 1652080668791.1814,
+    "uuid": "e1b99ae3-c195-4d8c-bcd6-095b5ca50c50",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res/purple-emissive-ins.mtl": {
+    "time": 1652080668788.1926,
+    "uuid": "7dae427f-6a5e-40e6-af96-07449e0d5622",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res/red-emissive.mtl": {
+    "time": 1652080668795.6848,
+    "uuid": "428b8ce1-296d-4a26-91e7-be9c0bb0bfef",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res/yellow-emissive-ins.mtl": {
+    "time": 1652080668797.2822,
+    "uuid": "67de01b4-6706-4bbc-828e-377669143399",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/script/GroupMaskTest.ts": {
+    "time": 1648658110890.992,
+    "uuid": "c6d6add0-9ff5-4fa7-83d8-a418f185df5d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/script/PhysicsEnvCheck.ts": {
+    "time": 1648658110891.2964,
+    "uuid": "e5ff0f1b-bcc7-4b2a-b2b3-55e9eef010e7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res.meta": {
+    "time": 1648658110859.7998
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/script.meta": {
+    "time": 1648658110866.2651
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res/blue-emissive-ins.mtl.meta": {
+    "time": 1652080668786.6797
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res/green-emissive-ins.mtl.meta": {
+    "time": 1652080668789.8066
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res/purple-emissive-ins.mtl.meta": {
+    "time": 1652080668796.8118
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/PhysicsGroupMask.scene.meta": {
+    "time": 1652080668799.8098
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res/cannon-ammo.prefab.meta": {
+    "time": 1652080668800.6245
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res/ground.prefab.meta": {
+    "time": 1652080668801.5012
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/script/GroupMaskTest.ts.meta": {
+    "time": 1652080668802.7812
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/script/PhysicsEnvCheck.ts.meta": {
+    "time": 1652080668808.523
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res/red-emissive.mtl.meta": {
+    "time": 1652080668809.8699
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsGroupMask/assets/res/yellow-emissive-ins.mtl.meta": {
+    "time": 1652080668810.9407
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/PhysicsGroupMask.scene": {
+    "time": 1653980113991.4226,
+    "uuid": "f6457fb4-d9b4-4a5d-9af0-3c424dc969c9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res": {
+    "time": 1653963062135.7725,
+    "uuid": "178b4187-c3d0-438c-a683-27871d0b2395",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/script": {
+    "time": 1653963062136.4873,
+    "uuid": "31378d8d-a24e-465f-9364-b4da8bd3c815",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res/blue-emissive-ins.mtl": {
+    "time": 1653980113973.8203,
+    "uuid": "f7055990-20e0-4552-bed1-8a47a73dcfd4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res/cannon-ammo.prefab": {
+    "time": 1653980113973.9146,
+    "uuid": "981b2bec-ef06-4433-8735-a6da710b8aa5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res/green-emissive-ins.mtl": {
+    "time": 1653980113974.1902,
+    "uuid": "cb867500-8a0b-45be-955b-93ce500ccd23",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res/ground.prefab": {
+    "time": 1653980113981.806,
+    "uuid": "e1b99ae3-c195-4d8c-bcd6-095b5ca50c50",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res/purple-emissive-ins.mtl": {
+    "time": 1653980113997.256,
+    "uuid": "7dae427f-6a5e-40e6-af96-07449e0d5622",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res/red-emissive.mtl": {
+    "time": 1653980114016.4783,
+    "uuid": "428b8ce1-296d-4a26-91e7-be9c0bb0bfef",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res/yellow-emissive-ins.mtl": {
+    "time": 1653980114018.098,
+    "uuid": "67de01b4-6706-4bbc-828e-377669143399",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/script/GroupMaskTest.ts": {
+    "time": 1653963062136.17,
+    "uuid": "c6d6add0-9ff5-4fa7-83d8-a418f185df5d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/script/PhysicsEnvCheck.ts": {
+    "time": 1653963062136.4211,
+    "uuid": "e5ff0f1b-bcc7-4b2a-b2b3-55e9eef010e7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res.meta": {
+    "time": 1653963062133.4663
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/script.meta": {
+    "time": 1653963062135.9531
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res/blue-emissive-ins.mtl.meta": {
+    "time": 1653980113987.6768
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res/green-emissive-ins.mtl.meta": {
+    "time": 1653980113992.466
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res/cannon-ammo.prefab.meta": {
+    "time": 1653980113999.7114
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res/ground.prefab.meta": {
+    "time": 1653980114004.849
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/script/GroupMaskTest.ts.meta": {
+    "time": 1653963062136.284
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/PhysicsGroupMask.scene.meta": {
+    "time": 1653980114008.883
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res/purple-emissive-ins.mtl.meta": {
+    "time": 1653980114015.7378
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/script/PhysicsEnvCheck.ts.meta": {
+    "time": 1653963062136.5488
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res/red-emissive.mtl.meta": {
+    "time": 1653980114021.7053
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsGroupMask/assets/res/yellow-emissive-ins.mtl.meta": {
+    "time": 1653980114024.747
+  }
+}

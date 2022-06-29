@@ -1,0 +1,74 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/LoadSpine.scene": {
+    "time": 1653276584777.8186,
+    "uuid": "361cf000-2626-4e27-8805-a9eadf383678",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/resources": {
+    "time": 1653275796428.722,
+    "uuid": "1cd61022-352b-4539-8dbb-f0322ae87868",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/script": {
+    "time": 1653275796455.814,
+    "uuid": "231296b6-021d-4529-b2ac-89f5023e6c77",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/resources/spine": {
+    "time": 1653275796428.9133,
+    "uuid": "eda83850-ee68-4e58-9622-6d290cc20444",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/script/LoadSpine.ts": {
+    "time": 1653275796455.7346,
+    "uuid": "686151ec-9ac1-4f2c-92ef-4346579be3a5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/resources/spine/alien": {
+    "time": 1653275796453.3494,
+    "uuid": "41213a57-41bf-4fda-9af8-9913a7b839b9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/resources/spine/alien/alien-pro.atlas": {
+    "time": 1653275796429.0955,
+    "uuid": "9f900ee4-e5c3-40d8-b0ce-91c2ea71a2c3",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/resources/spine/alien/alien-pro.json": {
+    "time": 1653275796430.2231,
+    "uuid": "9e02199e-3dd3-4cf9-a732-2c223b1f44e5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/resources/spine/alien/alien-pro.png": {
+    "time": 1653275796452.4644,
+    "uuid": "b8d0e6d9-53c0-4c74-b2df-17538a75c141",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/resources.meta": {
+    "time": 1653275796427.8643
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/script.meta": {
+    "time": 1653275796455.4565
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/resources/spine.meta": {
+    "time": 1653275796428.6165
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/resources/spine/alien.meta": {
+    "time": 1653275796428.8413
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/script/LoadSpine.ts.meta": {
+    "time": 1653275796455.8872
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/resources/spine/alien/alien-pro.atlas.meta": {
+    "time": 1653275796429.4424
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/resources/spine/alien/alien-pro.json.meta": {
+    "time": 1653275796430.3955
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/LoadSpine.scene.meta": {
+    "time": 1653276520362.7317
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Spine/Creator3.5.0_2D_LoadSpine/assets/resources/spine/alien/alien-pro.png.meta": {
+    "time": 1653276520374.0325
+  }
+}

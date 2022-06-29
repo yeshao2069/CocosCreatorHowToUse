@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "barrage-animClip",
+  "_objFlags": 0,
+  "_native": "",
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "events": [],
+  "_duration": 9.5,
+  "_keys": [
+    [
+      0,
+      9.5
+    ],
+    [
+      9.5
+    ],
+    [
+      9.5
+    ]
+  ],
+  "_stepness": 0,
+  "_curves": [
+    {
+      "modifiers": [
+        "x"
+      ],
+      "data": {
+        "keys": 0,
+        "values": [
+          722,
+          -1120
+        ],
+        "easingMethods": {}
+      },
+      "commonTarget": 0
+    },
+    {
+      "modifiers": [
+        "y"
+      ],
+      "data": {
+        "keys": 1,
+        "values": [
+          235
+        ],
+        "easingMethods": {}
+      },
+      "commonTarget": 0
+    },
+    {
+      "modifiers": [
+        "z"
+      ],
+      "data": {
+        "keys": 2,
+        "values": [
+          0
+        ],
+        "easingMethods": {}
+      },
+      "commonTarget": 0
+    }
+  ],
+  "_commonTargets": [
+    {
+      "modifiers": [
+        "position"
+      ]
+    }
+  ],
+  "_hash": 2886507173
+}

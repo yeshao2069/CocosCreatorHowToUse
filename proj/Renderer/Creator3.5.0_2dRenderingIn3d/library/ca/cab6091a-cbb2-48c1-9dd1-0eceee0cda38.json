@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.TiledMapAsset",
+  "_name": "tile_iso_offset_with_tsx",
+  "_objFlags": 0,
+  "_native": "",
+  "tmxXmlStr": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<map version=\"1.0\" tiledversion=\"1.1.4\" orientation=\"isometric\" renderorder=\"right-down\" width=\"10\" height=\"10\" tilewidth=\"100\" tileheight=\"50\" infinite=\"0\" nextobjectid=\"1\">\n <tileset firstgid=\"1\" source=\"tile_iso_offset_with_tsx2.tsx\"/>\n <tileset firstgid=\"3\" source=\"tile_iso_offset_with_tsx1.tsx\"/>\n <layer name=\"baseLayer\" width=\"10\" height=\"10\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxtkDEOADEIwwjk/2++GzpYUQYvrWtUNDMC97NAhXsYnst9ax7cdISZ2b9ob3lHz3G+Mcvw2Kbr8i9Fl3vx9D1tOAndD6DcANU=\n  </data>\n </layer>\n</map>\n",
+  "tsxFiles": [
+    {
+      "__uuid__": "6e5b19ea-1f8f-4b41-a2e1-1b086a44c8e7",
+      "__expectedType__": "cc.TextAsset"
+    },
+    {
+      "__uuid__": "1c1908f2-f6c8-4d7c-a1b4-94dd7c29820e",
+      "__expectedType__": "cc.TextAsset"
+    }
+  ],
+  "tsxFileNames": [
+    "tile_iso_offset_with_tsx2.tsx",
+    "tile_iso_offset_with_tsx1.tsx"
+  ],
+  "spriteFrames": [
+    {
+      "__uuid__": "4a7969c8-0d19-4d2f-b281-150dd05e9157@f9941",
+      "__expectedType__": "cc.SpriteFrame"
+    },
+    {
+      "__uuid__": "33d38993-8831-4e26-b30a-01b1a8acc1b7@f9941",
+      "__expectedType__": "cc.SpriteFrame"
+    }
+  ],
+  "imageLayerSpriteFrame": [],
+  "imageLayerSpriteFrameNames": [],
+  "spriteFrameNames": [
+    "tile_iso_offset_with_tsx2.png",
+    "tile_iso_offset_with_tsx1.png"
+  ],
+  "spriteFrameSizes": [
+    {
+      "__type__": "cc.Size",
+      "width": 101,
+      "height": 202
+    },
+    {
+      "__type__": "cc.Size",
+      "width": 101,
+      "height": 202
+    }
+  ]
+}

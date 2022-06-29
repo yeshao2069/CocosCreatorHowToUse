@@ -1,0 +1,258 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/scene.scene.meta": {
+    "time": 1649751766607.819
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/scene.scene": {
+    "time": 1649752156673.5408,
+    "uuid": "27451e12-1ad4-4b67-bbe4-35e5af28bae2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res.meta": {
+    "time": 1649751772191.0684
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res": {
+    "time": 1649751958592.309,
+    "uuid": "1bd20a30-3c6a-4981-9807-36453b16c696",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00000.png.meta": {
+    "time": 1649751925390.1426
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00000.png": {
+    "time": 1649751857674.2231,
+    "uuid": "145d5556-35f4-4e40-a3e6-ba79ef920150",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00001.png.meta": {
+    "time": 1649751925381.3206
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00001.png": {
+    "time": 1649751857673.3767,
+    "uuid": "de43c09f-fb58-42b1-bda4-54c2e8f0d739",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00002.png.meta": {
+    "time": 1649751925384.5535
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00002.png": {
+    "time": 1649751857675.5547,
+    "uuid": "ef1e4299-2fa0-479f-8465-4b1a861e8cee",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00003.png.meta": {
+    "time": 1649751925385.092
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00003.png": {
+    "time": 1649751857674.8352,
+    "uuid": "a917d927-8c3b-466f-b9c3-aa7688fc55c6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00004.png.meta": {
+    "time": 1649751925381.8538
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00004.png": {
+    "time": 1649751857676.1748,
+    "uuid": "d565702e-a1cf-4408-9f36-bf49472cb25a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00005.png.meta": {
+    "time": 1649751925548.629
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00005.png": {
+    "time": 1649751857678.7864,
+    "uuid": "0a2b021e-4285-48df-9e2b-a6182fb64e74",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00006.png.meta": {
+    "time": 1649751925567.032
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00006.png": {
+    "time": 1649751857679.3162,
+    "uuid": "44a989f6-72ee-4419-9bf9-e1caf88c4bd4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00007.png.meta": {
+    "time": 1649751925559.246
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00007.png": {
+    "time": 1649751857680.6855,
+    "uuid": "024dfb3c-21cb-4ae5-980a-bc6bbbdaac6b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00008.png.meta": {
+    "time": 1649751925558.6785
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00008.png": {
+    "time": 1649751857678.9302,
+    "uuid": "5dfd7cf4-b86a-46d5-942d-7d680af3bbc5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00009.png.meta": {
+    "time": 1649751925573.7197
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00009.png": {
+    "time": 1649751857684.8523,
+    "uuid": "25786dc4-8b16-4ec2-af8a-09e8e9051c54",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00010.png.meta": {
+    "time": 1649751925614.5154
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00010.png": {
+    "time": 1649751857683.0166,
+    "uuid": "aec49d05-02ab-4ff1-8bd1-59d01370e943",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00011.png.meta": {
+    "time": 1649751925613.472
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00011.png": {
+    "time": 1649751857681.4507,
+    "uuid": "6ad7a923-7cdd-4080-817e-ee7c8f282172",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00012.png.meta": {
+    "time": 1649751925614.9717
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water_00012.png": {
+    "time": 1649751857681.9534,
+    "uuid": "54b6066d-ad92-4b16-a598-a0c4897b8e4f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water.anim.meta": {
+    "time": 1649751958595.7883
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Animation/Creator3.4.2_2D_AnimationWater/assets/res/water.anim": {
+    "time": 1649752154068.326,
+    "uuid": "08c8a617-b1e2-4b75-af58-3dec4acacb3e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res": {
+    "time": 1649751958592.309,
+    "uuid": "1bd20a30-3c6a-4981-9807-36453b16c696",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/scene.scene": {
+    "time": 1653213401370.2812,
+    "uuid": "27451e12-1ad4-4b67-bbe4-35e5af28bae2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water.anim": {
+    "time": 1649752154068.326,
+    "uuid": "08c8a617-b1e2-4b75-af58-3dec4acacb3e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00000.png": {
+    "time": 1649751857674.2231,
+    "uuid": "145d5556-35f4-4e40-a3e6-ba79ef920150",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00001.png": {
+    "time": 1649751857673.3767,
+    "uuid": "de43c09f-fb58-42b1-bda4-54c2e8f0d739",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00002.png": {
+    "time": 1649751857675.5547,
+    "uuid": "ef1e4299-2fa0-479f-8465-4b1a861e8cee",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00003.png": {
+    "time": 1649751857674.8352,
+    "uuid": "a917d927-8c3b-466f-b9c3-aa7688fc55c6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00004.png": {
+    "time": 1649751857676.1748,
+    "uuid": "d565702e-a1cf-4408-9f36-bf49472cb25a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00005.png": {
+    "time": 1649751857678.7864,
+    "uuid": "0a2b021e-4285-48df-9e2b-a6182fb64e74",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00006.png": {
+    "time": 1649751857679.3162,
+    "uuid": "44a989f6-72ee-4419-9bf9-e1caf88c4bd4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00007.png": {
+    "time": 1649751857680.6855,
+    "uuid": "024dfb3c-21cb-4ae5-980a-bc6bbbdaac6b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00008.png": {
+    "time": 1649751857678.9302,
+    "uuid": "5dfd7cf4-b86a-46d5-942d-7d680af3bbc5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00009.png": {
+    "time": 1649751857684.8523,
+    "uuid": "25786dc4-8b16-4ec2-af8a-09e8e9051c54",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00010.png": {
+    "time": 1649751857683.0166,
+    "uuid": "aec49d05-02ab-4ff1-8bd1-59d01370e943",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00011.png": {
+    "time": 1649751857681.4507,
+    "uuid": "6ad7a923-7cdd-4080-817e-ee7c8f282172",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00012.png": {
+    "time": 1649751857681.9534,
+    "uuid": "54b6066d-ad92-4b16-a598-a0c4897b8e4f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res.meta": {
+    "time": 1649751772191.0684
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water.anim.meta": {
+    "time": 1649751958595.7883
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/scene.scene.meta": {
+    "time": 1653213401394.218
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00001.png.meta": {
+    "time": 1653213401454.2024
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00000.png.meta": {
+    "time": 1653213401455.8909
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00002.png.meta": {
+    "time": 1653213401457.4768
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00003.png.meta": {
+    "time": 1653213401460.7087
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00004.png.meta": {
+    "time": 1653213401515.6719
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00007.png.meta": {
+    "time": 1653213401521.159
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00005.png.meta": {
+    "time": 1653213401522.63
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00008.png.meta": {
+    "time": 1653213401524.2302
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00006.png.meta": {
+    "time": 1653213401528.3123
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00009.png.meta": {
+    "time": 1653213401574.9832
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00010.png.meta": {
+    "time": 1653213401577.7441
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00012.png.meta": {
+    "time": 1653213401581.3455
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationWater/assets/res/water_00011.png.meta": {
+    "time": 1653213401583.9805
+  }
+}

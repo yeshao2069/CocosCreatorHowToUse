@@ -1,0 +1,146 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/TweenShowMonster.scene": {
+    "time": 1648658111329.5671,
+    "uuid": "afa4d506-c65f-4a4e-86d2-1661834d4190",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/TweenShowMonster.ts": {
+    "time": 1648658111333.7925,
+    "uuid": "958f2e1f-f4b8-436a-a003-e5ea0b44d032",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/res": {
+    "time": 1648658111342.3975,
+    "uuid": "eacb6ad7-1060-4aa6-bc01-020792dfa92c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/res/BuleMonster.png": {
+    "time": 1648658111334.736,
+    "uuid": "268951d5-47ed-4fba-9838-6919d49c2c06",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/res/GreenMonster.png": {
+    "time": 1648658111335.4324,
+    "uuid": "ce374e6d-f2e8-4fef-8214-48e50fe6bc9e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/res/PurpleMonster.png": {
+    "time": 1648658111336.0176,
+    "uuid": "3d147c2b-223d-482c-b2b5-d6efcf96322f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/res/RedMonster.png": {
+    "time": 1648658111338.6665,
+    "uuid": "41d3913e-639d-49ed-b352-8504bb3b6f87",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/res/YellowMonster.png": {
+    "time": 1648658111341.2532,
+    "uuid": "0090ff79-8354-4859-bd4a-b5df36aa739d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/res/singleColor.png": {
+    "time": 1648658111342.2908,
+    "uuid": "1b6a0b3c-2a0e-410a-95ab-53dc9a03a360",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/res.meta": {
+    "time": 1648658111334.477
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/TweenShowMonster.ts.meta": {
+    "time": 1648658111334.1675
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/TweenShowMonster.scene.meta": {
+    "time": 1648658111332.6526
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/res/BuleMonster.png.meta": {
+    "time": 1648658111335.2788
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/res/GreenMonster.png.meta": {
+    "time": 1648658111335.7368
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/res/PurpleMonster.png.meta": {
+    "time": 1648658111338.4233
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/res/RedMonster.png.meta": {
+    "time": 1648658111339.4214
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/res/YellowMonster.png.meta": {
+    "time": 1648658111342.1082
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Tween/Creator3.4.2_2D_TweenShowMonster/assets/res/singleColor.png.meta": {
+    "time": 1648658111342.5217
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/TweenShowMonster.scene": {
+    "time": 1653963847625.272,
+    "uuid": "afa4d506-c65f-4a4e-86d2-1661834d4190",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/TweenShowMonster.ts": {
+    "time": 1653963062662.6675,
+    "uuid": "958f2e1f-f4b8-436a-a003-e5ea0b44d032",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/res": {
+    "time": 1653963062664.6746,
+    "uuid": "eacb6ad7-1060-4aa6-bc01-020792dfa92c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/res/BuleMonster.png": {
+    "time": 1653963062663.259,
+    "uuid": "268951d5-47ed-4fba-9838-6919d49c2c06",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/res/GreenMonster.png": {
+    "time": 1653963062663.4885,
+    "uuid": "ce374e6d-f2e8-4fef-8214-48e50fe6bc9e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/res/PurpleMonster.png": {
+    "time": 1653963062663.7656,
+    "uuid": "3d147c2b-223d-482c-b2b5-d6efcf96322f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/res/RedMonster.png": {
+    "time": 1653963062664.0894,
+    "uuid": "41d3913e-639d-49ed-b352-8504bb3b6f87",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/res/YellowMonster.png": {
+    "time": 1653963062664.3652,
+    "uuid": "0090ff79-8354-4859-bd4a-b5df36aa739d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/res/singleColor.png": {
+    "time": 1653963062664.6045,
+    "uuid": "1b6a0b3c-2a0e-410a-95ab-53dc9a03a360",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/res.meta": {
+    "time": 1653963062663.0654
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/TweenShowMonster.ts.meta": {
+    "time": 1653963062662.935
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/TweenShowMonster.scene.meta": {
+    "time": 1653963847653.3765
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/res/GreenMonster.png.meta": {
+    "time": 1653963847678.5496
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/res/PurpleMonster.png.meta": {
+    "time": 1653963847683.5227
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/res/BuleMonster.png.meta": {
+    "time": 1653963847685.306
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/res/RedMonster.png.meta": {
+    "time": 1653963847689.731
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/res/YellowMonster.png.meta": {
+    "time": 1653963847701.1707
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Tween/Creator3.5.0_2D_TweenShowMonster/assets/res/singleColor.png.meta": {
+    "time": 1653963847708.7473
+  }
+}

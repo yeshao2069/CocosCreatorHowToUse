@@ -1,0 +1,50 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveRotation/assets/AdaptiveRotation2D.scene": {
+    "time": 1654076184763.6604,
+    "uuid": "b80c394d-2e84-46c2-95ab-2ea41d4365e9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveRotation/assets/AdaptiveRotation2D.ts": {
+    "time": 1653963060782.0952,
+    "uuid": "5e4de990-6e71-4ed1-9f8b-8e914b41d5f2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveRotation/assets/res": {
+    "time": 1653963060783.6199,
+    "uuid": "c17aed29-d502-4b4c-a731-3f400aa86f86",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveRotation/assets/res/bg.png": {
+    "time": 1653963060782.524,
+    "uuid": "f20001e7-db72-47bd-96d2-046754e31754",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveRotation/assets/res/singleColor.png": {
+    "time": 1653963060782.7827,
+    "uuid": "f9c373ac-7067-4a58-a028-671b63417f82",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveRotation/assets/res/tk.png": {
+    "time": 1653963060783.5215,
+    "uuid": "bf979df2-86f9-4248-83db-a02783175d8e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveRotation/assets/res.meta": {
+    "time": 1653963060782.3418
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveRotation/assets/AdaptiveRotation2D.ts.meta": {
+    "time": 1653963060782.208
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveRotation/assets/AdaptiveRotation2D.scene.meta": {
+    "time": 1654076179845.0168
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveRotation/assets/res/bg.png.meta": {
+    "time": 1654076179884.9932
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveRotation/assets/res/singleColor.png.meta": {
+    "time": 1654076179886.6042
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveRotation/assets/res/tk.png.meta": {
+    "time": 1654076179888.845
+  }
+}

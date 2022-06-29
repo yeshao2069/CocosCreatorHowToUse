@@ -1,0 +1,600 @@
+2022-05-09 13:37:13-log: [Package] menu@1.0.0 enable
+2022-05-09 13:37:13-log: [Package] profile@1.0.0 enable
+2022-05-09 13:37:13-log: [Package] project@1.0.1 enable
+2022-05-09 13:37:13-log: [Package] messages@1.0.0 enable
+2022-05-09 13:37:13-log: [Package] program@1.0.0 enable
+2022-05-09 13:37:13-log: [Package] device@1.0.1 enable
+2022-05-09 13:37:13-log: [Package] ui-kit@1.0.1 enable
+2022-05-09 13:37:13-log: [Package] tester@1.0.0 enable
+2022-05-09 13:37:13-log: [Package] preferences@1.0.0 enable
+2022-05-09 13:37:14-log: Setup mods mgr.: 356.67ms
+2022-05-09 13:37:14-log: Profile changed: engine (modules.includeModules: 2d,3d,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle,particle-2d,physics-2d-box2d,physics-ammo,primitive,profiler,spine,terrain,tiled-map,tween,ui,video,webview)
+2022-05-09 13:37:14-log: [Package] engine@1.0.5 enable
+2022-05-09 13:37:18-log: [Package] programming@1.0.0 enable
+2022-05-09 13:37:18-log: [Package] Profile Migrate: builder@Cocos Creator...
+2022-05-09 13:37:18-log: [Package] Profile Migrate: builder@Cocos Creator...
+2022-05-09 13:37:18-log: [Package] Profile Migrate: builder@Cocos Creator...
+2022-05-09 13:37:18-log: [Package] engine-extends@1.0.0 enable
+2022-05-09 13:37:18-log: [Package] asset-db@1.0.0 enable
+2022-05-09 13:37:19-log: [Package] console@1.0.0 enable
+2022-05-09 13:37:19-log: [Package] scene@1.0.0 enable
+2022-05-09 13:37:19-log: [Package] about@1.0.0 enable
+2022-05-09 13:37:19-log: [Package] server@1.0.0 enable
+2022-05-09 13:37:19-log: [Package] utils@1.0.0 enable
+2022-05-09 13:37:19-log: [Package] assets@1.0.0 enable
+2022-05-09 13:37:19-log: [Package] inspector@1.0.0 enable
+2022-05-09 13:37:21-log: [Package] preview@1.0.1 enable
+2022-05-09 13:37:21-log: [Package] animator@1.0.0 enable
+2022-05-09 13:37:22-log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-09 13:37:23-log: [Package] builder@1.3.1 enable
+2022-05-09 13:37:24-log: [Package] node-library@1.0.0 enable
+2022-05-09 13:37:24-log: [Package] shortcuts@1.0.1 enable
+2022-05-09 13:37:24-log: [Package] package-asset@1.0.0 enable
+2022-05-09 13:37:24-log: [Package] reference-image@1.0.0 enable
+2022-05-09 13:37:24-log: [Package] animation-graph@1.0.0 enable
+2022-05-09 13:37:24-log: [Package] channel-upload-tools@1.0.0 enable
+2022-05-09 13:37:24-log: [Package] runtime-dev-tools@1.0.0 enable
+2022-05-09 13:37:24-log: [Package] lightmap@1.0.4 enable
+2022-05-09 13:37:24-log: [Package] alipay-mini-game@1.0.0 enable
+2022-05-09 13:37:24-log: [Package] android@1.0.0 enable
+2022-05-09 13:37:24-log: [Package] baidu-mini-game@1.0.0 enable
+2022-05-09 13:37:24-log: [Package] bytedance-mini-game@1.0.1 enable
+2022-05-09 13:37:24-log: [Package] huawei-agc@1.0.0 enable
+2022-05-09 13:37:36-log: [Package] ios@1.0.0 enable
+2022-05-09 13:37:36-log: [Package] ios-app-clip@1.0.0 enable
+2022-05-09 13:37:36-log: [Package] mac@1.0.0 enable
+2022-05-09 13:37:36-log: [Package] native@1.0.0 enable
+2022-05-09 13:37:36-log: [Package] ohos@1.0.0 enable
+2022-05-09 13:37:37-log: [Package] web-desktop@1.0.0 enable
+2022-05-09 13:37:37-log: [Package] web-mobile@1.0.0 enable
+2022-05-09 13:37:37-log: [Package] wechatgame@1.0.1 enable
+2022-05-09 13:37:37-log: [Package] windows@1.0.0 enable
+2022-05-09 13:37:37-log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-05-09 13:37:37-log: [Package] cocos-play@1.0.0 enable
+2022-05-09 13:37:37-log: [Package] huawei-quick-game@1.0.0 enable
+2022-05-09 13:37:37-log: [Package] link-sure@1.0.0 enable
+2022-05-09 13:37:37-log: [Package] oppo-mini-game@1.0.0 enable
+2022-05-09 13:37:37-log: [Package] qtt@1.0.0 enable
+2022-05-09 13:37:37-log: [Package] vivo-mini-game@1.0.0 enable
+2022-05-09 13:37:37-log: [Package] cocos-service@3.0.2 enable
+2022-05-09 13:37:38-log: [Package] importer@1.0.0 enable
+2022-05-09 13:37:38-log: [Package] extension@3.0.15 enable
+2022-05-09 13:37:39-log: [Im-plugin] Check im-plugin version.
+2022-05-09 13:37:39-log: [Package] im-plugin@3.0.8 enable
+2022-05-09 13:37:39-log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-09 13:37:40-log: [Im-plugin] No online info of im-plugin.
+2022-05-09 13:37:48-warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-05-09 13:37:49-log: [Scene] Cocos Creator v3.4.2
+2022-05-09 13:37:50-info: [Scene] Forward render pipeline initialized.
+2022-05-09 13:38:12-info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-09 13:38:13-info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-09 13:38:13-info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-09 13:38:13-info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-09 13:38:13-info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-09 13:38:13-info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-09 13:38:13-info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:46:37.127Z - log: [Package] menu@1.0.0 enable
+2022-05-22T13:46:37.130Z - log: [Package] profile@1.0.0 enable
+2022-05-22T13:46:37.152Z - log: [Package] project@1.0.2 enable
+2022-05-22T13:46:37.160Z - log: [Package] messages@1.0.0 enable
+2022-05-22T13:46:37.165Z - log: [Package] program@1.0.0 enable
+2022-05-22T13:46:37.174Z - log: [Package] tester@1.0.0 enable
+2022-05-22T13:46:37.182Z - log: [Package] preferences@1.0.0 enable
+2022-05-22T13:46:38.234Z - log: Setup mods mgr.: 495.811ms
+2022-05-22T13:46:38.244Z - verbose: [Engine] QuickCompile engine (970ms)
+2022-05-22T13:46:38.248Z - log: [Package] engine@1.0.6 enable
+2022-05-22T13:46:39.283Z - log: [Package] programming@1.0.0 enable
+2022-05-22T13:46:39.602Z - log: [Package] device@1.0.1 enable
+2022-05-22T13:46:39.633Z - log: [Package] ui-kit@1.0.1 enable
+2022-05-22T13:46:39.657Z - log: [Package] engine-extends@1.0.0 enable
+2022-05-22T13:46:39.761Z - log: [Package] asset-db@1.0.0 enable
+2022-05-22T13:46:39.820Z - log: [Package] scene@1.0.0 enable
+2022-05-22T13:46:40.157Z - log: [Package] server@1.0.0 enable
+2022-05-22T13:46:40.195Z - log: [Package] utils@1.0.0 enable
+2022-05-22T13:46:46.263Z - log: [Package] preview@1.0.1 enable
+2022-05-22T13:46:46.392Z - log: [Package] animator@1.0.0 enable
+2022-05-22T13:46:46.634Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-22T13:46:48.514Z - log: [Package] builder@1.3.2 enable
+2022-05-22T13:46:48.549Z - log: [Package] shortcuts@1.0.1 enable
+2022-05-22T13:46:48.581Z - log: [Package] animation-graph@1.0.0 enable
+2022-05-22T13:46:48.604Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-05-22T13:46:48.627Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-05-22T13:46:48.662Z - log: [Package] about@1.0.0 enable
+2022-05-22T13:46:48.708Z - log: [Package] assets@1.0.0 enable
+2022-05-22T13:46:48.746Z - log: [Package] console@1.0.0 enable
+2022-05-22T13:46:49.376Z - log: [Package] extension@3.0.16 enable
+2022-05-22T13:46:49.422Z - log: [Package] hierarchy@1.0.0 enable
+2022-05-22T13:46:49.474Z - log: [Package] inspector@1.0.0 enable
+2022-05-22T13:46:49.643Z - log: [Package] lightmap@1.0.4 enable
+2022-05-22T13:46:49.801Z - log: [Package] node-library@1.0.1 enable
+2022-05-22T13:46:49.909Z - log: [Package] package-asset@1.0.0 enable
+2022-05-22T13:46:49.957Z - log: [Package] process@1.0.0 enable
+2022-05-22T13:46:50.001Z - log: [Package] reference-image@1.0.0 enable
+2022-05-22T13:46:50.026Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-05-22T13:46:50.055Z - log: [Package] android@1.0.0 enable
+2022-05-22T13:46:50.084Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-05-22T13:46:50.108Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-05-22T13:46:50.131Z - log: [Package] cocos-play@1.0.0 enable
+2022-05-22T13:46:50.161Z - log: [Package] huawei-agc@1.0.0 enable
+2022-05-22T13:46:50.191Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-05-22T13:46:51.528Z - log: [Package] ios@1.0.0 enable
+2022-05-22T13:46:51.589Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-05-22T13:46:51.616Z - log: [Package] link-sure@1.0.0 enable
+2022-05-22T13:46:51.645Z - log: [Package] linux@1.0.0 enable
+2022-05-22T13:46:51.683Z - log: [Package] mac@1.0.0 enable
+2022-05-22T13:46:51.844Z - log: [Package] native@1.0.0 enable
+2022-05-22T13:46:51.868Z - log: [Package] ohos@1.0.0 enable
+2022-05-22T13:46:51.893Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-05-22T13:46:51.920Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-05-22T13:46:51.947Z - log: [Package] qtt@1.0.0 enable
+2022-05-22T13:46:51.975Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-05-22T13:46:52.021Z - log: [Package] web-desktop@1.0.0 enable
+2022-05-22T13:46:52.081Z - log: [Package] web-mobile@1.0.0 enable
+2022-05-22T13:46:52.132Z - log: [Package] wechatgame@1.0.1 enable
+2022-05-22T13:46:52.299Z - log: [Package] windows@1.0.0 enable
+2022-05-22T13:46:52.344Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-05-22T13:46:52.935Z - log: [Package] cocos-service@3.0.3 enable
+2022-05-22T13:46:53.020Z - log: [Package] importer@1.0.0 enable
+2022-05-22T13:46:53.377Z - log: [Im-plugin] Check im-plugin version.
+2022-05-22T13:46:53.393Z - log: [Package] im-plugin@3.0.8 enable
+2022-05-22T13:46:53.871Z - verbose: [AssetDB] Require engine code (6000ms)
+2022-05-22T13:46:54.245Z - log: [Im-plugin] No online info of im-plugin.
+2022-05-22T13:46:55.300Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-22T13:47:11.085Z - verbose: [Scene] Require engine code (1ms)
+2022-05-22T13:47:11.086Z - verbose: [Scene] Startup engine (1ms)
+2022-05-22T13:47:11.137Z - log: [Scene] Cocos Creator v3.5.0
+2022-05-22T13:47:11.662Z - verbose: [Scene] Open engine (576ms)
+2022-05-22T13:47:11.663Z - verbose: [Scene] Configure engine (1ms)
+2022-05-22T13:47:11.335Z - info: [Scene] Forward render pipeline initialized.
+2022-05-22T13:47:12.493Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:47:12.725Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:47:12.734Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:47:12.746Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:47:12.747Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:47:12.751Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:47:12.752Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:47:23.317Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:47:23.339Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:47:23.368Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:47:23.375Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:47:23.380Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:47:23.387Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:27.718Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:27.719Z - log: [Scene] Cannot read property 'buffer' of nullTypeError: Cannot read property 'buffer' of null
+    at Proxy.init (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14735:91)
+    at Proxy.getArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14746:10)
+    at ArmatureDisplay._updateArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13318:39)
+    at ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13270:12)
+    at ArmatureDisplay.set dragonAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:12418:10)
+    at ArmatureDisplay.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at invokeAssetSetter (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1820)
+    at CallbacksInvoker.emit (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/callbacks-invoker.ccc:1:2992)
+    at AssetWatcherManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:5835)
+    at AssetManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/index.ccc:1:4996)
+2022-05-22T13:50:27.724Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:27.724Z - log: [Scene] Cannot read property 'buffer' of nullTypeError: Cannot read property 'buffer' of null
+    at Proxy.init (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14735:91)
+    at Proxy.getArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14746:10)
+    at ArmatureDisplay._updateArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13318:39)
+    at ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13270:12)
+    at ArmatureDisplay.set dragonAtlasAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:12443:10)
+    at ArmatureDisplay.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at invokeAssetSetter (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1820)
+    at CallbacksInvoker.emit (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/callbacks-invoker.ccc:1:2992)
+    at AssetWatcherManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:5835)
+    at AssetManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/index.ccc:1:4996)
+2022-05-22T13:50:27.758Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:27.758Z - log: [Scene] Cannot read property 'buffer' of nullTypeError: Cannot read property 'buffer' of null
+    at Proxy.init (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14735:91)
+    at Proxy.getArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14746:10)
+    at ArmatureDisplay._updateArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13318:39)
+    at ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13270:12)
+    at ArmatureDisplay.set dragonAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:12418:10)
+    at ArmatureDisplay.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at invokeAssetSetter (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1820)
+    at CallbacksInvoker.emit (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/callbacks-invoker.ccc:1:2992)
+    at AssetWatcherManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:5835)
+    at AssetManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/index.ccc:1:4996)
+2022-05-22T13:50:27.762Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:27.762Z - log: [Scene] Cannot read property 'buffer' of nullTypeError: Cannot read property 'buffer' of null
+    at Proxy.init (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14735:91)
+    at Proxy.getArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14746:10)
+    at ArmatureDisplay._updateArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13318:39)
+    at ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13270:12)
+    at ArmatureDisplay.set dragonAtlasAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:12443:10)
+    at ArmatureDisplay.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at invokeAssetSetter (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1820)
+    at CallbacksInvoker.emit (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/callbacks-invoker.ccc:1:2992)
+    at AssetWatcherManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:5835)
+    at AssetManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/index.ccc:1:4996)
+2022-05-22T13:50:27.767Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:27.767Z - log: [Scene] Cannot read property 'buffer' of nullTypeError: Cannot read property 'buffer' of null
+    at Proxy.init (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14735:91)
+    at Proxy.getArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14746:10)
+    at ArmatureDisplay._updateArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13318:39)
+    at ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13270:12)
+    at ArmatureDisplay.set dragonAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:12418:10)
+    at ArmatureDisplay.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at invokeAssetSetter (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1820)
+    at CallbacksInvoker.emit (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/callbacks-invoker.ccc:1:2992)
+    at AssetWatcherManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:5835)
+    at AssetManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/index.ccc:1:4996)
+2022-05-22T13:50:27.768Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:27.768Z - log: [Scene] Cannot read property 'buffer' of nullTypeError: Cannot read property 'buffer' of null
+    at Proxy.init (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14735:91)
+    at Proxy.getArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14746:10)
+    at ArmatureDisplay._updateArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13318:39)
+    at ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13270:12)
+    at ArmatureDisplay.set dragonAtlasAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:12443:10)
+    at ArmatureDisplay.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at invokeAssetSetter (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1820)
+    at CallbacksInvoker.emit (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/callbacks-invoker.ccc:1:2992)
+    at AssetWatcherManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:5835)
+    at AssetManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/index.ccc:1:4996)
+2022-05-22T13:50:27.790Z - error: [Window] Cannot read property 'buffer' of nullTypeError: Cannot read property 'buffer' of null
+    at <process:scene>
+    at Proxy.init (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14735:91)
+    at Proxy.getArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14746:10)
+    at ArmatureDisplay._updateArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13318:39)
+    at ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13270:12)
+    at ArmatureDisplay.set dragonAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:12418:10)
+    at ArmatureDisplay.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at invokeAssetSetter (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1820)
+    at CallbacksInvoker.emit (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/callbacks-invoker.ccc:1:2992)
+    at AssetWatcherManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:5835)
+    at AssetManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/index.ccc:1:4996)
+2022-05-22T13:50:27.792Z - error: [Window] Cannot read property 'buffer' of nullTypeError: Cannot read property 'buffer' of null
+    at <process:scene>
+    at Proxy.init (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14735:91)
+    at Proxy.getArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14746:10)
+    at ArmatureDisplay._updateArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13318:39)
+    at ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13270:12)
+    at ArmatureDisplay.set dragonAtlasAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:12443:10)
+    at ArmatureDisplay.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at invokeAssetSetter (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1820)
+    at CallbacksInvoker.emit (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/callbacks-invoker.ccc:1:2992)
+    at AssetWatcherManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:5835)
+    at AssetManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/index.ccc:1:4996)
+2022-05-22T13:50:27.811Z - error: [Window] Cannot read property 'buffer' of nullTypeError: Cannot read property 'buffer' of null
+    at <process:scene>
+    at Proxy.init (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14735:91)
+    at Proxy.getArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14746:10)
+    at ArmatureDisplay._updateArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13318:39)
+    at ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13270:12)
+    at ArmatureDisplay.set dragonAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:12418:10)
+    at ArmatureDisplay.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at invokeAssetSetter (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1820)
+    at CallbacksInvoker.emit (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/callbacks-invoker.ccc:1:2992)
+    at AssetWatcherManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:5835)
+    at AssetManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/index.ccc:1:4996)
+2022-05-22T13:50:27.811Z - error: [Window] Cannot read property 'buffer' of nullTypeError: Cannot read property 'buffer' of null
+    at <process:scene>
+    at Proxy.init (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14735:91)
+    at Proxy.getArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14746:10)
+    at ArmatureDisplay._updateArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13318:39)
+    at ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13270:12)
+    at ArmatureDisplay.set dragonAtlasAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:12443:10)
+    at ArmatureDisplay.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at invokeAssetSetter (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1820)
+    at CallbacksInvoker.emit (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/callbacks-invoker.ccc:1:2992)
+    at AssetWatcherManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:5835)
+    at AssetManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/index.ccc:1:4996)
+2022-05-22T13:50:27.812Z - error: [Window] Cannot read property 'buffer' of nullTypeError: Cannot read property 'buffer' of null
+    at <process:scene>
+    at Proxy.init (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14735:91)
+    at Proxy.getArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14746:10)
+    at ArmatureDisplay._updateArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13318:39)
+    at ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13270:12)
+    at ArmatureDisplay.set dragonAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:12418:10)
+    at ArmatureDisplay.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at invokeAssetSetter (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1820)
+    at CallbacksInvoker.emit (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/callbacks-invoker.ccc:1:2992)
+    at AssetWatcherManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:5835)
+    at AssetManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/index.ccc:1:4996)
+2022-05-22T13:50:27.812Z - error: [Window] Cannot read property 'buffer' of nullTypeError: Cannot read property 'buffer' of null
+    at <process:scene>
+    at Proxy.init (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14735:91)
+    at Proxy.getArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14746:10)
+    at ArmatureDisplay._updateArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13318:39)
+    at ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13270:12)
+    at ArmatureDisplay.set dragonAtlasAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:12443:10)
+    at ArmatureDisplay.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at invokeAssetSetter (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1820)
+    at CallbacksInvoker.emit (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/callbacks-invoker.ccc:1:2992)
+    at AssetWatcherManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:5835)
+    at AssetManager.onAssetDeleted (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/index.ccc:1:4996)
+2022-05-22T13:50:27.883Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:27.884Z - error: [Scene] Cannot read property 'buffer' of nullTypeError: Cannot read property 'buffer' of null
+    at Proxy.init (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14735:91)
+    at Proxy.getArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:14746:10)
+    at ArmatureDisplay._updateArmatureEnum (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13318:39)
+    at ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13270:12)
+    at ArmatureDisplay.set dragonAtlasAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:12443:10)
+    at ArmatureDisplay.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at invokeAssetSetter (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1820)
+    at CallbacksInvoker.emit (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/callbacks-invoker.ccc:1:2992)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:5682
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:77763:7
+2022-05-22T13:50:27.888Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:27.889Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:27.892Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:27.903Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:27.910Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:27.914Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:27.995Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.033Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.034Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.035Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.164Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.210Z - warn: [Scene] Missing class: d3a1cVCirpDlonbJrG1FY5HError: [Scene] Missing class: d3a1cVCirpDlonbJrG1FY5H
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:73075:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94074:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94015:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94230:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94049:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94021:23)
+2022-05-22T13:50:28.211Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:131551:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94199:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94212:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94142:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94107:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94015:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94230:32)
+2022-05-22T13:50:28.217Z - error: [Scene] Script "d3a1cVCirpDlonbJrG1FY5H" attached to "Node" is missing or invalid. Detailed information:
+Node path: "Canvas/Node"
+Script UUID: "d3a1c542-8aba-4396-89db-26b1b5158e47"
+Class ID: "d3a1cVCirpDlonbJrG1FY5H"
+Error: [Scene] Script "d3a1cVCirpDlonbJrG1FY5H" attached to "Node" is missing or invalid. Detailed information:
+Node path: "Canvas/Node"
+Script UUID: "d3a1c542-8aba-4396-89db-26b1b5158e47"
+Class ID: "d3a1cVCirpDlonbJrG1FY5H"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-05-22T13:50:28.291Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.440Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.527Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.604Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.607Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.614Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.616Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.621Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.622Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.869Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.876Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:28.879Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:29.499Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:29.526Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:29.547Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:29.552Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:29.559Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:29.560Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:50:42.631Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:51:16.410Z - warn: Metrics: no valid info
+2022-05-22T13:51:16.426Z - error: Error occurred in handler for 'GUEST_VIEW_MANAGER_CALL': Error: Invalid guestInstanceId: 6
+    at getGuestForWebContents (electron/js2c/browser_init.js:181:6307)
+    at electron/js2c/browser_init.js:181:5372
+    at electron/js2c/browser_init.js:181:1637
+    at electron/js2c/browser_init.js:197:579
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9782)
+    at Object.emit (events.js:315:20)
+2022-05-22T13:51:37.202Z - log: [Package] menu@1.0.0 enable
+2022-05-22T13:51:37.204Z - log: [Package] profile@1.0.0 enable
+2022-05-22T13:51:37.215Z - log: [Package] project@1.0.2 enable
+2022-05-22T13:51:37.221Z - log: [Package] messages@1.0.0 enable
+2022-05-22T13:51:37.224Z - log: [Package] program@1.0.0 enable
+2022-05-22T13:51:37.230Z - log: [Package] tester@1.0.0 enable
+2022-05-22T13:51:37.235Z - log: [Package] preferences@1.0.0 enable
+2022-05-22T13:51:38.028Z - log: Setup mods mgr.: 325.627ms
+2022-05-22T13:51:38.042Z - verbose: [Engine] QuickCompile engine (747ms)
+2022-05-22T13:51:38.045Z - log: [Package] engine@1.0.6 enable
+2022-05-22T13:51:38.938Z - log: [Package] programming@1.0.0 enable
+2022-05-22T13:51:39.225Z - log: [Package] device@1.0.1 enable
+2022-05-22T13:51:39.255Z - log: [Package] ui-kit@1.0.1 enable
+2022-05-22T13:51:39.280Z - log: [Package] engine-extends@1.0.0 enable
+2022-05-22T13:51:39.351Z - log: [Package] asset-db@1.0.0 enable
+2022-05-22T13:51:39.393Z - log: [Package] scene@1.0.0 enable
+2022-05-22T13:51:39.634Z - log: [Package] server@1.0.0 enable
+2022-05-22T13:51:39.664Z - log: [Package] utils@1.0.0 enable
+2022-05-22T13:51:44.225Z - log: [Package] preview@1.0.1 enable
+2022-05-22T13:51:44.259Z - log: [Package] animator@1.0.0 enable
+2022-05-22T13:51:44.388Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-22T13:51:45.333Z - log: [Package] builder@1.3.2 enable
+2022-05-22T13:51:45.367Z - log: [Package] shortcuts@1.0.1 enable
+2022-05-22T13:51:45.400Z - log: [Package] animation-graph@1.0.0 enable
+2022-05-22T13:51:45.426Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-05-22T13:51:45.458Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-05-22T13:51:45.492Z - log: [Package] about@1.0.0 enable
+2022-05-22T13:51:45.529Z - log: [Package] assets@1.0.0 enable
+2022-05-22T13:51:45.579Z - log: [Package] console@1.0.0 enable
+2022-05-22T13:51:45.813Z - log: [Package] extension@3.0.16 enable
+2022-05-22T13:51:45.866Z - log: [Package] hierarchy@1.0.0 enable
+2022-05-22T13:51:45.933Z - log: [Package] inspector@1.0.0 enable
+2022-05-22T13:51:45.975Z - log: [Package] lightmap@1.0.4 enable
+2022-05-22T13:51:46.030Z - log: [Package] node-library@1.0.1 enable
+2022-05-22T13:51:46.055Z - log: [Package] package-asset@1.0.0 enable
+2022-05-22T13:51:46.095Z - log: [Package] process@1.0.0 enable
+2022-05-22T13:51:46.134Z - log: [Package] reference-image@1.0.0 enable
+2022-05-22T13:51:46.161Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-05-22T13:51:46.190Z - log: [Package] android@1.0.0 enable
+2022-05-22T13:51:46.225Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-05-22T13:51:46.254Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-05-22T13:51:46.283Z - log: [Package] cocos-play@1.0.0 enable
+2022-05-22T13:51:46.312Z - log: [Package] huawei-agc@1.0.0 enable
+2022-05-22T13:51:46.340Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-05-22T13:51:47.653Z - log: [Package] ios@1.0.0 enable
+2022-05-22T13:51:47.682Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-05-22T13:51:47.709Z - log: [Package] link-sure@1.0.0 enable
+2022-05-22T13:51:47.734Z - log: [Package] linux@1.0.0 enable
+2022-05-22T13:51:47.763Z - log: [Package] mac@1.0.0 enable
+2022-05-22T13:51:47.923Z - log: [Package] native@1.0.0 enable
+2022-05-22T13:51:47.950Z - verbose: [AssetDB] Require engine code (2808ms)
+2022-05-22T13:51:47.970Z - log: [Package] ohos@1.0.0 enable
+2022-05-22T13:51:48.014Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-05-22T13:51:48.043Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-05-22T13:51:48.071Z - log: [Package] qtt@1.0.0 enable
+2022-05-22T13:51:48.099Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-05-22T13:51:48.139Z - log: [Package] web-desktop@1.0.0 enable
+2022-05-22T13:51:48.176Z - log: [Package] web-mobile@1.0.0 enable
+2022-05-22T13:51:48.216Z - log: [Package] wechatgame@1.0.1 enable
+2022-05-22T13:51:48.243Z - log: [Package] windows@1.0.0 enable
+2022-05-22T13:51:48.274Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-05-22T13:51:48.619Z - log: [Package] cocos-service@3.0.3 enable
+2022-05-22T13:51:48.663Z - log: [Package] importer@1.0.0 enable
+2022-05-22T13:51:49.117Z - log: [Im-plugin] Check im-plugin version.
+2022-05-22T13:51:49.132Z - log: [Package] im-plugin@3.0.8 enable
+2022-05-22T13:51:49.871Z - log: [Im-plugin] No online info of im-plugin.
+2022-05-22T13:51:50.566Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-22T13:51:57.231Z - verbose: [Scene] Require engine code (1ms)
+2022-05-22T13:51:57.233Z - verbose: [Scene] Startup engine (1ms)
+2022-05-22T13:51:57.321Z - log: [Scene] Cocos Creator v3.5.0
+2022-05-22T13:51:57.715Z - verbose: [Scene] Open engine (482ms)
+2022-05-22T13:51:57.715Z - verbose: [Scene] Configure engine (0ms)
+2022-05-22T13:51:57.449Z - info: [Scene] Forward render pipeline initialized.
+2022-05-22T13:51:58.574Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:51:58.745Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:51:58.753Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:51:58.776Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:51:58.782Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:51:58.787Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:51:58.788Z - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+2022-05-22T13:53:03.234Z - warn: Metrics: no valid info

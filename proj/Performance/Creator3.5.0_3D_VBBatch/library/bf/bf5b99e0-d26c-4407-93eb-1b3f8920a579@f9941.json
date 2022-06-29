@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "physics-benchmark",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 225
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 300,
+      "height": 225
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "bf5b99e0-d26c-4407-93eb-1b3f8920a579@6c48a",
+    "packable": true
+  }
+}

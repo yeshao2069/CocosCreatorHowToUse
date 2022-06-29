@@ -1,0 +1,50 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleColor/assets/ParticleColor.scene": {
+    "time": 1648658110566.8167,
+    "uuid": "330d7281-686f-4d42-ad1e-4a16fec9c775",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleColor/assets/script": {
+    "time": 1648658110567.674,
+    "uuid": "34d5b3c9-b8cb-4c3b-8d14-629610d961e0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleColor/assets/script/first-person-camera.ts": {
+    "time": 1648658110567.601,
+    "uuid": "05d9bba8-ba70-46b1-9f5f-9260823376a5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleColor/assets/script.meta": {
+    "time": 1648658110567.3691
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleColor/assets/script/first-person-camera.ts.meta": {
+    "time": 1648658110568.2166
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Particle/Creator3.4.2_3D_ParticleColor/assets/ParticleColor.scene.meta": {
+    "time": 1648658110567.199
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleColor/assets/ParticleColor.scene": {
+    "time": 1654078662588.6357,
+    "uuid": "330d7281-686f-4d42-ad1e-4a16fec9c775",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleColor/assets/script": {
+    "time": 1653963061473.469,
+    "uuid": "34d5b3c9-b8cb-4c3b-8d14-629610d961e0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleColor/assets/script/first-person-camera.ts": {
+    "time": 1653963061473.2734,
+    "uuid": "05d9bba8-ba70-46b1-9f5f-9260823376a5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleColor/assets/script.meta": {
+    "time": 1653963061473.025
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleColor/assets/script/first-person-camera.ts.meta": {
+    "time": 1653963061473.6064
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Particle/Creator3.5.1_3D_ParticleColor/assets/ParticleColor.scene.meta": {
+    "time": 1654078652133.129
+  }
+}

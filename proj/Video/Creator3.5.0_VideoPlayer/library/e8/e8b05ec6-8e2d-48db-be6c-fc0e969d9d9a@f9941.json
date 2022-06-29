@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "videplayIcon",
+    "atlas": "",
+    "rect": {
+      "x": 10,
+      "y": 4,
+      "width": 108,
+      "height": 121
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 128,
+      "height": 128
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "e8b05ec6-8e2d-48db-be6c-fc0e969d9d9a@6c48a",
+    "packable": true
+  }
+}

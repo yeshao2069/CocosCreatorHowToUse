@@ -1,0 +1,58 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_MaskUse/assets/MaskUse.scene": {
+    "time": 1653204012895.112,
+    "uuid": "e93aab30-b3b1-401f-81ce-fa0cab2e32f7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_MaskUse/assets/res": {
+    "time": 1648658111412.5615,
+    "uuid": "3b8f1bcb-671f-4231-b4f7-283dbaa201e1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_MaskUse/assets/res/cocos_creator.jpg": {
+    "time": 1648658111410.1035,
+    "uuid": "5ff9eff9-ad8e-41f3-a957-6ccacfeef322",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_MaskUse/assets/res/sheep.plist": {
+    "time": 1648658111411.7498,
+    "uuid": "13293159-2ed0-497a-96ad-77abb469640d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_MaskUse/assets/res/sheep.png": {
+    "time": 1648658111412.4563,
+    "uuid": "582d7903-a0a7-4d88-a29d-81cdaf01c2d0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_MaskUse/assets/res.meta": {
+    "time": 1648658111409.7092
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_MaskUse/assets/MaskUse.scene.meta": {
+    "time": 1653203978477.9602
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_MaskUse/assets/res/cocos_creator.jpg.meta": {
+    "time": 1653203978552.6626
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_MaskUse/assets/res/sheep.png.meta": {
+    "time": 1653203978558.3362
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_MaskUse/assets/res/sheep.plist.meta": {
+    "time": 1648658111411.8826
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_MaskUse/assets/script.meta": {
+    "time": 1653204003608.6323
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_MaskUse/assets/script": {
+    "time": 1653204005747.3848,
+    "uuid": "1a23a277-e196-47a8-824d-ecf7543cdf1b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_MaskUse/assets/script/MaskCtl.ts.meta": {
+    "time": 1648658111408.6353
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/UI/Creator3.5.0_2D_MaskUse/assets/script/MaskCtl.ts": {
+    "time": 1648658111407.953,
+    "uuid": "ffe8c69d-7724-45f2-a327-ad0a42fe4849",
+    "missing": false
+  }
+}

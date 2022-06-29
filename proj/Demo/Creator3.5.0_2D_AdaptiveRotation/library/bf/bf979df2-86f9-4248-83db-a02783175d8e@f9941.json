@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tk",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 185,
+      "height": 201
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 185,
+      "height": 201
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "bf979df2-86f9-4248-83db-a02783175d8e@6c48a",
+    "packable": true
+  }
+}

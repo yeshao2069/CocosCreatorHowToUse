@@ -1,0 +1,794 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/ObjectAlwaysFollow.scene": {
+    "time": 1648658109562.3628,
+    "uuid": "7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material": {
+    "time": 1648658109571.0996,
+    "uuid": "bcb14f34-8131-435f-a8f5-29612c45af59",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model": {
+    "time": 1648658109571.6458,
+    "uuid": "1ddc11ba-ecbd-4472-841c-f3777cb248da",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/script": {
+    "time": 1648658109789.1057,
+    "uuid": "c930842b-4302-496e-94cf-ebe39200165a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/skybox": {
+    "time": 1648658109816.2021,
+    "uuid": "9e344b1f-8681-4ddf-bcc6-bb014c332bb8",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material/hdcSky.mtl": {
+    "time": 1648658109568.5415,
+    "uuid": "482a5162-dad9-446c-b548-8486c7598ee1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material/plane.mtl": {
+    "time": 1648658109568.8647,
+    "uuid": "23e988d0-7168-4fe2-9d46-f29c114e9e33",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material/seafloor.mtl": {
+    "time": 1648658109569.2354,
+    "uuid": "70d33758-1c1e-424d-b0ab-eac7410559bf",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material/shield.mtl": {
+    "time": 1648658109569.6177,
+    "uuid": "8e047178-f61c-4322-a2f6-d1adb28b6ae2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material/soldier.mtl": {
+    "time": 1648658109570.0767,
+    "uuid": "8a58ddec-f437-40b9-8ec0-1fc87de97fb5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material/stone.mtl": {
+    "time": 1648658109570.3823,
+    "uuid": "a155f93b-7769-4ca4-b75f-b13e52193859",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material/tree.mtl": {
+    "time": 1648658109571.0293,
+    "uuid": "7bf9df40-4bc9-4e25-8cb0-9a500f949102",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld": {
+    "time": 1648658109784.1736,
+    "uuid": "11a1d348-a622-41b2-89f3-ed24657e5f84",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/script/ObjectAlwaysFollow.ts": {
+    "time": 1648658109788.9844,
+    "uuid": "0adf4c2a-b262-4815-ba1b-f19d8b23b820",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/skybox/sunnySkyBox.jpg": {
+    "time": 1648658109793.527,
+    "uuid": "5af201b5-5951-4e2c-a81f-ac4aad9132cb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass": {
+    "time": 1648658109629.9521,
+    "uuid": "e00862a8-c500-427c-b76f-bbe5203f19cc",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/hdcSky.FBX": {
+    "time": 1648658109630.9785,
+    "uuid": "929e58ce-66a4-4e04-9036-4244456a1220",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/hdcSky.prefab": {
+    "time": 1648658109633.8843,
+    "uuid": "f0512d7a-e4f6-4209-8dc0-ed1de7149c85",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/islands.FBX": {
+    "time": 1648658109637.3313,
+    "uuid": "0ab3142a-6968-4073-95af-026bc3b23623",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/islands.prefab": {
+    "time": 1648658109638.464,
+    "uuid": "ccc3a755-7d3d-4304-aa3b-ca4792d79d9f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/seafloor.jpg": {
+    "time": 1648658109641.5842,
+    "uuid": "4f4c4a34-2d08-4a4d-9169-834d7ce82cee",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/shield.jpg": {
+    "time": 1648658109642.2627,
+    "uuid": "95e5b02a-e338-423c-bdbb-17486db1d9eb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/sky.png": {
+    "time": 1648658109691.0415,
+    "uuid": "dc4a96c7-321a-48af-81e5-1127ad3ae432",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.FBX": {
+    "time": 1648658109724.4534,
+    "uuid": "e3553cad-2f15-4293-859a-8f43c780f289",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.png": {
+    "time": 1648658109730.4485,
+    "uuid": "6f891a7b-5a08-48e6-9841-ddb364ac86b1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.prefab": {
+    "time": 1648658109782.567,
+    "uuid": "cfc53c4e-7956-482b-aebc-3fb1dcd36eef",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/stone.jpg": {
+    "time": 1648658109783.3706,
+    "uuid": "0718d996-39bf-4ab4-bb63-496666fef467",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/tree.png": {
+    "time": 1648658109784.07,
+    "uuid": "c5083e75-ad2e-4ea9-8b33-dee748995b00",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.FBX": {
+    "time": 1648658109573.2554,
+    "uuid": "aade09ee-8f9d-413c-a9e8-8c686ea5e160",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.mtl": {
+    "time": 1648658109573.677,
+    "uuid": "b698e55a-b00b-4987-a8b4-af83cddc59f7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.png": {
+    "time": 1648658109574.1074,
+    "uuid": "ae18deea-c6e0-4a3d-bf70-ee5533f9ba87",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.prefab": {
+    "time": 1648658109578.6921,
+    "uuid": "ebe68402-4803-40d3-b0a2-ca696e3f7c60",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grassGoup.prefab": {
+    "time": 1648658109629.7993,
+    "uuid": "5e4d48c4-0e34-45af-a268-89485197e8bc",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material.meta": {
+    "time": 1648658109567.9685
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model.meta": {
+    "time": 1648658109571.3396
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/script.meta": {
+    "time": 1648658109784.4595
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/skybox.meta": {
+    "time": 1648658109791.4316
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material/hdcSky.mtl.meta": {
+    "time": 1648658109568.741
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material/seafloor.mtl.meta": {
+    "time": 1648658109569.4194
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material/plane.mtl.meta": {
+    "time": 1648658109569.046
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material/shield.mtl.meta": {
+    "time": 1648658109569.9375
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material/soldier.mtl.meta": {
+    "time": 1648658109570.2556
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld.meta": {
+    "time": 1648658109571.5747
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/script/ObjectAlwaysFollow.ts.meta": {
+    "time": 1648658109791.2415
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/ObjectAlwaysFollow.scene.meta": {
+    "time": 1648658109567.8167
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass.meta": {
+    "time": 1648658109571.8083
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material/tree.mtl.meta": {
+    "time": 1648658109571.2173
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/material/stone.mtl.meta": {
+    "time": 1648658109570.8867
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/hdcSky.prefab.meta": {
+    "time": 1648658109634.202
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/islands.prefab.meta": {
+    "time": 1648658109639.3254
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/seafloor.jpg.meta": {
+    "time": 1648658109642.028
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/shield.jpg.meta": {
+    "time": 1648658109642.4685
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/sky.png.meta": {
+    "time": 1648658109696.4705
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/hdcSky.FBX.meta": {
+    "time": 1648658109631.2305
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.prefab.meta": {
+    "time": 1648658109782.8628
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.png.meta": {
+    "time": 1648658109730.7417
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/skybox/sunnySkyBox.jpg.meta": {
+    "time": 1648658109816.3718
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/stone.jpg.meta": {
+    "time": 1648658109783.654
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/tree.png.meta": {
+    "time": 1648658109784.2888
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.mtl.meta": {
+    "time": 1648658109573.8923
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.prefab.meta": {
+    "time": 1648658109626.4067
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.png.meta": {
+    "time": 1648658109574.33
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grassGoup.prefab.meta": {
+    "time": 1648658109630.108
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.FBX.meta": {
+    "time": 1648658109573.535
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.FBX.meta": {
+    "time": 1648658109727.1484
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Demo/Creator3.4.2_3D_ObjectAlwaysFollow/assets/model/helloWorld/islands.FBX.meta": {
+    "time": 1648658109638.0125
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/ObjectAlwaysFollow.scene": {
+    "time": 1654070497501.9028,
+    "uuid": "7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material": {
+    "time": 1653963060846.4648,
+    "uuid": "bcb14f34-8131-435f-a8f5-29612c45af59",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model": {
+    "time": 1653963060847.0415,
+    "uuid": "1ddc11ba-ecbd-4472-841c-f3777cb248da",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/script": {
+    "time": 1653963060925.8806,
+    "uuid": "c930842b-4302-496e-94cf-ebe39200165a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/skybox": {
+    "time": 1653963060941.3335,
+    "uuid": "9e344b1f-8681-4ddf-bcc6-bb014c332bb8",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material/hdcSky.mtl": {
+    "time": 1654070497500.247,
+    "uuid": "482a5162-dad9-446c-b548-8486c7598ee1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material/plane.mtl": {
+    "time": 1654070497499.968,
+    "uuid": "23e988d0-7168-4fe2-9d46-f29c114e9e33",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material/seafloor.mtl": {
+    "time": 1654070497500.073,
+    "uuid": "70d33758-1c1e-424d-b0ab-eac7410559bf",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material/shield.mtl": {
+    "time": 1654070497499.9956,
+    "uuid": "8e047178-f61c-4322-a2f6-d1adb28b6ae2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material/soldier.mtl": {
+    "time": 1654070497528.8477,
+    "uuid": "8a58ddec-f437-40b9-8ec0-1fc87de97fb5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material/stone.mtl": {
+    "time": 1654070497537.2175,
+    "uuid": "a155f93b-7769-4ca4-b75f-b13e52193859",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material/tree.mtl": {
+    "time": 1654070497537.772,
+    "uuid": "7bf9df40-4bc9-4e25-8cb0-9a500f949102",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld": {
+    "time": 1653963060925.374,
+    "uuid": "11a1d348-a622-41b2-89f3-ed24657e5f84",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/script/ObjectAlwaysFollow.ts": {
+    "time": 1653963060925.8044,
+    "uuid": "0adf4c2a-b262-4815-ba1b-f19d8b23b820",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/skybox/sunnySkyBox.jpg": {
+    "time": 1653963060938.9155,
+    "uuid": "5af201b5-5951-4e2c-a81f-ac4aad9132cb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass": {
+    "time": 1653963060849.2463,
+    "uuid": "e00862a8-c500-427c-b76f-bbe5203f19cc",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/hdcSky.FBX": {
+    "time": 1653963060849.6328,
+    "uuid": "929e58ce-66a4-4e04-9036-4244456a1220",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/hdcSky.prefab": {
+    "time": 1654070497552.7268,
+    "uuid": "f0512d7a-e4f6-4209-8dc0-ed1de7149c85",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/islands.FBX": {
+    "time": 1653963060854.2927,
+    "uuid": "0ab3142a-6968-4073-95af-026bc3b23623",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/islands.prefab": {
+    "time": 1654070497555.1196,
+    "uuid": "ccc3a755-7d3d-4304-aa3b-ca4792d79d9f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/seafloor.jpg": {
+    "time": 1653963060859.0269,
+    "uuid": "4f4c4a34-2d08-4a4d-9169-834d7ce82cee",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/shield.jpg": {
+    "time": 1653963060859.633,
+    "uuid": "95e5b02a-e338-423c-bdbb-17486db1d9eb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/sky.png": {
+    "time": 1653963060865.7307,
+    "uuid": "dc4a96c7-321a-48af-81e5-1127ad3ae432",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.FBX": {
+    "time": 1653963060867.444,
+    "uuid": "e3553cad-2f15-4293-859a-8f43c780f289",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.png": {
+    "time": 1653963060891.0479,
+    "uuid": "6f891a7b-5a08-48e6-9841-ddb364ac86b1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.prefab": {
+    "time": 1654070499238.0554,
+    "uuid": "cfc53c4e-7956-482b-aebc-3fb1dcd36eef",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/stone.jpg": {
+    "time": 1653963060924.6086,
+    "uuid": "0718d996-39bf-4ab4-bb63-496666fef467",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/tree.png": {
+    "time": 1653963060925.2695,
+    "uuid": "c5083e75-ad2e-4ea9-8b33-dee748995b00",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.FBX": {
+    "time": 1653963060847.5537,
+    "uuid": "aade09ee-8f9d-413c-a9e8-8c686ea5e160",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.mtl": {
+    "time": 1654070499656.7634,
+    "uuid": "b698e55a-b00b-4987-a8b4-af83cddc59f7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.png": {
+    "time": 1653963060848.1477,
+    "uuid": "ae18deea-c6e0-4a3d-bf70-ee5533f9ba87",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.prefab": {
+    "time": 1654070499682.1108,
+    "uuid": "ebe68402-4803-40d3-b0a2-ca696e3f7c60",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grassGoup.prefab": {
+    "time": 1654070500112.796,
+    "uuid": "5e4d48c4-0e34-45af-a268-89485197e8bc",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material.meta": {
+    "time": 1653963060841.7346
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model.meta": {
+    "time": 1653963060846.658
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/script.meta": {
+    "time": 1653963060925.5679
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/skybox.meta": {
+    "time": 1653963060929.5388
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material/plane.mtl.meta": {
+    "time": 1654070497516.7559
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material/hdcSky.mtl.meta": {
+    "time": 1654070497518.8445
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material/shield.mtl.meta": {
+    "time": 1654070497521.529
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material/seafloor.mtl.meta": {
+    "time": 1654070497523.15
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld.meta": {
+    "time": 1653963060846.9712
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/script/ObjectAlwaysFollow.ts.meta": {
+    "time": 1653963060925.9392
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/ObjectAlwaysFollow.scene.meta": {
+    "time": 1654070497533.8015
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass.meta": {
+    "time": 1653963060847.1414
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material/soldier.mtl.meta": {
+    "time": 1654070497539.9875
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material/stone.mtl.meta": {
+    "time": 1654070497548.0515
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/material/tree.mtl.meta": {
+    "time": 1654070497550.4841
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/hdcSky.prefab.meta": {
+    "time": 1654070497557.1104
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/islands.prefab.meta": {
+    "time": 1654070497559.3506
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/seafloor.jpg.meta": {
+    "time": 1654070498052.6274
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/shield.jpg.meta": {
+    "time": 1654070498059.2515
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/sky.png.meta": {
+    "time": 1654070498652.5833
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/hdcSky.FBX.meta": {
+    "time": 1654070499230.0295
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.png.meta": {
+    "time": 1654070499233.3079
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.prefab.meta": {
+    "time": 1654070499603.8018
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/skybox/sunnySkyBox.jpg.meta": {
+    "time": 1654070499610.202
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/stone.jpg.meta": {
+    "time": 1654070499615.123
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.mtl.meta": {
+    "time": 1654070499667.6584
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/tree.png.meta": {
+    "time": 1654070499671.5535
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.prefab.meta": {
+    "time": 1654070499691.7324
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.png.meta": {
+    "time": 1654070499696.5774
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grassGoup.prefab.meta": {
+    "time": 1654070500143.0818
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.FBX.meta": {
+    "time": 1654070500247.3323
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/islands.FBX.meta": {
+    "time": 1654070500274.3975
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.FBX.meta": {
+    "time": 1654070500288.9666
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/ObjectAlwaysFollow.scene": {
+    "time": 1654680620576.308,
+    "uuid": "7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material": {
+    "time": 1654680620589.9634,
+    "uuid": "bcb14f34-8131-435f-a8f5-29612c45af59",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model": {
+    "time": 1654680620592.8457,
+    "uuid": "1ddc11ba-ecbd-4472-841c-f3777cb248da",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/script": {
+    "time": 1654680620877.9126,
+    "uuid": "c930842b-4302-496e-94cf-ebe39200165a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/skybox": {
+    "time": 1654680620928.071,
+    "uuid": "9e344b1f-8681-4ddf-bcc6-bb014c332bb8",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material/hdcSky.mtl": {
+    "time": 1654680620580.959,
+    "uuid": "482a5162-dad9-446c-b548-8486c7598ee1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material/plane.mtl": {
+    "time": 1654680620581.7727,
+    "uuid": "23e988d0-7168-4fe2-9d46-f29c114e9e33",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material/seafloor.mtl": {
+    "time": 1654680620588.3076,
+    "uuid": "70d33758-1c1e-424d-b0ab-eac7410559bf",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material/shield.mtl": {
+    "time": 1654680620588.7197,
+    "uuid": "8e047178-f61c-4322-a2f6-d1adb28b6ae2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material/soldier.mtl": {
+    "time": 1654680620588.9927,
+    "uuid": "8a58ddec-f437-40b9-8ec0-1fc87de97fb5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material/stone.mtl": {
+    "time": 1654680620589.245,
+    "uuid": "a155f93b-7769-4ca4-b75f-b13e52193859",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material/tree.mtl": {
+    "time": 1654680620589.6658,
+    "uuid": "7bf9df40-4bc9-4e25-8cb0-9a500f949102",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld": {
+    "time": 1654680620876.6646,
+    "uuid": "11a1d348-a622-41b2-89f3-ed24657e5f84",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/script/ObjectAlwaysFollow.ts": {
+    "time": 1654680620877.8223,
+    "uuid": "0adf4c2a-b262-4815-ba1b-f19d8b23b820",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/skybox/sunnySkyBox.jpg": {
+    "time": 1654680620927.8647,
+    "uuid": "5af201b5-5951-4e2c-a81f-ac4aad9132cb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass": {
+    "time": 1654680620720.249,
+    "uuid": "e00862a8-c500-427c-b76f-bbe5203f19cc",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/hdcSky.FBX": {
+    "time": 1654680620721.1191,
+    "uuid": "929e58ce-66a4-4e04-9036-4244456a1220",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/hdcSky.prefab": {
+    "time": 1654680620721.6682,
+    "uuid": "f0512d7a-e4f6-4209-8dc0-ed1de7149c85",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/islands.FBX": {
+    "time": 1654680620730.7207,
+    "uuid": "0ab3142a-6968-4073-95af-026bc3b23623",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/islands.prefab": {
+    "time": 1654680620731.2283,
+    "uuid": "ccc3a755-7d3d-4304-aa3b-ca4792d79d9f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/seafloor.jpg": {
+    "time": 1654680620794.362,
+    "uuid": "4f4c4a34-2d08-4a4d-9169-834d7ce82cee",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/shield.jpg": {
+    "time": 1654680620794.834,
+    "uuid": "95e5b02a-e338-423c-bdbb-17486db1d9eb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/sky.png": {
+    "time": 1654680620828.6274,
+    "uuid": "dc4a96c7-321a-48af-81e5-1127ad3ae432",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.FBX": {
+    "time": 1654680620830.5454,
+    "uuid": "e3553cad-2f15-4293-859a-8f43c780f289",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.png": {
+    "time": 1654680620832.937,
+    "uuid": "6f891a7b-5a08-48e6-9841-ddb364ac86b1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.prefab": {
+    "time": 1654680620833.3923,
+    "uuid": "cfc53c4e-7956-482b-aebc-3fb1dcd36eef",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/stone.jpg": {
+    "time": 1654680620833.9575,
+    "uuid": "0718d996-39bf-4ab4-bb63-496666fef467",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/tree.png": {
+    "time": 1654680620876.3877,
+    "uuid": "c5083e75-ad2e-4ea9-8b33-dee748995b00",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.FBX": {
+    "time": 1654680620714.202,
+    "uuid": "aade09ee-8f9d-413c-a9e8-8c686ea5e160",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.mtl": {
+    "time": 1654680620714.768,
+    "uuid": "b698e55a-b00b-4987-a8b4-af83cddc59f7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.png": {
+    "time": 1654680620715.087,
+    "uuid": "ae18deea-c6e0-4a3d-bf70-ee5533f9ba87",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.prefab": {
+    "time": 1654680620715.3608,
+    "uuid": "ebe68402-4803-40d3-b0a2-ca696e3f7c60",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grassGoup.prefab": {
+    "time": 1654680620716.9583,
+    "uuid": "5e4d48c4-0e34-45af-a268-89485197e8bc",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material.meta": {
+    "time": 1654680620580.303
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model.meta": {
+    "time": 1654680620590.14
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/script.meta": {
+    "time": 1654680620876.989
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/skybox.meta": {
+    "time": 1654680620878.1072
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material/seafloor.mtl.meta": {
+    "time": 1654680620588.5627
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material/plane.mtl.meta": {
+    "time": 1654680620582.3955
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material/hdcSky.mtl.meta": {
+    "time": 1654680620581.4429
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material/shield.mtl.meta": {
+    "time": 1654680620588.8472
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld.meta": {
+    "time": 1654680620592.7498
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material/soldier.mtl.meta": {
+    "time": 1654680620589.1104
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass.meta": {
+    "time": 1654680620598.017
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/ObjectAlwaysFollow.scene.meta": {
+    "time": 1654680620580.101
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/script/ObjectAlwaysFollow.ts.meta": {
+    "time": 1654680620877.968
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material/tree.mtl.meta": {
+    "time": 1654680620590.019
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/material/stone.mtl.meta": {
+    "time": 1654680620589.5269
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/hdcSky.prefab.meta": {
+    "time": 1654680620723.0234
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/islands.prefab.meta": {
+    "time": 1654680620731.3752
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/seafloor.jpg.meta": {
+    "time": 1654680620794.621
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/shield.jpg.meta": {
+    "time": 1654680620794.9807
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/sky.png.meta": {
+    "time": 1654680620828.8806
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.png.meta": {
+    "time": 1654680620833.1406
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.prefab.meta": {
+    "time": 1654680620833.5361
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/stone.jpg.meta": {
+    "time": 1654680620841.7917
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/hdcSky.FBX.meta": {
+    "time": 1654824676404.9214
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/tree.png.meta": {
+    "time": 1654680620876.818
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.mtl.meta": {
+    "time": 1654680620714.909
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/skybox/sunnySkyBox.jpg.meta": {
+    "time": 1654680620928.1494
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.prefab.meta": {
+    "time": 1654680620715.4697
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.png.meta": {
+    "time": 1654680620715.224
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grassGoup.prefab.meta": {
+    "time": 1654680620720.3416
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/grass/grass.FBX.meta": {
+    "time": 1654824676997.111
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/islands.FBX.meta": {
+    "time": 1654824677007.5107
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.1_3D_ObjectAlwaysFollow/assets/model/helloWorld/soldier.FBX.meta": {
+    "time": 1654824677029.4988
+  }
+}

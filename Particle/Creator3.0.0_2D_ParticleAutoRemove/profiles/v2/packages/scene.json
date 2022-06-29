@@ -1,0 +1,18 @@
+{
+  "__version__": "1.0.0",
+  "current-scene": "627ea069-2f7c-4480-90d0-1ddb442e386e",
+  "gizmos-infos": {
+    "is2D": true,
+    "is3DIcon": false,
+    "iconSize": 2,
+    "gridVisible": true,
+    "gridColor": [
+      150,
+      150,
+      150,
+      255
+    ],
+    "isIconGizmo3D": false,
+    "iconGizmoSize": 2
+  }
+}

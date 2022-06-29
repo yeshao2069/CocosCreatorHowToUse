@@ -1,0 +1,114 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/PianoPlayTest.scene": {
+    "time": 1653205536740.2546,
+    "uuid": "51aa1a3c-4184-422b-b643-fd09a9dcb82f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res": {
+    "time": 1648658109373.5437,
+    "uuid": "0c1cffc4-29e8-4113-b431-7bf4ebefcae9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/BlackButton.prefab": {
+    "time": 1653205497333.557,
+    "uuid": "a4fc53d2-e7e2-48af-8470-1ca4d4329202",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/Button(C).prefab": {
+    "time": 1653205497333.6357,
+    "uuid": "5168394d-df5b-4a5e-8e6d-4e0ee88072f7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio": {
+    "time": 1648658109377.5725,
+    "uuid": "f9b32294-f694-40b9-95e4-7275cd9f7824",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio/1.C(do).mp3": {
+    "time": 1648658109374.1846,
+    "uuid": "238dc619-3917-449b-a211-7d495cdd1415",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio/2.D(re).mp3": {
+    "time": 1648658109374.957,
+    "uuid": "5a68b56a-cf33-49b7-b2d8-2c529bec8c82",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio/3.E(mi).mp3": {
+    "time": 1648658109375.4111,
+    "uuid": "94dfced4-29c8-4ad1-9dfc-f45f7c90592e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio/4.F(fa).mp3": {
+    "time": 1648658109376.1636,
+    "uuid": "345f2f13-c51d-4d2d-920f-bad8addccd37",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio/5.G(sol).mp3": {
+    "time": 1648658109376.6255,
+    "uuid": "b118553c-4127-4978-ae74-6147d946a843",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio/6.A(la).mp3": {
+    "time": 1648658109377.0398,
+    "uuid": "6c2e4695-85ce-4cc0-9a6a-4e479d1b912b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio/7.B(si).mp3": {
+    "time": 1648658109377.4778,
+    "uuid": "72296237-1986-402d-b420-ca68ca80dd0a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res.meta": {
+    "time": 1648658109371.6714
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio.meta": {
+    "time": 1648658109373.4753
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/Button(C).prefab.meta": {
+    "time": 1653205497357.4766
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/PianoPlayTest.scene.meta": {
+    "time": 1653205497360.3044
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/BlackButton.prefab.meta": {
+    "time": 1653205497362.595
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio/1.C(do).mp3.meta": {
+    "time": 1648658109374.3545
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio/2.D(re).mp3.meta": {
+    "time": 1648658109375.1353
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio/3.E(mi).mp3.meta": {
+    "time": 1648658109375.6106
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio/4.F(fa).mp3.meta": {
+    "time": 1648658109376.3477
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio/5.G(sol).mp3.meta": {
+    "time": 1648658109376.767
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio/6.A(la).mp3.meta": {
+    "time": 1648658109377.173
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/res/audio/7.B(si).mp3.meta": {
+    "time": 1648658109377.6714
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/script.meta": {
+    "time": 1653205525631.7979
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/script": {
+    "time": 1653205528706.9753,
+    "uuid": "984c5ee5-483d-4834-b311-0d66942bcf2e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/script/AudioController.ts.meta": {
+    "time": 1648658109370.174
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PianoPlay/assets/script/AudioController.ts": {
+    "time": 1648658109369.836,
+    "uuid": "f202177f-d457-4b8d-a26c-538479a1848c",
+    "missing": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "emoji2",
+    "atlas": "3f8f04f9-45bf-4afa-a284-2cac988f1ec4",
+    "rect": {
+      "x": 136,
+      "y": 0,
+      "width": 132,
+      "height": 132
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 132,
+      "height": 132
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "73420687-81de-4f06-b285-b424dd008d75@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sheep_run_1",
+    "atlas": "cd935b82-0280-4a04-95b4-1664fcec362b",
+    "rect": {
+      "x": 182,
+      "y": 119,
+      "width": 176,
+      "height": 115
+    },
+    "offset": {
+      "x": 1,
+      "y": 2
+    },
+    "originalSize": {
+      "width": 228,
+      "height": 159
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "b6fc9602-f01d-4150-ab7d-d8e8816bbecc@6c48a",
+    "packable": true
+  }
+}

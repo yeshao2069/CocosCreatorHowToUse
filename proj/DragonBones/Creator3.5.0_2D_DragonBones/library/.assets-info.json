@@ -1,0 +1,202 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/DragonBones.scene": {
+    "time": 1648658109967.426,
+    "uuid": "18832b55-43f0-4ffa-a9a2-9291e907c617",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/DragonBonesCtrl.ts": {
+    "time": 1648658109968.608,
+    "uuid": "d3a1c542-8aba-4396-89db-26b1b5158e47",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res": {
+    "time": 1648658109983.6797,
+    "uuid": "cd9715f1-e40b-4bdc-a42f-e93653213944",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/mecha_1502b_ske.json": {
+    "time": 1648658109970.702,
+    "uuid": "191689e5-7006-46bd-8d41-151237992334",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/mecha_1502b_tex.json": {
+    "time": 1648658109971.3428,
+    "uuid": "d75bb174-1b58-457c-9734-5cc9299fb8e8",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/mecha_1502b_tex.png": {
+    "time": 1648658109975.0913,
+    "uuid": "de03a8d5-608c-449b-bfea-b667fe284727",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/skin_1502b_ske.json": {
+    "time": 1648658109975.6863,
+    "uuid": "5bbee23e-e45b-49f1-842c-ff547978d3c1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/skin_1502b_tex.json": {
+    "time": 1648658109976.1018,
+    "uuid": "e0723978-be68-4f59-b488-3c53f4b9e30e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/skin_1502b_tex.png": {
+    "time": 1648658109980.1997,
+    "uuid": "c9a76535-a2c4-45fc-8b78-7e5bc840ffbb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/weapon_1000_ske.json": {
+    "time": 1648658109980.753,
+    "uuid": "1c3bbc68-1df6-49b1-8c70-3eb6755034e7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/weapon_1000_tex.json": {
+    "time": 1648658109981.2266,
+    "uuid": "d2eb0d15-8dc2-42b4-a7ea-8ae1670e52a1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/weapon_1000_tex.png": {
+    "time": 1648658109982.9377,
+    "uuid": "cadf345d-62ac-4aa6-a57d-c4a0a560afde",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res.meta": {
+    "time": 1648658109969.9685
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/DragonBonesCtrl.ts.meta": {
+    "time": 1648658109969.7952
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/mecha_1502b_ske.json.meta": {
+    "time": 1648658109971.1733
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/DragonBones.scene.meta": {
+    "time": 1648658109968.1157
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/skin_1502b_ske.json.meta": {
+    "time": 1648658109975.963
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/weapon_1000_ske.json.meta": {
+    "time": 1648658109981.069
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/mecha_1502b_tex.png.meta": {
+    "time": 1648658109975.5276
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/skin_1502b_tex.png.meta": {
+    "time": 1648658109980.6035
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/mecha_1502b_tex.json.meta": {
+    "time": 1648658109971.7305
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/skin_1502b_tex.json.meta": {
+    "time": 1648658109976.4995
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/weapon_1000_tex.png.meta": {
+    "time": 1648658109983.9233
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/DragonBones/Creator3.4.2_2D_DragonBones/assets/res/weapon_1000_tex.json.meta": {
+    "time": 1648658109981.4756
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/DragonBones.scene": {
+    "time": 1653227488021.4927,
+    "uuid": "18832b55-43f0-4ffa-a9a2-9291e907c617",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res": {
+    "time": 1653227363825.0867,
+    "uuid": "cd9715f1-e40b-4bdc-a42f-e93653213944",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/mecha_1502b_ske.json": {
+    "time": 1653227363808.2903,
+    "uuid": "191689e5-7006-46bd-8d41-151237992334",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/mecha_1502b_tex.json": {
+    "time": 1653227363808.816,
+    "uuid": "d75bb174-1b58-457c-9734-5cc9299fb8e8",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/mecha_1502b_tex.png": {
+    "time": 1653227363811.561,
+    "uuid": "de03a8d5-608c-449b-bfea-b667fe284727",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/skin_1502b_ske.json": {
+    "time": 1653227363816.594,
+    "uuid": "5bbee23e-e45b-49f1-842c-ff547978d3c1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/skin_1502b_tex.json": {
+    "time": 1653227363817.401,
+    "uuid": "e0723978-be68-4f59-b488-3c53f4b9e30e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/skin_1502b_tex.png": {
+    "time": 1653227363822.1123,
+    "uuid": "c9a76535-a2c4-45fc-8b78-7e5bc840ffbb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/weapon_1000_ske.json": {
+    "time": 1653227363822.9104,
+    "uuid": "1c3bbc68-1df6-49b1-8c70-3eb6755034e7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/weapon_1000_tex.json": {
+    "time": 1653227363823.303,
+    "uuid": "d2eb0d15-8dc2-42b4-a7ea-8ae1670e52a1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/weapon_1000_tex.png": {
+    "time": 1653227363824.4753,
+    "uuid": "cadf345d-62ac-4aa6-a57d-c4a0a560afde",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res.meta": {
+    "time": 1653227363800.159
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/mecha_1502b_ske.json.meta": {
+    "time": 1653227363808.6404
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/skin_1502b_ske.json.meta": {
+    "time": 1653227363817.19
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/DragonBones.scene.meta": {
+    "time": 1653227363799.96
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/weapon_1000_ske.json.meta": {
+    "time": 1653227363823.1765
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/mecha_1502b_tex.png.meta": {
+    "time": 1653227363816.22
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/skin_1502b_tex.png.meta": {
+    "time": 1653227363822.7542
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/mecha_1502b_tex.json.meta": {
+    "time": 1653227363809.0193
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/skin_1502b_tex.json.meta": {
+    "time": 1653227363818.0288
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/weapon_1000_tex.png.meta": {
+    "time": 1653227363825.273
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/res/weapon_1000_tex.json.meta": {
+    "time": 1653227363823.5015
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/script.meta": {
+    "time": 1653227363825.5037
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/script": {
+    "time": 1653227363826.0588,
+    "uuid": "86fd25b8-43c7-435a-ad3b-07234a79dcf5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/script/DragonBonesCtrl.ts.meta": {
+    "time": 1653227363826.3298
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/DragonBones/Creator3.5.0_2D_DragonBones/assets/script/DragonBonesCtrl.ts": {
+    "time": 1653227363825.9607,
+    "uuid": "d3a1c542-8aba-4396-89db-26b1b5158e47",
+    "missing": false
+  }
+}

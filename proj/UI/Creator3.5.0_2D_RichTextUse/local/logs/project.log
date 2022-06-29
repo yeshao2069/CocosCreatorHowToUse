@@ -1,0 +1,74 @@
+2022-05-22T06:51:54.590Z - log: [Package] menu@1.0.0 enable
+2022-05-22T06:51:54.592Z - log: [Package] profile@1.0.0 enable
+2022-05-22T06:51:54.606Z - log: [Package] project@1.0.2 enable
+2022-05-22T06:51:54.612Z - log: [Package] messages@1.0.0 enable
+2022-05-22T06:51:54.619Z - log: [Package] program@1.0.0 enable
+2022-05-22T06:51:54.625Z - log: [Package] tester@1.0.0 enable
+2022-05-22T06:51:54.632Z - log: [Package] preferences@1.0.0 enable
+2022-05-22T06:51:55.430Z - log: Setup mods mgr.: 322.044ms
+2022-05-22T06:51:55.441Z - verbose: [Engine] QuickCompile engine (746ms)
+2022-05-22T06:51:55.445Z - log: [Package] engine@1.0.6 enable
+2022-05-22T06:51:56.339Z - log: [Package] programming@1.0.0 enable
+2022-05-22T06:51:56.651Z - log: [Package] device@1.0.1 enable
+2022-05-22T06:51:56.677Z - log: [Package] ui-kit@1.0.1 enable
+2022-05-22T06:51:56.705Z - log: [Package] engine-extends@1.0.0 enable
+2022-05-22T06:51:56.773Z - log: [Package] asset-db@1.0.0 enable
+2022-05-22T06:51:56.837Z - log: [Package] scene@1.0.0 enable
+2022-05-22T06:51:57.063Z - log: [Package] server@1.0.0 enable
+2022-05-22T06:51:57.095Z - log: [Package] utils@1.0.0 enable
+2022-05-22T06:52:01.779Z - log: [Package] preview@1.0.1 enable
+2022-05-22T06:52:01.824Z - log: [Package] animator@1.0.0 enable
+2022-05-22T06:52:02.060Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-22T06:52:02.974Z - log: [Package] builder@1.3.2 enable
+2022-05-22T06:52:03.010Z - log: [Package] shortcuts@1.0.1 enable
+2022-05-22T06:52:03.045Z - log: [Package] animation-graph@1.0.0 enable
+2022-05-22T06:52:03.073Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-05-22T06:52:03.097Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-05-22T06:52:03.130Z - log: [Package] about@1.0.0 enable
+2022-05-22T06:52:03.166Z - log: [Package] assets@1.0.0 enable
+2022-05-22T06:52:03.202Z - log: [Package] console@1.0.0 enable
+2022-05-22T06:52:03.518Z - log: [Package] extension@3.0.16 enable
+2022-05-22T06:52:03.570Z - log: [Package] hierarchy@1.0.0 enable
+2022-05-22T06:52:03.621Z - log: [Package] inspector@1.0.0 enable
+2022-05-22T06:52:03.660Z - log: [Package] lightmap@1.0.4 enable
+2022-05-22T06:52:03.744Z - log: [Package] node-library@1.0.1 enable
+2022-05-22T06:52:03.779Z - log: [Package] package-asset@1.0.0 enable
+2022-05-22T06:52:03.819Z - log: [Package] process@1.0.0 enable
+2022-05-22T06:52:03.855Z - log: [Package] reference-image@1.0.0 enable
+2022-05-22T06:52:03.881Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-05-22T06:52:03.910Z - log: [Package] android@1.0.0 enable
+2022-05-22T06:52:03.955Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-05-22T06:52:03.982Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-05-22T06:52:04.011Z - log: [Package] cocos-play@1.0.0 enable
+2022-05-22T06:52:04.041Z - log: [Package] huawei-agc@1.0.0 enable
+2022-05-22T06:52:04.070Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-05-22T06:52:05.373Z - log: [Package] ios@1.0.0 enable
+2022-05-22T06:52:05.406Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-05-22T06:52:05.437Z - log: [Package] link-sure@1.0.0 enable
+2022-05-22T06:52:05.477Z - log: [Package] linux@1.0.0 enable
+2022-05-22T06:52:05.506Z - log: [Package] mac@1.0.0 enable
+2022-05-22T06:52:05.629Z - log: [Package] native@1.0.0 enable
+2022-05-22T06:52:05.659Z - log: [Package] ohos@1.0.0 enable
+2022-05-22T06:52:05.683Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-05-22T06:52:05.708Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-05-22T06:52:05.735Z - log: [Package] qtt@1.0.0 enable
+2022-05-22T06:52:05.771Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-05-22T06:52:05.815Z - log: [Package] web-desktop@1.0.0 enable
+2022-05-22T06:52:05.868Z - log: [Package] web-mobile@1.0.0 enable
+2022-05-22T06:52:05.908Z - log: [Package] wechatgame@1.0.1 enable
+2022-05-22T06:52:05.931Z - log: [Package] windows@1.0.0 enable
+2022-05-22T06:52:05.957Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-05-22T06:52:06.363Z - log: [Package] cocos-service@3.0.3 enable
+2022-05-22T06:52:06.409Z - log: [Package] importer@1.0.0 enable
+2022-05-22T06:52:06.780Z - log: [Im-plugin] Check im-plugin version.
+2022-05-22T06:52:06.804Z - log: [Package] im-plugin@3.0.8 enable
+2022-05-22T06:52:07.778Z - log: [Im-plugin] No online info of im-plugin.
+2022-05-22T06:52:08.913Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-22T06:52:09.443Z - verbose: [AssetDB] Require engine code (4046ms)
+2022-05-22T06:52:23.886Z - verbose: [Scene] Require engine code (1ms)
+2022-05-22T06:52:23.894Z - verbose: [Scene] Startup engine (4ms)
+2022-05-22T06:52:23.945Z - log: [Scene] Cocos Creator v3.5.0
+2022-05-22T06:52:24.342Z - verbose: [Scene] Open engine (451ms)
+2022-05-22T06:52:24.342Z - verbose: [Scene] Configure engine (0ms)
+2022-05-22T06:52:24.081Z - info: [Scene] Forward render pipeline initialized.
+2022-05-22T07:06:43.149Z - warn: Metrics: no valid info

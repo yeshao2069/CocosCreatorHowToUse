@@ -1,0 +1,181 @@
+2022-05-09 15:14:41-log: [Package] menu@1.0.0 enable
+2022-05-09 15:14:41-log: [Package] profile@1.0.0 enable
+2022-05-09 15:14:41-log: [Package] project@1.0.1 enable
+2022-05-09 15:14:41-log: [Package] messages@1.0.0 enable
+2022-05-09 15:14:41-log: [Package] program@1.0.0 enable
+2022-05-09 15:14:41-log: [Package] device@1.0.1 enable
+2022-05-09 15:14:41-log: [Package] ui-kit@1.0.1 enable
+2022-05-09 15:14:41-log: [Package] tester@1.0.0 enable
+2022-05-09 15:14:41-log: [Package] preferences@1.0.0 enable
+2022-05-09 15:14:42-log: Setup mods mgr.: 325.248ms
+2022-05-09 15:14:42-log: Profile changed: engine (modules.includeModules: 2d,3d,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle,particle-2d,physics-2d-box2d,physics-ammo,primitive,profiler,spine,terrain,tiled-map,tween,ui,video,webview)
+2022-05-09 15:14:42-log: [Package] engine@1.0.5 enable
+2022-05-09 15:14:45-log: [Package] programming@1.0.0 enable
+2022-05-09 15:14:45-log: [Package] Profile Migrate: builder@Cocos Creator...
+2022-05-09 15:14:45-log: [Package] Profile Migrate: builder@Cocos Creator...
+2022-05-09 15:14:45-log: [Package] engine-extends@1.0.0 enable
+2022-05-09 15:14:45-log: [Package] asset-db@1.0.0 enable
+2022-05-09 15:14:45-log: [Package] console@1.0.0 enable
+2022-05-09 15:14:45-log: [Package] scene@1.0.0 enable
+2022-05-09 15:14:45-log: [Package] about@1.0.0 enable
+2022-05-09 15:14:45-log: [Package] server@1.0.0 enable
+2022-05-09 15:14:45-log: [Package] utils@1.0.0 enable
+2022-05-09 15:14:46-log: [Package] assets@1.0.0 enable
+2022-05-09 15:14:48-log: [Package] preview@1.0.1 enable
+2022-05-09 15:14:48-log: [Package] animator@1.0.0 enable
+2022-05-09 15:14:48-log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-09 15:14:50-log: Profile changed: builder (log.level: 4)
+2022-05-09 15:14:50-log: [Package] builder@1.3.1 enable
+2022-05-09 15:14:50-log: [Package] node-library@1.0.0 enable
+2022-05-09 15:14:50-log: [Package] shortcuts@1.0.1 enable
+2022-05-09 15:14:50-log: [Package] package-asset@1.0.0 enable
+2022-05-09 15:14:50-log: [Package] reference-image@1.0.0 enable
+2022-05-09 15:14:50-log: [Package] animation-graph@1.0.0 enable
+2022-05-09 15:14:50-log: [Package] channel-upload-tools@1.0.0 enable
+2022-05-09 15:14:50-log: [Package] runtime-dev-tools@1.0.0 enable
+2022-05-09 15:14:50-log: [Package] lightmap@1.0.4 enable
+2022-05-09 15:14:50-log: [Package] alipay-mini-game@1.0.0 enable
+2022-05-09 15:14:50-log: [Package] android@1.0.0 enable
+2022-05-09 15:14:50-log: [Package] baidu-mini-game@1.0.0 enable
+2022-05-09 15:14:50-log: [Package] bytedance-mini-game@1.0.1 enable
+2022-05-09 15:14:50-log: [Package] huawei-agc@1.0.0 enable
+2022-05-09 15:14:52-log: [Package] ios@1.0.0 enable
+2022-05-09 15:14:52-log: [Package] ios-app-clip@1.0.0 enable
+2022-05-09 15:14:52-log: [Package] mac@1.0.0 enable
+2022-05-09 15:14:52-log: [Package] native@1.0.0 enable
+2022-05-09 15:14:52-log: [Package] ohos@1.0.0 enable
+2022-05-09 15:14:52-log: [Package] web-desktop@1.0.0 enable
+2022-05-09 15:14:52-log: [Package] web-mobile@1.0.0 enable
+2022-05-09 15:14:52-log: [Package] wechatgame@1.0.1 enable
+2022-05-09 15:14:52-log: [Package] windows@1.0.0 enable
+2022-05-09 15:14:53-log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-05-09 15:14:53-log: [Package] cocos-play@1.0.0 enable
+2022-05-09 15:14:53-log: [Package] huawei-quick-game@1.0.0 enable
+2022-05-09 15:14:53-log: [Package] link-sure@1.0.0 enable
+2022-05-09 15:14:53-log: [Package] oppo-mini-game@1.0.0 enable
+2022-05-09 15:14:53-log: [Package] qtt@1.0.0 enable
+2022-05-09 15:14:53-log: [Package] vivo-mini-game@1.0.0 enable
+2022-05-09 15:14:53-log: [Package] cocos-service@3.0.2 enable
+2022-05-09 15:14:53-log: [Package] importer@1.0.0 enable
+2022-05-09 15:14:54-log: [Package] extension@3.0.15 enable
+2022-05-09 15:14:55-log: [Im-plugin] Check im-plugin version.
+2022-05-09 15:14:55-log: [Package] im-plugin@3.0.8 enable
+2022-05-09 15:14:56-log: [Im-plugin] No online info of im-plugin.
+2022-05-09 15:14:56-log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-09 15:15:01-warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-05-09 15:15:02-log: [Scene] Cocos Creator v3.4.2
+2022-05-09 15:15:03-warn: [Scene] 'macro.KEY' is deprecated. (please use KeyCode instead)
+2022-05-09 15:15:03-warn: [Scene] 'macro.KEY.shift' is deprecated. (please use KeyCode.SHIFT_LEFT instead)
+2022-05-09 15:15:03-info: [Scene] Forward render pipeline initialized.
+2022-05-09 15:15:04-warn: [Scene] 'macro.KEY' is deprecated. (please use KeyCode instead)
+2022-05-09 15:15:04-warn: [Scene] 'macro.KEY.shift' is deprecated. (please use KeyCode.SHIFT_LEFT instead)
+2022-05-31T06:58:24.743Z - log: [Package] menu@1.0.0 enable
+2022-05-31T06:58:24.746Z - log: [Package] profile@1.0.0 enable
+2022-05-31T06:58:24.759Z - log: [Package] project@1.0.2 enable
+2022-05-31T06:58:24.765Z - log: [Package] messages@1.0.0 enable
+2022-05-31T06:58:24.769Z - log: [Package] program@1.0.0 enable
+2022-05-31T06:58:24.775Z - log: [Package] tester@1.0.0 enable
+2022-05-31T06:58:24.782Z - log: [Package] preferences@1.0.0 enable
+2022-05-31T06:58:25.543Z - log: Setup mods mgr.: 333.843ms
+2022-05-31T06:58:25.554Z - verbose: [Engine] QuickCompile engine (711ms)
+2022-05-31T06:58:25.557Z - log: [Package] engine@1.0.6 enable
+2022-05-31T06:58:26.395Z - log: [Package] programming@1.0.0 enable
+2022-05-31T06:58:26.696Z - log: [Package] device@1.0.1 enable
+2022-05-31T06:58:26.724Z - log: [Package] ui-kit@1.0.1 enable
+2022-05-31T06:58:26.758Z - log: [Package] engine-extends@1.0.0 enable
+2022-05-31T06:58:26.826Z - log: [Package] asset-db@1.0.0 enable
+2022-05-31T06:58:26.867Z - log: [Package] scene@1.0.0 enable
+2022-05-31T06:58:27.121Z - log: [Package] server@1.0.0 enable
+2022-05-31T06:58:27.154Z - log: [Package] utils@1.0.0 enable
+2022-05-31T06:58:31.346Z - log: [Package] preview@1.0.1 enable
+2022-05-31T06:58:31.378Z - log: [Package] animator@1.0.0 enable
+2022-05-31T06:58:31.509Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-31T06:58:32.614Z - log: [Package] builder@1.3.2 enable
+2022-05-31T06:58:32.648Z - log: [Package] shortcuts@1.0.1 enable
+2022-05-31T06:58:32.682Z - log: [Package] animation-graph@1.0.0 enable
+2022-05-31T06:58:32.709Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-05-31T06:58:32.734Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-05-31T06:58:32.774Z - log: [Package] about@1.0.0 enable
+2022-05-31T06:58:32.823Z - log: [Package] assets@1.0.0 enable
+2022-05-31T06:58:32.866Z - log: [Package] console@1.0.0 enable
+2022-05-31T06:58:33.249Z - log: [Package] extension@3.0.16 enable
+2022-05-31T06:58:33.290Z - log: [Package] hierarchy@1.0.0 enable
+2022-05-31T06:58:33.329Z - log: [Package] inspector@1.0.0 enable
+2022-05-31T06:58:33.407Z - log: [Package] lightmap@1.0.4 enable
+2022-05-31T06:58:33.511Z - log: [Package] node-library@1.0.1 enable
+2022-05-31T06:58:33.537Z - log: [Package] package-asset@1.0.0 enable
+2022-05-31T06:58:33.584Z - log: [Package] process@1.0.0 enable
+2022-05-31T06:58:33.633Z - log: [Package] reference-image@1.0.0 enable
+2022-05-31T06:58:33.660Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-05-31T06:58:33.689Z - log: [Package] android@1.0.0 enable
+2022-05-31T06:58:33.716Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-05-31T06:58:33.744Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-05-31T06:58:33.771Z - log: [Package] cocos-play@1.0.0 enable
+2022-05-31T06:58:33.800Z - log: [Package] huawei-agc@1.0.0 enable
+2022-05-31T06:58:33.825Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-05-31T06:58:35.212Z - log: [Package] ios@1.0.0 enable
+2022-05-31T06:58:35.241Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-05-31T06:58:35.269Z - log: [Package] link-sure@1.0.0 enable
+2022-05-31T06:58:35.296Z - log: [Package] linux@1.0.0 enable
+2022-05-31T06:58:35.324Z - log: [Package] mac@1.0.0 enable
+2022-05-31T06:58:35.473Z - log: [Package] native@1.0.0 enable
+2022-05-31T06:58:35.492Z - verbose: [AssetDB] Require engine code (3187ms)
+2022-05-31T06:58:35.500Z - log: [Package] ohos@1.0.0 enable
+2022-05-31T06:58:35.526Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-05-31T06:58:35.570Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-05-31T06:58:35.603Z - log: [Package] qtt@1.0.0 enable
+2022-05-31T06:58:35.636Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-05-31T06:58:35.676Z - log: [Package] web-desktop@1.0.0 enable
+2022-05-31T06:58:35.714Z - log: [Package] web-mobile@1.0.0 enable
+2022-05-31T06:58:35.759Z - log: [Package] wechatgame@1.0.1 enable
+2022-05-31T06:58:35.799Z - log: [Package] windows@1.0.0 enable
+2022-05-31T06:58:35.827Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-05-31T06:58:36.217Z - log: [Package] cocos-service@3.0.3 enable
+2022-05-31T06:58:36.257Z - log: [Package] importer@1.0.0 enable
+2022-05-31T06:58:36.724Z - log: [Im-plugin] Check im-plugin version.
+2022-05-31T06:58:36.758Z - log: [Package] im-plugin@3.0.8 enable
+2022-05-31T06:58:37.834Z - log: [Im-plugin] No online info of im-plugin.
+2022-05-31T06:58:38.278Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-31T06:58:50.552Z - verbose: [Scene] Require engine code (0ms)
+2022-05-31T06:58:50.556Z - verbose: [Scene] Startup engine (1ms)
+2022-05-31T06:58:50.596Z - log: [Scene] Cocos Creator v3.5.0
+2022-05-31T06:58:50.693Z - warn: [Scene] 'macro.KEY' is deprecated. (please use KeyCode instead)Error: [Scene] 'macro.KEY' is deprecated. (please use KeyCode instead)
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:131533:10)
+    at markAsWarningLog (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:145566:5)
+    at Object.get (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:145626:13)
+    at Object.execute (file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsConvexColliders/temp/programming/packer-driver/targets/editor/chunks/09/09a80a24d9d6cf3ed8147f2ba73d1735b4a5b700.js:48:22)
+    at doExec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:487:32)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:483:10)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+2022-05-31T06:58:50.694Z - warn: [Scene] 'macro.KEY.shift' is deprecated. (please use KeyCode.SHIFT_LEFT instead)Error: [Scene] 'macro.KEY.shift' is deprecated. (please use KeyCode.SHIFT_LEFT instead)
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:131533:10)
+    at markAsWarningLog (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:145566:5)
+    at Object.get (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:145626:13)
+    at Object.execute (file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsConvexColliders/temp/programming/packer-driver/targets/editor/chunks/09/09a80a24d9d6cf3ed8147f2ba73d1735b4a5b700.js:48:26)
+    at doExec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:487:32)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:483:10)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+2022-05-31T06:58:50.940Z - verbose: [Scene] Open engine (386ms)
+2022-05-31T06:58:50.941Z - verbose: [Scene] Configure engine (1ms)
+2022-05-31T06:58:50.708Z - info: [Scene] Forward render pipeline initialized.
+2022-05-31T06:58:51.704Z - warn: [Scene] 'macro.KEY' is deprecated. (please use KeyCode instead)Error: [Scene] 'macro.KEY' is deprecated. (please use KeyCode instead)
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:131533:10)
+    at markAsWarningLog (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:145566:5)
+    at Object.get (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:145626:13)
+    at Object.execute (file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsConvexColliders/temp/programming/packer-driver/targets/editor/chunks/09/09a80a24d9d6cf3ed8147f2ba73d1735b4a5b700.js:48:22)
+    at doExec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:487:32)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:483:10)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+2022-05-31T06:58:51.704Z - warn: [Scene] 'macro.KEY.shift' is deprecated. (please use KeyCode.SHIFT_LEFT instead)Error: [Scene] 'macro.KEY.shift' is deprecated. (please use KeyCode.SHIFT_LEFT instead)
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:131533:10)
+    at markAsWarningLog (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:145566:5)
+    at Object.get (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:145626:13)
+    at Object.execute (file:///Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsConvexColliders/temp/programming/packer-driver/targets/editor/chunks/09/09a80a24d9d6cf3ed8147f2ba73d1735b4a5b700.js:48:26)
+    at doExec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:487:32)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:483:10)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+2022-05-31T06:59:15.535Z - warn: Metrics: no valid info

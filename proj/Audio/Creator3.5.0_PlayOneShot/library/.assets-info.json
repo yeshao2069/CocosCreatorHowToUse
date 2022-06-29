@@ -1,0 +1,42 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PlayOneShot/assets/scene.scene": {
+    "time": 1653205400069.0623,
+    "uuid": "9386b5ce-bb42-4bc0-86a0-dec983c08152",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PlayOneShot/assets/scene.scene.meta": {
+    "time": 1653205374973.0237
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PlayOneShot/assets/script.meta": {
+    "time": 1653205385371.754
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PlayOneShot/assets/script": {
+    "time": 1653205388488.575,
+    "uuid": "af8b8acd-6f79-48b3-af7b-12995f1323be",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PlayOneShot/assets/script/audioPlay.ts.meta": {
+    "time": 1648658109382.273
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PlayOneShot/assets/script/audioPlay.ts": {
+    "time": 1648658109381.8992,
+    "uuid": "199900dd-770f-43e3-b513-823f1cc06b46",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PlayOneShot/assets/res.meta": {
+    "time": 1653205394340.539
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PlayOneShot/assets/res": {
+    "time": 1653205397408.2732,
+    "uuid": "5cebb354-ff64-410c-b178-80baa1ad8bf1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PlayOneShot/assets/res/menSing.mp3.meta": {
+    "time": 1648658109384.0598
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Audio/Creator3.5.0_PlayOneShot/assets/res/menSing.mp3": {
+    "time": 1648658109383.7507,
+    "uuid": "04bf1389-9791-4ac3-a090-1713c9a6454a",
+    "missing": false
+  }
+}

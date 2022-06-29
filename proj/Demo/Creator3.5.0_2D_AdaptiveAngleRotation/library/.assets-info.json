@@ -1,0 +1,34 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveAngleRotation/assets/AdaptiveAngleRotation2D.scene": {
+    "time": 1654076324778.7722,
+    "uuid": "26f0e097-d067-485d-a455-5045a433819e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveAngleRotation/assets/AdaptiveAngleRotation2D.ts": {
+    "time": 1653963060776.3394,
+    "uuid": "c7dc3f73-7329-4fa3-9292-35fefde81d7d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveAngleRotation/assets/res": {
+    "time": 1653963060777.7705,
+    "uuid": "318d4bbe-1b1a-4b64-a2fe-6009008481b1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveAngleRotation/assets/res/content.png": {
+    "time": 1653963060777.6665,
+    "uuid": "6b4faed5-abc3-4a77-af9d-35ed67a5a48b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveAngleRotation/assets/res.meta": {
+    "time": 1653963060776.6064
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveAngleRotation/assets/AdaptiveAngleRotation2D.ts.meta": {
+    "time": 1653963060776.4607
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveAngleRotation/assets/AdaptiveAngleRotation2D.scene.meta": {
+    "time": 1654076261277.6045
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Demo/Creator3.5.0_2D_AdaptiveAngleRotation/assets/res/content.png.meta": {
+    "time": 1654076261296.1091
+  }
+}

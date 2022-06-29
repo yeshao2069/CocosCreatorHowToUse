@@ -1,0 +1,34 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Graphics/Creator3.4.2_2D_GraphicsArc/assets/GraphicsArc.scene": {
+    "time": 1648658110082.4055,
+    "uuid": "717b0d9d-cae0-4bff-bb2f-fdcbfb27ec12",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Graphics/Creator3.4.2_2D_GraphicsArc/assets/GraphicsArc.ts": {
+    "time": 1648658110083.0537,
+    "uuid": "382c559a-a02e-4655-8831-73dfd21d6da6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Graphics/Creator3.4.2_2D_GraphicsArc/assets/GraphicsArc.ts.meta": {
+    "time": 1648658110083.426
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Graphics/Creator3.4.2_2D_GraphicsArc/assets/GraphicsArc.scene.meta": {
+    "time": 1648658110082.8867
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Graphics/Creator3.5.0_2D_GraphicsArc/assets/GraphicsArc.scene": {
+    "time": 1653976206524.8157,
+    "uuid": "717b0d9d-cae0-4bff-bb2f-fdcbfb27ec12",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Graphics/Creator3.5.0_2D_GraphicsArc/assets/GraphicsArc.ts": {
+    "time": 1653963061193.1355,
+    "uuid": "382c559a-a02e-4655-8831-73dfd21d6da6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Graphics/Creator3.5.0_2D_GraphicsArc/assets/GraphicsArc.ts.meta": {
+    "time": 1653963061193.2498
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Graphics/Creator3.5.0_2D_GraphicsArc/assets/GraphicsArc.scene.meta": {
+    "time": 1653976206544.4722
+  }
+}

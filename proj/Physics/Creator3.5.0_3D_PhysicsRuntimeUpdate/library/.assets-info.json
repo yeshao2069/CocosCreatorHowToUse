@@ -1,0 +1,194 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/PhysicsRuntimeUpdate.scene": {
+    "time": 1652081274876.6155,
+    "uuid": "83a82bb8-7d21-4d3b-8f1f-fe6062941b86",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/res": {
+    "time": 1648658111043.6519,
+    "uuid": "8ad244d0-7890-43eb-b813-e7a8597fa419",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/script": {
+    "time": 1648658111045.324,
+    "uuid": "4f5684a6-8f53-424d-bca2-b8ff35b55d3f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/res/blue-emissive.mtl": {
+    "time": 1652081274865.9177,
+    "uuid": "ed198fb7-8d82-4712-b9ae-d5eed11a7121",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/res/cannon-ammo.prefab": {
+    "time": 1652081274877.563,
+    "uuid": "14fd94d4-e154-4f0c-81d1-606d5b26b08d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/res/m-transparent.mtl": {
+    "time": 1652081274866.1338,
+    "uuid": "c7af7e6f-1736-4a14-b170-dfb441ba4216",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/res/red-emissive.mtl": {
+    "time": 1652081274866.1738,
+    "uuid": "045ab010-4ad6-4761-b56c-58cf836fb69c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/res/white-emissive.mtl": {
+    "time": 1652081274876.4797,
+    "uuid": "86fd0f06-41bb-41a0-9d92-ae3b642d687c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/script/EnumCommand.ts": {
+    "time": 1648658111044.1309,
+    "uuid": "af01729f-a3ee-4037-8d2f-99a98c08d22f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/script/LoopMotion.ts": {
+    "time": 1648658111044.4072,
+    "uuid": "98fc4f29-b199-42ae-868c-1ee559f63b2f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/script/PhysicsEnvCheck.ts": {
+    "time": 1648658111044.95,
+    "uuid": "55515ce4-9d98-4990-8f6f-a8e0bb34756f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/script/SupportPhyiscs.ts": {
+    "time": 1648658111045.2341,
+    "uuid": "87f6226e-6a28-4eb5-8626-daed8926523e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/res.meta": {
+    "time": 1648658111039.347
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/script.meta": {
+    "time": 1648658111043.932
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/res/m-transparent.mtl.meta": {
+    "time": 1652081274876.2053
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/res/blue-emissive.mtl.meta": {
+    "time": 1652081274877.3132
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/res/red-emissive.mtl.meta": {
+    "time": 1652081274878.194
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/script/EnumCommand.ts.meta": {
+    "time": 1652081274885.389
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/script/LoopMotion.ts.meta": {
+    "time": 1652081274886.2913
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/script/PhysicsEnvCheck.ts.meta": {
+    "time": 1652081274887.2415
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/res/white-emissive.mtl.meta": {
+    "time": 1652081274890.5332
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/script/SupportPhyiscs.ts.meta": {
+    "time": 1652081274892.021
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/PhysicsRuntimeUpdate.scene.meta": {
+    "time": 1652081274892.9214
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Physics/Creator3.4.2_3D_PhysicsRuntimeUpdate/assets/res/cannon-ammo.prefab.meta": {
+    "time": 1652081274893.944
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/PhysicsRuntimeUpdate.scene": {
+    "time": 1653977307643.4927,
+    "uuid": "83a82bb8-7d21-4d3b-8f1f-fe6062941b86",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/res": {
+    "time": 1653963062484.3438,
+    "uuid": "8ad244d0-7890-43eb-b813-e7a8597fa419",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/script": {
+    "time": 1653963062486.0088,
+    "uuid": "4f5684a6-8f53-424d-bca2-b8ff35b55d3f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/res/blue-emissive.mtl": {
+    "time": 1653977307619.9463,
+    "uuid": "ed198fb7-8d82-4712-b9ae-d5eed11a7121",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/res/cannon-ammo.prefab": {
+    "time": 1653977307620.1245,
+    "uuid": "14fd94d4-e154-4f0c-81d1-606d5b26b08d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/res/m-transparent.mtl": {
+    "time": 1653977307625.546,
+    "uuid": "c7af7e6f-1736-4a14-b170-dfb441ba4216",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/res/red-emissive.mtl": {
+    "time": 1653977307625.427,
+    "uuid": "045ab010-4ad6-4761-b56c-58cf836fb69c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/res/white-emissive.mtl": {
+    "time": 1653977307650.1458,
+    "uuid": "86fd0f06-41bb-41a0-9d92-ae3b642d687c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/script/EnumCommand.ts": {
+    "time": 1653963062484.9434,
+    "uuid": "af01729f-a3ee-4037-8d2f-99a98c08d22f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/script/LoopMotion.ts": {
+    "time": 1653963062485.2212,
+    "uuid": "98fc4f29-b199-42ae-868c-1ee559f63b2f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/script/PhysicsEnvCheck.ts": {
+    "time": 1653963062485.491,
+    "uuid": "55515ce4-9d98-4990-8f6f-a8e0bb34756f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/script/SupportPhyiscs.ts": {
+    "time": 1653963062485.7256,
+    "uuid": "87f6226e-6a28-4eb5-8626-daed8926523e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/res.meta": {
+    "time": 1653963062482.5059
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/script.meta": {
+    "time": 1653963062484.7256
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/res/blue-emissive.mtl.meta": {
+    "time": 1653977307639.3364
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/res/m-transparent.mtl.meta": {
+    "time": 1653977307643.079
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/res/red-emissive.mtl.meta": {
+    "time": 1653977307646.0818
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/script/EnumCommand.ts.meta": {
+    "time": 1653963062485.0876
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/res/cannon-ammo.prefab.meta": {
+    "time": 1653977307652.884
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/script/LoopMotion.ts.meta": {
+    "time": 1653963062485.347
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/script/PhysicsEnvCheck.ts.meta": {
+    "time": 1653963062485.5972
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/PhysicsRuntimeUpdate.scene.meta": {
+    "time": 1653977307662.078
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/script/SupportPhyiscs.ts.meta": {
+    "time": 1653963062486.0598
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Physics/Creator3.5.0_3D_PhysicsRuntimeUpdate/assets/res/white-emissive.mtl.meta": {
+    "time": 1653977307671.9114
+  }
+}

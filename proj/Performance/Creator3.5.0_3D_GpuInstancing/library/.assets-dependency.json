@@ -1,0 +1,699 @@
+{
+  "uuid": {
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/skyBox/Material #32.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/altman/Material #2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/altman/red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/altman/red_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/clown/Material #4.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/clown/red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/clown/red_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_01.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_01_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_02.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_02_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/kolou/Standard_1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/kolou/Standard_1_instancing.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/map/DanGao001.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/map/DanGao002.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/map/Material #29.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/map/Material #30.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/shitou/Standard_1-0.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/shitou/Standard_1-1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/shitou/Standard_1-1_instancing.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/soldier/Material #7.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/soldier/solider.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/soldier/solider_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/dance/Materials_dance1/Material #124.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/dance/Materials_dance1/body1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model-animation/skyBox/Material #32.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model-animation/model/altman/Material #2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model-animation/model/clown/Material #4.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model-animation/model/cocosWalk/cocosfinish_01.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model-animation/model/cocosWalk/cocosfinish_02.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model-animation/model/kolou/Standard_1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model-animation/model/map/Material #30.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model-animation/model/map/Material #29.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model-animation/model/soldier/Material #7.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model-animation/model/shitou/Standard_1-0.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model-animation/model/shitou/Standard_1-1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model-animation/model/dance/Materials_dance1/Material #124.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model-animation/model/dance/Materials_dance1/body1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/skyBox/Material #32.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/altman/Material #2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/altman/red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/altman/red_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/clown/Material #4.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/clown/red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/clown/red_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_01.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_01_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_02.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_02_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/kolou/Standard_1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/kolou/Standard_1_instancing.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/map/DanGao001.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/map/DanGao002.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/map/Material #29.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/map/Material #30.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/shitou/Standard_1-0.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/shitou/Standard_1-1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/shitou/Standard_1-1_instancing.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/soldier/Material #7.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/soldier/solider.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/soldier/solider_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model-animation/skyBox/Material #32.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/dance/Materials_dance1/Material #124.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/dance/Materials_dance1/body1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/altman/Material #2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/clown/Material #4.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/cocosWalk/cocosfinish_01.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/cocosWalk/cocosfinish_02.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/kolou/Standard_1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/map/Material #29.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/map/Material #30.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/shitou/Standard_1-0.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/shitou/Standard_1-1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/soldier/Material #7.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/dance/Materials_dance1/body1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/dance/Materials_dance1/Material #124.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/skyBox/Material #32.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/altman/Material #2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/altman/red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/altman/red_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/clown/Material #4.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/clown/red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/clown/red_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_01.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_01_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_02.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_02_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/kolou/Standard_1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/kolou/Standard_1_instancing.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/map/DanGao001.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/map/DanGao002.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/map/Material #29.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/map/Material #30.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/shitou/Standard_1-0.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/shitou/Standard_1-1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/shitou/Standard_1-1_instancing.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/soldier/Material #7.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/soldier/solider.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/soldier/solider_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model-animation/skyBox/Material #32.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/dance/Materials_dance1/Material #124.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/dance/Materials_dance1/body1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/altman/Material #2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/clown/Material #4.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/cocosWalk/cocosfinish_01.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/cocosWalk/cocosfinish_02.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/kolou/Standard_1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/map/Material #29.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/map/Material #30.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/shitou/Standard_1-0.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/shitou/Standard_1-1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/soldier/Material #7.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/dance/Materials_dance1/Material #124.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model-animation/model/dance/Materials_dance1/body1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/skyBox/Material #32.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/altman/Material #2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/altman/red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/altman/red_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/clown/Material #4.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/clown/red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/clown/red_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_01.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_01_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_02.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_02_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/kolou/Standard_1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/kolou/Standard_1_instancing.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/map/DanGao001.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/map/DanGao002.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/map/Material #29.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/map/Material #30.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/shitou/Standard_1-0.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/shitou/Standard_1-1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/shitou/Standard_1-1_instancing.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/soldier/Material #7.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/soldier/solider.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/soldier/solider_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model-animation/skyBox/Material #32.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/dance/Materials_dance1/Material #124.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/dance/Materials_dance1/body1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model-animation/model/altman/Material #2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model-animation/model/clown/Material #4.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model-animation/model/cocosWalk/cocosfinish_01.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model-animation/model/cocosWalk/cocosfinish_02.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model-animation/model/kolou/Standard_1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model-animation/model/map/Material #29.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model-animation/model/map/Material #30.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model-animation/model/shitou/Standard_1-0.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model-animation/model/shitou/Standard_1-1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model-animation/model/soldier/Material #7.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model-animation/model/dance/Materials_dance1/Material #124.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model-animation/model/dance/Materials_dance1/body1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/skyBox/Material #32.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/altman/Material #2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/altman/red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/altman/red_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/clown/Material #4.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/clown/red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/clown/red_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_01.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_01_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_02.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/cocosfinish_02_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/kolou/Standard_1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/kolou/Standard_1_instancing.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/map/DanGao001.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/map/DanGao002.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/map/Material #29.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/map/Material #30.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/shitou/Standard_1-0.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/shitou/Standard_1-1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/shitou/Standard_1-1_instancing.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/soldier/Material #7.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/soldier/solider.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/soldier/solider_instancing.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model-animation/skyBox/Material #32.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/dance/Materials_dance1/Material #124.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/dance/Materials_dance1/body1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model-animation/model/altman/Material #2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model-animation/model/clown/Material #4.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model-animation/model/cocosWalk/cocosfinish_01.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model-animation/model/cocosWalk/cocosfinish_02.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model-animation/model/kolou/Standard_1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model-animation/model/map/Material #29.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model-animation/model/map/Material #30.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model-animation/model/shitou/Standard_1-0.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model-animation/model/shitou/Standard_1-1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model-animation/model/soldier/Material #7.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model-animation/model/dance/Materials_dance1/Material #124.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model-animation/model/dance/Materials_dance1/body1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  },
+  "path": {
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.bin"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@3effa": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_baseColor.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@221a5": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_occlusionRoughnessMetallic.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@0089c": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_normal.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@9b633": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_emissive.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@9b782": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_baseColor.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@50743": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_occlusionRoughnessMetallic.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@99ea5": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_normal.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.bin"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@3effa": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_baseColor.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@221a5": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_occlusionRoughnessMetallic.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@0089c": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_normal.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@9b633": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_emissive.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@9b782": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_baseColor.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@50743": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_occlusionRoughnessMetallic.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@99ea5": [
+      "/Users/mu/work/gitee/internal-demo/demo/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_normal.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf": [
+      "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.bin"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@3effa": [
+      "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_baseColor.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@221a5": [
+      "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_occlusionRoughnessMetallic.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@0089c": [
+      "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_normal.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@9b633": [
+      "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_emissive.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@9b782": [
+      "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_baseColor.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@50743": [
+      "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_occlusionRoughnessMetallic.png"
+    ],
+    "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@99ea5": [
+      "/Users/mu/work/gitee/internal-demo/training/Creator3.4.1_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_normal.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.bin"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@3effa": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_baseColor.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@221a5": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_occlusionRoughnessMetallic.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@0089c": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_normal.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@9b633": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_emissive.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@9b782": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_baseColor.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@50743": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_occlusionRoughnessMetallic.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@99ea5": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/Performance/Creator3.4.2_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_normal.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.bin"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@3effa": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_baseColor.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@221a5": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_occlusionRoughnessMetallic.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@0089c": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_normal.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@9b633": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_01_emissive.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@9b782": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_baseColor.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@50743": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_occlusionRoughnessMetallic.png"
+    ],
+    "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish.gltf@99ea5": [
+      "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Performance/Creator3.5.0_3D_GpuInstancing/assets/model/cocosWalk/Tex/cocosfinish_02_normal.png"
+    ]
+  }
+}

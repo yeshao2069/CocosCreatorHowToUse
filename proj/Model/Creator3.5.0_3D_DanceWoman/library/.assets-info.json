@@ -1,0 +1,162 @@
+{
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/DanceWoman.scene": {
+    "time": 1648658110127.3704,
+    "uuid": "9945e609-3d62-4ea5-bc34-5d5802a9f3da",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/res": {
+    "time": 1648658110176.1335,
+    "uuid": "6f082bf1-b593-423a-8715-87c756606ab6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/script": {
+    "time": 1648658110178.0747,
+    "uuid": "2eb8dfad-f5c2-48ad-9017-c22acd2b0c64",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/res/default-material.mtl": {
+    "time": 1648658110129.0742,
+    "uuid": "1f824d03-a0de-4b24-8d4d-cf78f871aa45",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/res/model.fbx": {
+    "time": 1648658110151.533,
+    "uuid": "6f2f5118-77cb-41ee-9397-223f4bef8f13",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/res/model@Capoeira.fbx": {
+    "time": 1648658110166.6096,
+    "uuid": "dc74d0f6-0fba-47b1-9a9c-5bd8a054a001",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/res/model@Defeated.fbx": {
+    "time": 1648658110175.7917,
+    "uuid": "ec4918e4-a585-450f-939f-3a47b8345b1d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/script/AutoClick.ts": {
+    "time": 1648658110176.743,
+    "uuid": "5c22baa3-f63f-44fd-989a-f92c80ee1fd9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/script/AutoItem.ts": {
+    "time": 1648658110177.314,
+    "uuid": "420c6715-fc68-42c4-9aa7-aaa92e613ae4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/script/Model3D.ts": {
+    "time": 1648658110177.9958,
+    "uuid": "245b1a26-f916-4db0-8983-a4a0144c0d8f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/res.meta": {
+    "time": 1648658110128.5825
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/script.meta": {
+    "time": 1648658110176.556
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/res/default-material.mtl.meta": {
+    "time": 1648658110129.4937
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/script/AutoClick.ts.meta": {
+    "time": 1648658110177.183
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/DanceWoman.scene.meta": {
+    "time": 1648658110127.906
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/script/AutoItem.ts.meta": {
+    "time": 1648658110177.8298
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/script/Model3D.ts.meta": {
+    "time": 1648658110178.385
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/res/model@Defeated.fbx.meta": {
+    "time": 1648658110176.4045
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/res/model@Capoeira.fbx.meta": {
+    "time": 1648658110167.456
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/Model/Creator3.4.2_3D_DanceWoman/assets/res/model.fbx.meta": {
+    "time": 1648658110152.7393
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/DanceWoman.scene": {
+    "time": 1653210469838.9182,
+    "uuid": "9945e609-3d62-4ea5-bc34-5d5802a9f3da",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/res": {
+    "time": 1648658110176.1335,
+    "uuid": "6f082bf1-b593-423a-8715-87c756606ab6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/script": {
+    "time": 1648658110178.0747,
+    "uuid": "2eb8dfad-f5c2-48ad-9017-c22acd2b0c64",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/res/default-material.mtl": {
+    "time": 1653210469837.639,
+    "uuid": "1f824d03-a0de-4b24-8d4d-cf78f871aa45",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/res/model.fbx": {
+    "time": 1648658110151.533,
+    "uuid": "6f2f5118-77cb-41ee-9397-223f4bef8f13",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/res/model@Capoeira.fbx": {
+    "time": 1648658110166.6096,
+    "uuid": "dc74d0f6-0fba-47b1-9a9c-5bd8a054a001",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/res/model@Defeated.fbx": {
+    "time": 1648658110175.7917,
+    "uuid": "ec4918e4-a585-450f-939f-3a47b8345b1d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/script/AutoClick.ts": {
+    "time": 1648658110176.743,
+    "uuid": "5c22baa3-f63f-44fd-989a-f92c80ee1fd9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/script/AutoItem.ts": {
+    "time": 1648658110177.314,
+    "uuid": "420c6715-fc68-42c4-9aa7-aaa92e613ae4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/script/Model3D.ts": {
+    "time": 1648658110177.9958,
+    "uuid": "245b1a26-f916-4db0-8983-a4a0144c0d8f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/res.meta": {
+    "time": 1648658110128.5825
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/script.meta": {
+    "time": 1648658110176.556
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/script/AutoClick.ts.meta": {
+    "time": 1648658110177.183
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/res/default-material.mtl.meta": {
+    "time": 1653210469861.9446
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/script/AutoItem.ts.meta": {
+    "time": 1648658110177.8298
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/DanceWoman.scene.meta": {
+    "time": 1653210469871.4045
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/script/Model3D.ts.meta": {
+    "time": 1648658110178.385
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/res/model@Capoeira.fbx.meta": {
+    "time": 1653210478826.5142
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/res/model@Defeated.fbx.meta": {
+    "time": 1653210478967.8188
+  },
+  "/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Model/Creator3.5.0_3D_DanceWoman/assets/res/model.fbx.meta": {
+    "time": 1653210478987.8757
+  }
+}

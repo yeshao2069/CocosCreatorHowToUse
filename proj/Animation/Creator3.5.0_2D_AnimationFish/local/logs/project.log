@@ -1,0 +1,222 @@
+2022-05-16 11:41:38-log: [Package] menu@1.0.0 enable
+2022-05-16 11:41:38-log: [Package] profile@1.0.0 enable
+2022-05-16 11:41:38-log: [Package] project@1.0.1 enable
+2022-05-16 11:41:38-log: [Package] messages@1.0.0 enable
+2022-05-16 11:41:38-log: [Package] program@1.0.0 enable
+2022-05-16 11:41:38-log: [Package] device@1.0.1 enable
+2022-05-16 11:41:38-log: [Package] ui-kit@1.0.1 enable
+2022-05-16 11:41:38-log: [Package] tester@1.0.0 enable
+2022-05-16 11:41:38-log: [Package] preferences@1.0.0 enable
+2022-05-16 11:41:39-log: Setup mods mgr.: 334.181ms
+2022-05-16 11:41:39-log: Profile changed: engine (modules.includeModules: 2d,3d,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle,particle-2d,physics-2d-box2d,physics-ammo,primitive,profiler,spine,terrain,tiled-map,tween,ui,video,webview)
+2022-05-16 11:41:39-log: [Package] engine@1.0.5 enable
+2022-05-16 11:41:42-log: [Package] programming@1.0.0 enable
+2022-05-16 11:41:42-log: [Package] Profile Migrate: builder@Cocos Creator...
+2022-05-16 11:41:43-log: [Package] engine-extends@1.0.0 enable
+2022-05-16 11:41:43-log: [Package] asset-db@1.0.0 enable
+2022-05-16 11:41:43-log: [Package] console@1.0.0 enable
+2022-05-16 11:41:43-log: [Package] scene@1.0.0 enable
+2022-05-16 11:41:43-log: [Package] about@1.0.0 enable
+2022-05-16 11:41:43-log: [Package] server@1.0.0 enable
+2022-05-16 11:41:43-log: [Package] utils@1.0.0 enable
+2022-05-16 11:41:43-log: [Package] assets@1.0.0 enable
+2022-05-16 11:41:43-log: [Package] inspector@1.0.0 enable
+2022-05-16 11:41:43-log: [Package] hierarchy@1.0.0 enable
+2022-05-16 11:41:45-log: [Package] preview@1.0.1 enable
+2022-05-16 11:41:45-log: [Package] animator@1.0.0 enable
+2022-05-16 11:41:46-log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-16 11:41:47-log: [Package] builder@1.3.1 enable
+2022-05-16 11:41:47-log: [Package] node-library@1.0.0 enable
+2022-05-16 11:41:47-log: [Package] shortcuts@1.0.1 enable
+2022-05-16 11:41:47-log: [Package] package-asset@1.0.0 enable
+2022-05-16 11:41:47-log: [Package] reference-image@1.0.0 enable
+2022-05-16 11:41:47-log: [Package] animation-graph@1.0.0 enable
+2022-05-16 11:41:47-log: [Package] channel-upload-tools@1.0.0 enable
+2022-05-16 11:41:47-log: [Package] runtime-dev-tools@1.0.0 enable
+2022-05-16 11:41:47-log: [Package] lightmap@1.0.4 enable
+2022-05-16 11:41:47-log: [Package] alipay-mini-game@1.0.0 enable
+2022-05-16 11:41:47-log: [Package] android@1.0.0 enable
+2022-05-16 11:41:47-log: [Package] baidu-mini-game@1.0.0 enable
+2022-05-16 11:41:47-log: [Package] bytedance-mini-game@1.0.1 enable
+2022-05-16 11:41:47-log: [Package] huawei-agc@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] ios@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] ios-app-clip@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] mac@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] native@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] ohos@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] web-desktop@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] web-mobile@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] wechatgame@1.0.1 enable
+2022-05-16 11:41:51-log: [Package] windows@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] cocos-play@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] huawei-quick-game@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] link-sure@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] oppo-mini-game@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] qtt@1.0.0 enable
+2022-05-16 11:41:51-log: [Package] vivo-mini-game@1.0.0 enable
+2022-05-16 11:41:52-log: [Package] cocos-service@3.0.2 enable
+2022-05-16 11:41:52-log: [Package] importer@1.0.0 enable
+2022-05-16 11:41:52-log: [Package] extension@3.0.15 enable
+2022-05-16 11:41:53-log: [Im-plugin] Check im-plugin version.
+2022-05-16 11:41:53-log: [Package] im-plugin@3.0.8 enable
+2022-05-16 11:41:53-log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-16 11:41:54-warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-05-16 11:41:54-log: [Im-plugin] No online info of im-plugin.
+2022-05-16 11:41:57-log: [Scene] Cocos Creator v3.4.2
+2022-05-16 11:41:57-info: [Scene] Forward render pipeline initialized.
+2022-05-22T12:46:44.565Z - log: [Package] menu@1.0.0 enable
+2022-05-22T12:46:44.568Z - log: [Package] profile@1.0.0 enable
+2022-05-22T12:46:44.579Z - log: [Package] project@1.0.2 enable
+2022-05-22T12:46:44.586Z - log: [Package] messages@1.0.0 enable
+2022-05-22T12:46:44.592Z - log: [Package] program@1.0.0 enable
+2022-05-22T12:46:44.598Z - log: [Package] tester@1.0.0 enable
+2022-05-22T12:46:44.604Z - log: [Package] preferences@1.0.0 enable
+2022-05-22T12:46:45.429Z - log: Setup mods mgr.: 332.411ms
+2022-05-22T12:46:45.445Z - verbose: [Engine] QuickCompile engine (764ms)
+2022-05-22T12:46:45.448Z - log: [Package] engine@1.0.6 enable
+2022-05-22T12:46:46.369Z - log: [Package] programming@1.0.0 enable
+2022-05-22T12:46:46.686Z - log: [Package] device@1.0.1 enable
+2022-05-22T12:46:46.714Z - log: [Package] ui-kit@1.0.1 enable
+2022-05-22T12:46:46.744Z - log: [Package] engine-extends@1.0.0 enable
+2022-05-22T12:46:46.825Z - log: [Package] asset-db@1.0.0 enable
+2022-05-22T12:46:46.876Z - log: [Package] scene@1.0.0 enable
+2022-05-22T12:46:47.191Z - log: [Package] server@1.0.0 enable
+2022-05-22T12:46:47.240Z - log: [Package] utils@1.0.0 enable
+2022-05-22T12:46:52.334Z - log: [Package] preview@1.0.1 enable
+2022-05-22T12:46:52.385Z - log: [Package] animator@1.0.0 enable
+2022-05-22T12:46:52.559Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-22T12:46:53.723Z - log: [Package] builder@1.3.2 enable
+2022-05-22T12:46:53.756Z - log: [Package] shortcuts@1.0.1 enable
+2022-05-22T12:46:53.790Z - log: [Package] animation-graph@1.0.0 enable
+2022-05-22T12:46:53.813Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-05-22T12:46:53.839Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-05-22T12:46:53.874Z - log: [Package] about@1.0.0 enable
+2022-05-22T12:46:53.910Z - log: [Package] assets@1.0.0 enable
+2022-05-22T12:46:53.947Z - log: [Package] console@1.0.0 enable
+2022-05-22T12:46:54.185Z - log: [Package] extension@3.0.16 enable
+2022-05-22T12:46:54.222Z - log: [Package] hierarchy@1.0.0 enable
+2022-05-22T12:46:54.259Z - log: [Package] inspector@1.0.0 enable
+2022-05-22T12:46:54.301Z - log: [Package] lightmap@1.0.4 enable
+2022-05-22T12:46:54.357Z - log: [Package] node-library@1.0.1 enable
+2022-05-22T12:46:54.381Z - log: [Package] package-asset@1.0.0 enable
+2022-05-22T12:46:54.417Z - log: [Package] process@1.0.0 enable
+2022-05-22T12:46:54.460Z - log: [Package] reference-image@1.0.0 enable
+2022-05-22T12:46:54.486Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-05-22T12:46:54.518Z - log: [Package] android@1.0.0 enable
+2022-05-22T12:46:54.545Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-05-22T12:46:54.571Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-05-22T12:46:54.596Z - log: [Package] cocos-play@1.0.0 enable
+2022-05-22T12:46:54.626Z - log: [Package] huawei-agc@1.0.0 enable
+2022-05-22T12:46:54.652Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-05-22T12:46:56.270Z - log: [Package] ios@1.0.0 enable
+2022-05-22T12:46:56.332Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-05-22T12:46:56.391Z - log: [Package] link-sure@1.0.0 enable
+2022-05-22T12:46:56.490Z - log: [Package] linux@1.0.0 enable
+2022-05-22T12:46:56.496Z - verbose: [AssetDB] Require engine code (3153ms)
+2022-05-22T12:46:56.525Z - log: [Package] mac@1.0.0 enable
+2022-05-22T12:46:56.988Z - log: [Package] native@1.0.0 enable
+2022-05-22T12:46:57.016Z - log: [Package] ohos@1.0.0 enable
+2022-05-22T12:46:57.044Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-05-22T12:46:57.071Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-05-22T12:46:57.100Z - log: [Package] qtt@1.0.0 enable
+2022-05-22T12:46:57.127Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-05-22T12:46:57.169Z - log: [Package] web-desktop@1.0.0 enable
+2022-05-22T12:46:57.209Z - log: [Package] web-mobile@1.0.0 enable
+2022-05-22T12:46:57.249Z - log: [Package] wechatgame@1.0.1 enable
+2022-05-22T12:46:57.272Z - log: [Package] windows@1.0.0 enable
+2022-05-22T12:46:57.295Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-05-22T12:46:57.625Z - log: [Package] cocos-service@3.0.3 enable
+2022-05-22T12:46:57.684Z - log: [Package] importer@1.0.0 enable
+2022-05-22T12:46:58.297Z - log: [Im-plugin] Check im-plugin version.
+2022-05-22T12:46:58.310Z - log: [Package] im-plugin@3.0.8 enable
+2022-05-22T12:46:59.054Z - log: [Im-plugin] No online info of im-plugin.
+2022-05-22T12:46:59.901Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-05-22T12:47:10.883Z - verbose: [Scene] Require engine code (1ms)
+2022-05-22T12:47:10.884Z - verbose: [Scene] Startup engine (1ms)
+2022-05-22T12:47:10.921Z - log: [Scene] Cocos Creator v3.5.0
+2022-05-22T12:47:11.232Z - verbose: [Scene] Open engine (348ms)
+2022-05-22T12:47:11.232Z - verbose: [Scene] Configure engine (0ms)
+2022-05-22T12:47:11.006Z - info: [Scene] Forward render pipeline initialized.
+2022-05-22T12:52:45.954Z - error: [Asset DB] /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json'Error: /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+    at async ImportTask.exec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:596)
+    at async ParallelQueue._generate (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:1:2655)
+2022-05-22T12:52:45.957Z - error: [Asset DB] /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json'Error: /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+    at async ImportTask.exec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:596)
+    at async ParallelQueue._generate (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:1:2655)
+2022-05-22T12:52:45.959Z - error: [Asset DB] /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/d1/d1346436-ac96-4271-b863-1f4fdead95b0.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/d1/d1346436-ac96-4271-b863-1f4fdead95b0.json'Error: /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/d1/d1346436-ac96-4271-b863-1f4fdead95b0.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/d1/d1346436-ac96-4271-b863-1f4fdead95b0.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at runNextTicks (internal/process/task_queues.js:58:5)
+    at processImmediate (internal/timers.js:434:9)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+2022-05-22T12:52:45.961Z - error: [Asset DB] /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/60/60f7195c-ec2a-45eb-ba94-8955f60e81d0.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/60/60f7195c-ec2a-45eb-ba94-8955f60e81d0.json'Error: /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/60/60f7195c-ec2a-45eb-ba94-8955f60e81d0.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/60/60f7195c-ec2a-45eb-ba94-8955f60e81d0.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at runNextTicks (internal/process/task_queues.js:58:5)
+    at processImmediate (internal/timers.js:434:9)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+2022-05-22T12:52:45.973Z - error: [Asset DB] /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/5d/5d45aa00-e064-4938-b314-4265f0c2258c.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/5d/5d45aa00-e064-4938-b314-4265f0c2258c.json'Error: /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/5d/5d45aa00-e064-4938-b314-4265f0c2258c.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/5d/5d45aa00-e064-4938-b314-4265f0c2258c.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+    at async ImportTask.exec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:596)
+    at async ParallelQueue._generate (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:1:2655)
+2022-05-22T12:52:45.974Z - error: [Asset DB] /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/ec/ec8106fe-05bf-4e94-943c-e0d3b7bb5e45.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/ec/ec8106fe-05bf-4e94-943c-e0d3b7bb5e45.json'Error: /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/ec/ec8106fe-05bf-4e94-943c-e0d3b7bb5e45.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/ec/ec8106fe-05bf-4e94-943c-e0d3b7bb5e45.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+    at async ImportTask.exec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:596)
+    at async ParallelQueue._generate (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:1:2655)
+2022-05-22T12:52:45.976Z - error: [Asset DB] /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/31/31b152ff-f689-4082-a292-3eb5a0b33014.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/31/31b152ff-f689-4082-a292-3eb5a0b33014.json'Error: /Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/31/31b152ff-f689-4082-a292-3eb5a0b33014.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/cocos-creator-how-to-use/proj/Animation/Creator3.5.0_2D_AnimationRole/library/31/31b152ff-f689-4082-a292-3eb5a0b33014.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at runNextTicks (internal/process/task_queues.js:58:5)
+    at processImmediate (internal/timers.js:434:9)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+2022-05-22T12:52:49.023Z - warn: Metrics: no valid info

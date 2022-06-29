@@ -1,0 +1,73 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zoomout",
+  "_objFlags": 0,
+  "_native": "",
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 22,
+  "events": [],
+  "_duration": 1.5,
+  "_keys": [
+    [
+      0,
+      0.3333333333333333,
+      0.8666666666666667,
+      0.8833333333333333,
+      1.1166666666666667,
+      1.5
+    ]
+  ],
+  "_stepness": 0,
+  "_curves": [
+    {
+      "modifiers": [
+        "scale"
+      ],
+      "data": {
+        "keys": 0,
+        "values": [
+          {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          {
+            "__type__": "cc.Vec3",
+            "x": 0.2,
+            "y": 0.2,
+            "z": 1
+          },
+          {
+            "__type__": "cc.Vec3",
+            "x": 0.1,
+            "y": 0.1,
+            "z": 1
+          },
+          {
+            "__type__": "cc.Vec3",
+            "x": 0.1,
+            "y": 0.1,
+            "z": 1
+          },
+          {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        ],
+        "easingMethods": {}
+      }
+    }
+  ],
+  "_commonTargets": [],
+  "_hash": 1661040983
+}

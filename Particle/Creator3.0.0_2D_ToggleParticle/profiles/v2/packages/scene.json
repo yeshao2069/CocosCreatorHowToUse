@@ -1,0 +1,55 @@
+{
+  "__version__": "1.0.0",
+  "current-scene": "341c7ebb-e494-4c92-b163-037f1c6c32d3",
+  "gizmos-infos": {
+    "is2D": true,
+    "is3DIcon": false,
+    "iconSize": 2,
+    "gridVisible": true,
+    "gridColor": [
+      150,
+      150,
+      150,
+      255
+    ],
+    "isIconGizmo3D": false,
+    "iconGizmoSize": 2,
+    "isGridVisible": true
+  },
+  "float-window": {
+    "position": {
+      "cc": {
+        "Camera": {
+          "dock": false,
+          "top": null,
+          "bottom": 10,
+          "left": null,
+          "right": 10
+        }
+      }
+    }
+  },
+  "camera-infos": {
+    "341c7ebb-e494-4c92-b163-037f1c6c32d3": {
+      "position": {
+        "x": 484.9844236760124,
+        "y": 326.9781931464174,
+        "z": 5000
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
+  },
+  "camera-uuids": [
+    "341c7ebb-e494-4c92-b163-037f1c6c32d3"
+  ]
+}
