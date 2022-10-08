@@ -202,3 +202,6 @@
 | 14.18 | Case | [3D模型上的文字](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.5.x/proj/Demo/Creator3.5.0_3D_LabelOnCube) | 3.5.0 | <div align=center><img src="./image/202205/2022051701.png" width="400" height="300" /></div> |
 
 - ·*· 代表有问题
+
+### Mark
+Cocos Creator How To Use 3.5.x 版本列举效果 113 种，会同步更新到 [Cocos Creator How To Use 3.6.x](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.6.x) 版本，后续 Cocos Creator How To Use 3.5.x 将不会同步新的效果，请移步到 3.6.x 版本查看最新效果。
