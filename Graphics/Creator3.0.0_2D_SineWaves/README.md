@@ -1,5 +1,3 @@
-## Cocos Creator How To Use
-
 ## 简介
 
 基于 CocosCreator 3.0.0 版本创建的 **画Sine曲线** 工程

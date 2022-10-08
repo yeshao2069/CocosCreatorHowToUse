@@ -192,5 +192,5 @@
 |   | 14.16 | 需求案例 | [自适应最小角度点击旋转](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.0.x/Demo/Creator3.0.0_2D_AdaptiveRotation)  |  | <div align=center><img src="./gif/202203/2022032201.gif" width="400" height="300" /></div> |
 |   | 14.17 | 需求案例 | [自适应最小角度旋转](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.0.x/Demo/Creator3.0.0_2D_AdaptiveAngleRotation)  |  | <div align=center><img src="./gif/202203/2022032202.gif" width="400" height="300" /></div> |
 
-## Mark
-Cocos Creator 3.0.x 版本列举 How To Use Example 共102个(其中 UI：9个、Audio：3个、Video：2个、Animation：3个、Spine：6个、DragonBone：5个、Graphics：9个、Physics：18个、Tween：6个、Model：6个、Renderer：1个、Particle：17个、DemandCase：17个)，会同步更新到 Cocos Creator 3.4.x 版本，后续 Cocos Creator 3.0.x 将不会同步新的 Demo，请移步到 3.4.x 版本查看最新效果
+### Mark
+Cocos Creator How To Use 3.0.x 版本列举效果 102 种，会同步更新到 [Cocos Creator How To Use 3.4.x](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.4.x) 版本，后续 Cocos Creator How To Use 3.0.x 将不会同步新的效果，请移步到 3.4.x 版本查看最新效果。
