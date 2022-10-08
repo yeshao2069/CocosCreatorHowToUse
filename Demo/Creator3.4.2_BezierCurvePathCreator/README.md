@@ -1,5 +1,3 @@
-## Cocos Creator How To Use
-
 ### 简介
 
 基于 CocosCreator 3.4.2 版本创建的 **贝塞尔曲线路径在线绘制工具** 工程

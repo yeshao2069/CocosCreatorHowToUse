@@ -1,5 +1,3 @@
-## Cocos Creator How To Use
-
 ### 简介
 
 基于 CocosCreator 3.4.2 版本创建的 **3D模型上的文字** 工程

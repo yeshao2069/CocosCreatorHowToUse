@@ -1,5 +1,3 @@
-## Cocos Creator How To Use
-
 ### 简介
 
 基于 CocosCreator 3.4.2 版本创建的 **动态获取动画属性数据** 工程

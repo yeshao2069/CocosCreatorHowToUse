@@ -1,5 +1,3 @@
-## Cocos Creator How To Use
-
 ### 简介
 
 基于 CocosCreator 3.4.2 版本创建的 **遮挡查询剔除(原生平台)** 工程

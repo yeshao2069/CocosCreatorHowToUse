@@ -191,3 +191,6 @@
 |   | 14.16 | Case | [自适应最小角度旋转](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.4.x/Demo/Creator3.4.2_2D_AdaptiveAngleRotation)  |  | <div align=center><img src="./gif/202203/2022032202.gif" width="400" height="300" /></div> |
 |   | 14.17 | Case | [自适应最小角度点击旋转](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.4.x/Demo/Creator3.4.2_2D_AdaptiveRotation)  |  | <div align=center><img src="./gif/202203/2022032201.gif" width="400" height="300" /></div> |
 |   | 14.18 | Case | [3D模型上的文字](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.4.x/Demo/Creator3.4.2_3D_LabelOnCube)  |  | <div align=center><img src="./image/202205/2022051701.png" width="400" height="300" /></div> |
+
+### Mark
+Cocos Creator How To Use 3.4.x 版本列举效果 109 种，会同步更新到 [Cocos Creator How To Use 3.5.x](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.5.x) 版本，后续 Cocos Creator How To Use 3.4.x 将不会同步新的效果，请移步到 3.5.x 版本查看最新效果。

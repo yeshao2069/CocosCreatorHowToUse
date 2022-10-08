@@ -1,5 +1,3 @@
-## Cocos Creator How To Use
-
 ### 简介
 
 基于 CocosCreator 3.4.2 版本创建的 **使用卡通材质** 工程
