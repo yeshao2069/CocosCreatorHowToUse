@@ -2,7 +2,7 @@
 
 ### Tween
 | 编号 | 类目 | 子项 | 演示 |
-| :---: |:---: |:---: |:---: |
+| :---: | :---: | :---: | :---: |
 | 1 | Tween | [透明度渐变](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.0.x/Tween/Creator3.0.0_2D_TweenOpacityChange) | <div align=center><img src="../gif/202203/2022030501.gif" width="400" height="300" /></div> |
 | 2 | Tween | [旋转并缩放 (Tween)](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.0.x/Tween/Creator3.0.0_2D_TweenRotateAndScaleForever) | <div align=center><img src="../gif/202203/2022030504.gif" width="400" height="300" /></div> |
 | 3 | Tween | [环形运动](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.0.x/Tween/Creator3.0.0_2D_TweenCircleMove) | <div align=center><img src="../gif/202203/2022030503.gif" width="400" height="300" /></div> |

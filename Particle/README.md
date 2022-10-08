@@ -2,7 +2,7 @@
 
 ### Particle
 | 编号 | 类目 | 子项 | 演示 |
-| :---: |:---: |:---: |:---: |
+| :---: | :---: | :---: | :---: |
 | 1 | 粒子示例 | [火焰效果](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.0.x/Particle/Creator3.0.0_3D_FlameSimulation) | <div align=center><img src="../gif/202203/2022030531.gif" width="400" height="300" /></div> |
 | 2 | 粒子示例 | [粒子拖尾模块1](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.0.x/Particle/Creator3.0.0_3D_ParticleTrails01)  | <div align=center><img src="../gif/202203/2022030532.gif" width="400" height="300" /></div> |
 | 3 | 粒子示例 | [粒子拖尾模块2](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.0.x/Particle/Creator3.0.0_3D_ParticleTrails02)  | <div align=center><img src="../gif/202203/2022030533.gif" width="400" height="300" /></div> |

@@ -2,7 +2,7 @@
 
 ### Graphics
 | 编号 | 类目 | 子项 | 演示 |
-| :---: |:---: |:---: |:---: |
+| :---: | :---: | :---: | :---: |
 | 1 | Graphics示例 | [画饼状图](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.0.x/Graphics/Creator3.0.0_2D_GraphicsArc) | <div align=center><img src="../image/202203/2022030401.png" width="400" height="300" /></div> |
 | 2 | Graphics示例 | [画正方形](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.0.x/Graphics/Creator3.0.0_2D_GraphicsRect) | <div align=center><img src="../image/202203/2022030402.png" width="400" height="300" /></div> |
 | 3 | Graphics示例 | [画菱形](https://gitee.com/yeshao2069/cocos-creator-how-to-use/tree/v3.0.x/Graphics/Creator3.0.0_2D_GraphicsLineTo) | <div align=center><img src="../image/202203/2022030403.png" width="400" height="300" /></div> |

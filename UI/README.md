@@ -2,7 +2,7 @@
 
 ### UI
 | 序号 | 类目 | 子项 | 备注 | 演示 |
-| :---: |:---: |:---: |:---: |:---: |
+| :---: | :---: | :---: | :---: | :---: |
 |  | Widget | AlignOnceWidget | DEMO链接    [Gitee](https://gitee.com/mirrors_cocos-creator/example-cases/tree/v2.4.3/assets/cases/02_ui/01_widget) && [Github](https://github.com/cocos-creator/example-cases/tree/v2.4.3/assets/cases/02_ui/01_widget)  |    |
 |  | Widget | AnimatedWidget | DEMO链接    [Gitee](https://gitee.com/mirrors_cocos-creator/example-cases/tree/v2.4.3/assets/cases/02_ui/01_widget) && [Github](https://github.com/cocos-creator/example-cases/tree/v2.4.3/assets/cases/02_ui/01_widget)  |    |
 |  | Label | AlignFontLabel | DEMO链接    [Gitee](https://gitee.com/mirrors_cocos-creator/example-cases/tree/v2.4.3/assets/cases/02_ui/02_label) && [Github](https://github.com/cocos-creator/example-cases/tree/v2.4.3/assets/cases/02_ui/02_label)  |    |
