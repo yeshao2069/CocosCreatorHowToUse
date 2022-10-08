@@ -1,0 +1,288 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9445909f-4879-4c2b-8bc3-a48e7015a2ba",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "97827": {
+      "importer": "gltf-scene",
+      "uuid": "9445909f-4879-4c2b-8bc3-a48e7015a2ba@97827",
+      "displayName": "",
+      "id": "97827",
+      "name": "clown01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c21c5": {
+      "importer": "gltf-mesh",
+      "uuid": "9445909f-4879-4c2b-8bc3-a48e7015a2ba@c21c5",
+      "displayName": "",
+      "id": "c21c5",
+      "name": "clown01.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "1f586": {
+      "importer": "gltf-animation",
+      "uuid": "9445909f-4879-4c2b-8bc3-a48e7015a2ba@1f586",
+      "displayName": "",
+      "id": "1f586",
+      "name": "idle.animation",
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.8
+        },
+        "events": []
+      }
+    },
+    "cf5ee": {
+      "importer": "gltf-animation",
+      "uuid": "9445909f-4879-4c2b-8bc3-a48e7015a2ba@cf5ee",
+      "displayName": "",
+      "id": "cf5ee",
+      "name": "run.animation",
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0.8333333333333334,
+          "to": 1.5
+        },
+        "events": []
+      }
+    },
+    "989ed": {
+      "importer": "gltf-animation",
+      "uuid": "9445909f-4879-4c2b-8bc3-a48e7015a2ba@989ed",
+      "displayName": "",
+      "id": "989ed",
+      "name": "attack.animation",
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 1.5333333333333334,
+          "to": 2.2
+        },
+        "events": []
+      }
+    },
+    "ee525": {
+      "importer": "gltf-animation",
+      "uuid": "9445909f-4879-4c2b-8bc3-a48e7015a2ba@ee525",
+      "displayName": "",
+      "id": "ee525",
+      "name": "win.animation",
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 2.2,
+          "to": 2.8
+        },
+        "events": []
+      }
+    },
+    "5b2e9": {
+      "importer": "gltf-animation",
+      "uuid": "9445909f-4879-4c2b-8bc3-a48e7015a2ba@5b2e9",
+      "displayName": "",
+      "id": "5b2e9",
+      "name": "died.animation",
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 2.8,
+          "to": 4
+        },
+        "events": []
+      }
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "9445909f-4879-4c2b-8bc3-a48e7015a2ba@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 8
+      }
+    },
+    "181cb": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9445909f-4879-4c2b-8bc3-a48e7015a2ba@181cb",
+      "displayName": "",
+      "id": "181cb",
+      "name": "贴图 #4.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "442db": {
+      "importer": "texture",
+      "uuid": "9445909f-4879-4c2b-8bc3-a48e7015a2ba@442db",
+      "displayName": "",
+      "id": "442db",
+      "name": "贴图 #4.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9445909f-4879-4c2b-8bc3-a48e7015a2ba@181cb"
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #4",
+        "uri": "9445909f-4879-4c2b-8bc3-a48e7015a2ba@181cb"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 4,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "idle",
+            "from": 0,
+            "to": 0.8,
+            "wrapMode": 2
+          },
+          {
+            "name": "run",
+            "from": 0.8333333333333334,
+            "to": 1.5,
+            "wrapMode": 2
+          },
+          {
+            "name": "attack",
+            "from": 1.5333333333333334,
+            "to": 2.2,
+            "wrapMode": 2
+          },
+          {
+            "name": "win",
+            "from": 2.2,
+            "to": 2.8,
+            "wrapMode": 2
+          },
+          {
+            "name": "died",
+            "from": 2.8,
+            "to": 4,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "9445909f-4879-4c2b-8bc3-a48e7015a2ba@97827",
+    "assetFinder": {
+      "meshes": [
+        "9445909f-4879-4c2b-8bc3-a48e7015a2ba@c21c5"
+      ],
+      "skeletons": [
+        "9445909f-4879-4c2b-8bc3-a48e7015a2ba@438fe"
+      ],
+      "textures": [
+        "9445909f-4879-4c2b-8bc3-a48e7015a2ba@442db"
+      ],
+      "materials": [
+        "5c4fdd9b-6df1-42e3-b14b-32635c22b444"
+      ],
+      "scenes": [
+        "9445909f-4879-4c2b-8bc3-a48e7015a2ba@97827"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/model-animation/model/clown",
+    "legacyFbxImporter": true,
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

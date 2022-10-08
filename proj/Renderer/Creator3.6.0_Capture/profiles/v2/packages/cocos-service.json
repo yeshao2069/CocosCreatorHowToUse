@@ -1,0 +1,25 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "198c99",
+      "services": []
+    },
+    "android": {
+      "configID": "198c99",
+      "services": []
+    },
+    "mac": {
+      "configID": "198c99",
+      "services": []
+    },
+    "ios": {
+      "configID": "198c99",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "198c99",
+    "services": []
+  },
+  "__version__": "3.0.4"
+}

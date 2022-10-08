@@ -1,0 +1,245 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c45af642-dea2-4669-8421-0ba86d05f198",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "28081": {
+      "importer": "gltf-mesh",
+      "uuid": "c45af642-dea2-4669-8421-0ba86d05f198@28081",
+      "displayName": "",
+      "id": "28081",
+      "name": "003.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "c45af642-dea2-4669-8421-0ba86d05f198@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 32
+      }
+    },
+    "44034": {
+      "importer": "gltf-mesh",
+      "uuid": "c45af642-dea2-4669-8421-0ba86d05f198@44034",
+      "displayName": "",
+      "id": "44034",
+      "name": "001.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "a7dbb": {
+      "importer": "gltf-mesh",
+      "uuid": "c45af642-dea2-4669-8421-0ba86d05f198@a7dbb",
+      "displayName": "",
+      "id": "a7dbb",
+      "name": "Object07.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "3a0f4": {
+      "importer": "gltf-mesh",
+      "uuid": "c45af642-dea2-4669-8421-0ba86d05f198@3a0f4",
+      "displayName": "",
+      "id": "3a0f4",
+      "name": "002.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "c45af642-dea2-4669-8421-0ba86d05f198@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.6666666269302368
+        },
+        "events": []
+      }
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "c45af642-dea2-4669-8421-0ba86d05f198@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 6
+      }
+    },
+    "10ed8": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c45af642-dea2-4669-8421-0ba86d05f198@10ed8",
+      "displayName": "",
+      "id": "10ed8",
+      "name": "Map #59.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "26d11": {
+      "importer": "texture",
+      "uuid": "c45af642-dea2-4669-8421-0ba86d05f198@26d11",
+      "displayName": "",
+      "id": "26d11",
+      "name": "Map #59.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c45af642-dea2-4669-8421-0ba86d05f198@10ed8"
+      }
+    },
+    "804b6": {
+      "importer": "gltf-scene",
+      "uuid": "c45af642-dea2-4669-8421-0ba86d05f198@804b6",
+      "displayName": "",
+      "id": "804b6",
+      "name": "shitouWalk.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #59",
+        "uri": "c45af642-dea2-4669-8421-0ba86d05f198@10ed8"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.6666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 1.6666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "c45af642-dea2-4669-8421-0ba86d05f198@804b6",
+    "assetFinder": {
+      "meshes": [
+        "c45af642-dea2-4669-8421-0ba86d05f198@a7dbb",
+        "c45af642-dea2-4669-8421-0ba86d05f198@44034",
+        "c45af642-dea2-4669-8421-0ba86d05f198@28081",
+        "c45af642-dea2-4669-8421-0ba86d05f198@3a0f4"
+      ],
+      "skeletons": [
+        "c45af642-dea2-4669-8421-0ba86d05f198@30732",
+        "c45af642-dea2-4669-8421-0ba86d05f198@f1394"
+      ],
+      "textures": [
+        "c45af642-dea2-4669-8421-0ba86d05f198@26d11"
+      ],
+      "materials": [
+        "f0641546-c37f-4876-a09e-22c401e43580",
+        "b193382c-1f42-43c3-80b6-8bcea75f81a8"
+      ],
+      "scenes": [
+        "c45af642-dea2-4669-8421-0ba86d05f198@804b6"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/model-animation/model/shitou",
+    "legacyFbxImporter": true,
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

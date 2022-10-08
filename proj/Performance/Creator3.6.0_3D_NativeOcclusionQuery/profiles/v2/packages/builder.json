@@ -1,0 +1,74 @@
+{
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "mac",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "mac"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1644817323940": {
+        "id": "1644817323940",
+        "progress": 1,
+        "state": "success",
+        "message": "2022-2-14 13:42 Build success in 25131 ms!",
+        "options": {
+          "name": "main_3_4_0",
+          "platform": "mac",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "b3cee40b-3864-4a33-a885-d8b41062d772",
+          "scenes": [
+            {
+              "url": "db://assets/scene/culling.scene",
+              "uuid": "b3cee40b-3864-4a33-a885-d8b41062d772",
+              "inBundle": false
+            }
+          ],
+          "outputName": "mac",
+          "packages": {
+            "mac": {
+              "renderBackEnd": {
+                "metal": true
+              },
+              "targetVersion": "10.14",
+              "supportM1": false,
+              "skipUpdateXcodeProject": false,
+              "packageName": "com.chengen.testa",
+              "__version__": "1.0.0"
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "41uzH9CrdC+q0Sio",
+              "compressZip": false,
+              "JobSystem": "tbb",
+              "__version__": "1.0.0"
+            },
+            "cocos-service": {
+              "configID": "a18186",
+              "services": [],
+              "__version__": "1.0.0"
+            }
+          }
+        },
+        "time": "2022-2-14 13:42",
+        "dirty": false
+      }
+    }
+  },
+  "__version__": "1.3.3"
+}

@@ -1,0 +1,172 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7812ec52-85c2-442f-90de-de56a3342451",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "e7d87": {
+      "importer": "gltf-mesh",
+      "uuid": "7812ec52-85c2-442f-90de-de56a3342451@e7d87",
+      "displayName": "",
+      "id": "e7d87",
+      "name": "Object02.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "7812ec52-85c2-442f-90de-de56a3342451@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      }
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "7812ec52-85c2-442f-90de-de56a3342451@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 27
+      }
+    },
+    "38e81": {
+      "importer": "gltf-embeded-image",
+      "uuid": "7812ec52-85c2-442f-90de-de56a3342451@38e81",
+      "displayName": "",
+      "id": "38e81",
+      "name": "Map #60.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "b6668": {
+      "importer": "texture",
+      "uuid": "7812ec52-85c2-442f-90de-de56a3342451@b6668",
+      "displayName": "",
+      "id": "b6668",
+      "name": "Map #60.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7812ec52-85c2-442f-90de-de56a3342451@38e81"
+      }
+    },
+    "60c2a": {
+      "importer": "gltf-scene",
+      "uuid": "7812ec52-85c2-442f-90de-de56a3342451@60c2a",
+      "displayName": "",
+      "id": "60c2a",
+      "name": "kulou.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #60",
+        "uri": "7812ec52-85c2-442f-90de-de56a3342451@38e81"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "7812ec52-85c2-442f-90de-de56a3342451@60c2a",
+    "assetFinder": {
+      "meshes": [
+        "7812ec52-85c2-442f-90de-de56a3342451@e7d87"
+      ],
+      "skeletons": [
+        "7812ec52-85c2-442f-90de-de56a3342451@438fe"
+      ],
+      "textures": [
+        "7812ec52-85c2-442f-90de-de56a3342451@b6668"
+      ],
+      "materials": [
+        "0848e31e-6fd1-4a51-851d-16f238f349bf"
+      ],
+      "scenes": [
+        "7812ec52-85c2-442f-90de-de56a3342451@60c2a"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/model-animation/model/kolou",
+    "legacyFbxImporter": true,
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

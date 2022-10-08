@@ -1,0 +1,98 @@
+{
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "android",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "android"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1652348457718": {
+        "id": "1652348457718",
+        "progress": 1,
+        "state": "success",
+        "message": "2022-5-12 18:00 Build success in 453429 ms!",
+        "options": {
+          "name": "AutoGenerateSpriteframe",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "cc51ad8d-3536-42ed-b643-6f59e07cbc03",
+          "scenes": [
+            {
+              "url": "db://assets/AutoGenerateSpriteframe.scene",
+              "uuid": "cc51ad8d-3536-42ed-b643-6f59e07cbc03",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "packages": {
+            "android": {
+              "packageName": "com.mu.test1",
+              "orientation": {
+                "portrait": false,
+                "upsideDown": false,
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "apiLevel": "android-26",
+              "appABIs": [
+                "arm64-v8a"
+              ],
+              "useDebugKeystore": true,
+              "keystorePath": "",
+              "keystorePassword": "",
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "sdkPath": "",
+              "ndkPath": "",
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": true
+              },
+              "__version__": "1.0.0"
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "686nQFm/1IYYrXYn",
+              "compressZip": false,
+              "JobSystem": "tbb",
+              "__version__": "1.0.0"
+            },
+            "cocos-service": {
+              "configID": "47c711",
+              "services": [],
+              "__version__": "1.0.0"
+            }
+          },
+          "buildStageGroup": {
+            "build": [
+              "make"
+            ]
+          }
+        },
+        "time": "2022-5-12 17:52",
+        "dirty": false
+      }
+    }
+  },
+  "__version__": "1.3.3"
+}

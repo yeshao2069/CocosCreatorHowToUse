@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.24",
+  "importer": "image",
+  "imported": true,
+  "uuid": "2b46a6e4-e49f-404b-91c2-06356ecf2b1b",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "MahjongTile": {
+      "ver": "1.0.4",
+      "uuid": "26c246db-bac1-47fc-96db-e1e81931d1c8",
+      "rawTextureUuid": "2b46a6e4-e49f-404b-91c2-06356ecf2b1b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1024,
+      "height": 1024,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "2b46a6e4-e49f-404b-91c2-06356ecf2b1b@6c48a",
+      "displayName": "MahjongTile",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2b46a6e4-e49f-404b-91c2-06356ecf2b1b",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "2b46a6e4-e49f-404b-91c2-06356ecf2b1b@6c48a",
+    "fixAlphaTransparencyArtifacts": false
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b6ec6ff1-658c-432a-bf43-43f50c9c9d6f",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "a2a38": {
+      "importer": "gltf-mesh",
+      "uuid": "b6ec6ff1-658c-432a-bf43-43f50c9c9d6f@a2a38",
+      "displayName": "",
+      "id": "a2a38",
+      "name": "act1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "b6ec6ff1-658c-432a-bf43-43f50c9c9d6f@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 33.33333206176758
+        },
+        "events": [],
+        "speed": 1
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "e34ac": {
+      "importer": "gltf-scene",
+      "uuid": "b6ec6ff1-658c-432a-bf43-43f50c9c9d6f@e34ac",
+      "displayName": "",
+      "id": "e34ac",
+      "name": "act1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 33.33333206176758,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 33.33333206176758,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "b6ec6ff1-658c-432a-bf43-43f50c9c9d6f@e34ac",
+    "assetFinder": {
+      "meshes": [
+        "b6ec6ff1-658c-432a-bf43-43f50c9c9d6f@a2a38"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "b6ec6ff1-658c-432a-bf43-43f50c9c9d6f@e34ac"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

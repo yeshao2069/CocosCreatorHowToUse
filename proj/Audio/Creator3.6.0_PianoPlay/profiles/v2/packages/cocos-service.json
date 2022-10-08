@@ -1,0 +1,13 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "a2645e",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "a2645e",
+    "services": []
+  },
+  "__version__": "3.0.4"
+}

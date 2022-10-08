@@ -1,0 +1,17 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "a18186",
+      "services": []
+    },
+    "mac": {
+      "configID": "a18186",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "a18186",
+    "services": []
+  },
+  "__version__": "3.0.4"
+}

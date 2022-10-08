@@ -1,0 +1,114 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bb27c7ee-e663-4d6c-9e1d-cf2cf4cd5439",
+  "files": [],
+  "subMetas": {
+    "31667": {
+      "importer": "gltf-embeded-image",
+      "uuid": "bb27c7ee-e663-4d6c-9e1d-cf2cf4cd5439@31667",
+      "displayName": "",
+      "id": "31667",
+      "name": "skyBox1.jpg.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "7d128": {
+      "importer": "gltf-mesh",
+      "uuid": "bb27c7ee-e663-4d6c-9e1d-cf2cf4cd5439@7d128",
+      "displayName": "",
+      "id": "7d128",
+      "name": "skyBox01.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "bc797": {
+      "importer": "texture",
+      "uuid": "bb27c7ee-e663-4d6c-9e1d-cf2cf4cd5439@bc797",
+      "displayName": "",
+      "id": "bc797",
+      "name": "贴图 #8.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bb27c7ee-e663-4d6c-9e1d-cf2cf4cd5439@31667"
+      }
+    },
+    "9ba3e": {
+      "importer": "gltf-scene",
+      "uuid": "bb27c7ee-e663-4d6c-9e1d-cf2cf4cd5439@9ba3e",
+      "displayName": "",
+      "id": "9ba3e",
+      "name": "skyBox1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "skyBox1.jpg",
+        "uri": "bb27c7ee-e663-4d6c-9e1d-cf2cf4cd5439@31667"
+      }
+    ],
+    "redirect": "bb27c7ee-e663-4d6c-9e1d-cf2cf4cd5439@9ba3e",
+    "assetFinder": {
+      "meshes": [
+        "bb27c7ee-e663-4d6c-9e1d-cf2cf4cd5439@7d128"
+      ],
+      "skeletons": [],
+      "textures": [
+        "bb27c7ee-e663-4d6c-9e1d-cf2cf4cd5439@bc797"
+      ],
+      "materials": [
+        "bf08e33b-4761-445f-a17a-7653a31754c3"
+      ],
+      "scenes": [
+        "bb27c7ee-e663-4d6c-9e1d-cf2cf4cd5439@9ba3e"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/model-animation/skyBox",
+    "legacyFbxImporter": true,
+    "disableMeshSplit": false,
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

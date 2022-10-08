@@ -1,0 +1,50 @@
+{
+  "__version__": "1.3.3",
+  "version": {
+    "builder": "1.2.3"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "undefined": {
+        "rawOptions": {
+          "name": "GetScriptFunction",
+          "platform": "web-desktop",
+          "buildPath": "./build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "3b4d92fa-b97f-415b-b68f-9d2676c38754",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "3b4d92fa-b97f-415b-b68f-9d2676c38754"
+            }
+          ],
+          "outputName": "web-desktop",
+          "packages": {
+            "cocos-service": {},
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1280,
+                "designHeight": 960
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "log": {
+    "level": 1
+  }
+}

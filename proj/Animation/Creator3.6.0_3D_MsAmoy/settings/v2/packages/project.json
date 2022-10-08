@@ -1,0 +1,46 @@
+{
+  "__version__": "1.0.2",
+  "general": {
+    "designResolution": {
+      "fitHeight": true,
+      "fitWidth": false
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "MainCharacter"
+      },
+      {
+        "index": 2,
+        "name": "Enemy"
+      },
+      {
+        "index": 3,
+        "name": "EMPTY"
+      },
+      {
+        "index": 4,
+        "name": "Bondary"
+      },
+      {
+        "index": 5,
+        "name": "MainCharacterBullet"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 39,
+      "1": 17,
+      "2": 49,
+      "3": 16,
+      "4": 46,
+      "5": 21
+    }
+  },
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "__version__": "1.3.3",
+  "version": {
+    "builder": "1.2.3"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "undefined": {
+        "rawOptions": {
+          "name": "testDemo",
+          "platform": "web-desktop",
+          "buildPath": "./build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "98b71406-5c49-4cb6-93d5-6893ba2dada0",
+          "scenes": [
+            {
+              "url": "db://assets/scene-001.scene",
+              "uuid": "98b71406-5c49-4cb6-93d5-6893ba2dada0"
+            },
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "57580b21-75f0-4966-a906-422c3ec257df"
+            }
+          ],
+          "outputName": "web-desktop",
+          "packages": {
+            "cocos-service": {},
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1280,
+                "designHeight": 960
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "common": {
+    "outputName": "wechatgame",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "wechatgame",
+    "debug": false
+  },
+  "log": {
+    "level": 4
+  }
+}

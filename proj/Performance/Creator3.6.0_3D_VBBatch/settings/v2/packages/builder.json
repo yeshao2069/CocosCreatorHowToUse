@@ -1,0 +1,37 @@
+{
+  "__version__": "1.3.3",
+  "textureCompressConfig": {
+    "userPreset": {
+      "presetId1619329746492": {
+        "name": "presetId1619329746492",
+        "options": {
+          "miniGame": {
+            "png": {
+              "quality": 80
+            }
+          },
+          "web": {
+            "png": {
+              "quality": 80
+            }
+          },
+          "android": {
+            "png": {
+              "quality": 80
+            }
+          },
+          "ios": {
+            "png": {
+              "quality": 80
+            }
+          },
+          "pc": {
+            "png": {
+              "quality": 80
+            }
+          }
+        }
+      }
+    }
+  }
+}

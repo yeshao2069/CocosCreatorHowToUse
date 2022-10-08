@@ -1,0 +1,220 @@
+{
+  "__version__": "1.3.3",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "mac",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "mac",
+    "name": "DrawingBoard"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1634614703147": {
+        "id": "1634614703147",
+        "progress": 1,
+        "state": "success",
+        "message": "2021-10-19 11:38 Build success in 25244 ms!",
+        "options": {
+          "name": "DrawingBoard",
+          "platform": "ios",
+          "buildPath": "project://project:/build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+          "scenes": [
+            {
+              "url": "db://assets/game.scene",
+              "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+              "inBundle": false
+            }
+          ],
+          "outputName": "ios",
+          "packages": {
+            "ios": {
+              "packageName": "com.cocos.drawing-board330",
+              "orientation": {
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "renderBackEnd": {
+                "metal": true
+              },
+              "targetVersion": "12.0",
+              "developerTeam": "7PAN3EY4VP",
+              "__version__": "1.0.0"
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "6bavOB2GpM2JM5/l",
+              "compressZip": false,
+              "JobSystem": "taskFlow",
+              "__version__": "1.0.0"
+            },
+            "cocos-service": {
+              "configID": "198c99",
+              "services": [],
+              "__version__": "1.0.0"
+            }
+          }
+        },
+        "time": "2021-10-19 11:38",
+        "dirty": false
+      },
+      "1634614753746": {
+        "id": "1634614753746",
+        "progress": 1,
+        "state": "success",
+        "message": "2021-10-19 11:44 Build success in 288636 ms!",
+        "options": {
+          "name": "DrawingBoard",
+          "platform": "android",
+          "buildPath": "project://project:/build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+          "scenes": [
+            {
+              "url": "db://assets/game.scene",
+              "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "packages": {
+            "android": {
+              "packageName": "com.cocos.android",
+              "apiLevel": "android-26",
+              "appABIs": [
+                "arm64-v8a"
+              ],
+              "useDebugKeystore": true,
+              "keystorePath": "",
+              "keystorePassword": "",
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "orientation": {
+                "portrait": false,
+                "upsideDown": false,
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": false
+              },
+              "__version__": "1.0.0"
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "6bavOB2GpM2JM5/l",
+              "compressZip": false,
+              "JobSystem": "taskFlow",
+              "__version__": "1.0.0"
+            },
+            "cocos-service": {
+              "configID": "198c99",
+              "services": [],
+              "__version__": "1.0.0"
+            }
+          },
+          "buildStageGroup": {
+            "build": [
+              "make"
+            ]
+          }
+        },
+        "time": "2021-10-19 11:39",
+        "dirty": false
+      },
+      "1634615077203": {
+        "id": "1634615077203",
+        "progress": 1,
+        "state": "success",
+        "message": "2021-10-19 11:44 Build success in 21601 ms!",
+        "options": {
+          "name": "DrawingBoard",
+          "platform": "mac",
+          "buildPath": "project://project:/build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+          "scenes": [
+            {
+              "url": "db://assets/game.scene",
+              "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+              "inBundle": false
+            }
+          ],
+          "outputName": "mac",
+          "packages": {
+            "mac": {
+              "packageName": "com.cocos.project",
+              "renderBackEnd": {
+                "metal": true
+              },
+              "targetVersion": "10.14",
+              "supportM1": false,
+              "__version__": "1.0.0"
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "6bavOB2GpM2JM5/l",
+              "compressZip": false,
+              "JobSystem": "taskFlow",
+              "__version__": "1.0.0"
+            },
+            "cocos-service": {
+              "configID": "198c99",
+              "services": [],
+              "__version__": "1.0.0"
+            }
+          }
+        },
+        "time": "2021-10-19 11:44",
+        "dirty": false
+      }
+    }
+  },
+  "version": {
+    "builder": "1.2.3"
+  }
+}

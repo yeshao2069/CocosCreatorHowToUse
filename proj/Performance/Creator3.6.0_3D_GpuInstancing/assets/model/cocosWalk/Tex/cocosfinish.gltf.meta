@@ -1,0 +1,308 @@
+{
+  "ver": "2.3.0",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "e5fec1c3-4633-4960-b441-d7150a716c4a",
+  "files": [],
+  "subMetas": {
+    "50743": {
+      "importer": "texture",
+      "uuid": "e5fec1c3-4633-4960-b441-d7150a716c4a@50743",
+      "displayName": "",
+      "id": "50743",
+      "name": "UnnamedTexture-5.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "nearest",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/cocosWalk/Tex/cocosfinish_02_occlusionRoughnessMetallic.png"
+      }
+    },
+    "72704": {
+      "importer": "gltf-mesh",
+      "uuid": "e5fec1c3-4633-4960-b441-d7150a716c4a@72704",
+      "displayName": "",
+      "id": "72704",
+      "name": "cocosfinish_02.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "a865e": {
+      "importer": "gltf-mesh",
+      "uuid": "e5fec1c3-4633-4960-b441-d7150a716c4a@a865e",
+      "displayName": "",
+      "id": "a865e",
+      "name": "cocosfinish_01.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "e5fec1c3-4633-4960-b441-d7150a716c4a@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "nearest",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/cocosWalk/Tex/cocosfinish_01_baseColor.png"
+      }
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "e5fec1c3-4633-4960-b441-d7150a716c4a@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "nearest",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/cocosWalk/Tex/cocosfinish_01_occlusionRoughnessMetallic.png"
+      }
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "e5fec1c3-4633-4960-b441-d7150a716c4a@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "nearest",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/cocosWalk/Tex/cocosfinish_01_normal.png"
+      }
+    },
+    "9b633": {
+      "importer": "texture",
+      "uuid": "e5fec1c3-4633-4960-b441-d7150a716c4a@9b633",
+      "displayName": "",
+      "id": "9b633",
+      "name": "UnnamedTexture-3.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "nearest",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/cocosWalk/Tex/cocosfinish_01_emissive.png"
+      }
+    },
+    "9b782": {
+      "importer": "texture",
+      "uuid": "e5fec1c3-4633-4960-b441-d7150a716c4a@9b782",
+      "displayName": "",
+      "id": "9b782",
+      "name": "UnnamedTexture-4.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "nearest",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/cocosWalk/Tex/cocosfinish_02_baseColor.png"
+      }
+    },
+    "99ea5": {
+      "importer": "texture",
+      "uuid": "e5fec1c3-4633-4960-b441-d7150a716c4a@99ea5",
+      "displayName": "",
+      "id": "99ea5",
+      "name": "UnnamedTexture-6.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "nearest",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/cocosWalk/Tex/cocosfinish_02_normal.png"
+      }
+    },
+    "41cf7": {
+      "importer": "gltf-material",
+      "uuid": "e5fec1c3-4633-4960-b441-d7150a716c4a@41cf7",
+      "displayName": "",
+      "id": "41cf7",
+      "name": "cocosfinish_01.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "df455": {
+      "importer": "gltf-material",
+      "uuid": "e5fec1c3-4633-4960-b441-d7150a716c4a@df455",
+      "displayName": "",
+      "id": "df455",
+      "name": "cocosfinish_02.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "cacb8": {
+      "importer": "gltf-scene",
+      "uuid": "e5fec1c3-4633-4960-b441-d7150a716c4a@cacb8",
+      "displayName": "",
+      "id": "cacb8",
+      "name": "cocosfinish.prefab",
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "db://assets/model/cocosWalk/Tex/cocosfinish_01_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/cocosWalk/Tex/cocosfinish_01_occlusionRoughnessMetallic.png"
+      },
+      {
+        "uri": "db://assets/model/cocosWalk/Tex/cocosfinish_01_normal.png"
+      },
+      {
+        "uri": "db://assets/model/cocosWalk/Tex/cocosfinish_01_emissive.png"
+      },
+      {
+        "uri": "db://assets/model/cocosWalk/Tex/cocosfinish_02_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/cocosWalk/Tex/cocosfinish_02_occlusionRoughnessMetallic.png"
+      },
+      {
+        "uri": "db://assets/model/cocosWalk/Tex/cocosfinish_02_normal.png"
+      }
+    ],
+    "redirect": "e5fec1c3-4633-4960-b441-d7150a716c4a@cacb8",
+    "assetFinder": {
+      "meshes": [
+        "e5fec1c3-4633-4960-b441-d7150a716c4a@a865e",
+        "e5fec1c3-4633-4960-b441-d7150a716c4a@72704"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e5fec1c3-4633-4960-b441-d7150a716c4a@3effa",
+        "e5fec1c3-4633-4960-b441-d7150a716c4a@221a5",
+        "e5fec1c3-4633-4960-b441-d7150a716c4a@0089c",
+        "e5fec1c3-4633-4960-b441-d7150a716c4a@9b633",
+        "e5fec1c3-4633-4960-b441-d7150a716c4a@9b782",
+        "e5fec1c3-4633-4960-b441-d7150a716c4a@50743",
+        "e5fec1c3-4633-4960-b441-d7150a716c4a@99ea5"
+      ],
+      "materials": [
+        "e5fec1c3-4633-4960-b441-d7150a716c4a@41cf7",
+        "e5fec1c3-4633-4960-b441-d7150a716c4a@df455"
+      ],
+      "scenes": [
+        "e5fec1c3-4633-4960-b441-d7150a716c4a@cacb8"
+      ]
+    }
+  }
+}

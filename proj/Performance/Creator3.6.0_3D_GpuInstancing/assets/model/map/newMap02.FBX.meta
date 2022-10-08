@@ -1,0 +1,178 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b092a008-0b68-4a4f-8cb6-112af7ef0783",
+  "files": [],
+  "subMetas": {
+    "51d3f": {
+      "importer": "gltf-mesh",
+      "uuid": "b092a008-0b68-4a4f-8cb6-112af7ef0783@51d3f",
+      "displayName": "",
+      "id": "51d3f",
+      "name": "01.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "3477c": {
+      "importer": "gltf-mesh",
+      "uuid": "b092a008-0b68-4a4f-8cb6-112af7ef0783@3477c",
+      "displayName": "",
+      "id": "3477c",
+      "name": "02.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "a6cf4": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b092a008-0b68-4a4f-8cb6-112af7ef0783@a6cf4",
+      "displayName": "",
+      "id": "a6cf4",
+      "name": "DanGao_01.jpg.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "a8958": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b092a008-0b68-4a4f-8cb6-112af7ef0783@a8958",
+      "displayName": "",
+      "id": "a8958",
+      "name": "shu.jpg.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "291d4": {
+      "importer": "texture",
+      "uuid": "b092a008-0b68-4a4f-8cb6-112af7ef0783@291d4",
+      "displayName": "",
+      "id": "291d4",
+      "name": "贴图 #6.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b092a008-0b68-4a4f-8cb6-112af7ef0783@a6cf4"
+      }
+    },
+    "eb794": {
+      "importer": "texture",
+      "uuid": "b092a008-0b68-4a4f-8cb6-112af7ef0783@eb794",
+      "displayName": "",
+      "id": "eb794",
+      "name": "贴图 #5.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b092a008-0b68-4a4f-8cb6-112af7ef0783@a8958"
+      }
+    },
+    "74df5": {
+      "importer": "gltf-scene",
+      "uuid": "b092a008-0b68-4a4f-8cb6-112af7ef0783@74df5",
+      "displayName": "",
+      "id": "74df5",
+      "name": "newMap02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "DanGao_01.jpg",
+        "uri": "b092a008-0b68-4a4f-8cb6-112af7ef0783@a6cf4"
+      },
+      {
+        "name": "shu.jpg",
+        "uri": "b092a008-0b68-4a4f-8cb6-112af7ef0783@a8958"
+      }
+    ],
+    "redirect": "b092a008-0b68-4a4f-8cb6-112af7ef0783@74df5",
+    "assetFinder": {
+      "meshes": [
+        "b092a008-0b68-4a4f-8cb6-112af7ef0783@51d3f",
+        "b092a008-0b68-4a4f-8cb6-112af7ef0783@3477c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b092a008-0b68-4a4f-8cb6-112af7ef0783@291d4",
+        "b092a008-0b68-4a4f-8cb6-112af7ef0783@eb794"
+      ],
+      "materials": [
+        "517c42a0-9e78-4108-a788-eedc1dbce847",
+        "03319806-3664-4dc3-90dd-5e1b66e016d4"
+      ],
+      "scenes": [
+        "b092a008-0b68-4a4f-8cb6-112af7ef0783@74df5"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/model-animation/model/map",
+    "legacyFbxImporter": true,
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

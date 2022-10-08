@@ -1,8 +1,0 @@
-{
-  "options": {
-    "android": {
-      "makeAfterBuild": true
-    }
-  },
-  "__version__": "1.0.0"
-}

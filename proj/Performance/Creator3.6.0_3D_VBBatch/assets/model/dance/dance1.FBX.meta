@@ -1,0 +1,191 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a0b17fba-bcf9-4bc3-9b02-15321efc0259",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "46540": {
+      "importer": "gltf-mesh",
+      "uuid": "a0b17fba-bcf9-4bc3-9b02-15321efc0259@46540",
+      "displayName": "",
+      "id": "46540",
+      "name": "Box001.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "6c5bb": {
+      "importer": "gltf-mesh",
+      "uuid": "a0b17fba-bcf9-4bc3-9b02-15321efc0259@6c5bb",
+      "displayName": "",
+      "id": "6c5bb",
+      "name": "body1.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "a0b17fba-bcf9-4bc3-9b02-15321efc0259@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 5.86,
+          "to": 22.66666603088379
+        },
+        "events": []
+      }
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "a0b17fba-bcf9-4bc3-9b02-15321efc0259@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 24
+      }
+    },
+    "155a5": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a0b17fba-bcf9-4bc3-9b02-15321efc0259@155a5",
+      "displayName": "",
+      "id": "155a5",
+      "name": "face1.png.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "2816c": {
+      "importer": "texture",
+      "uuid": "a0b17fba-bcf9-4bc3-9b02-15321efc0259@2816c",
+      "displayName": "",
+      "id": "2816c",
+      "name": "贴图 #18.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a0b17fba-bcf9-4bc3-9b02-15321efc0259@155a5"
+      }
+    },
+    "d4cb6": {
+      "importer": "gltf-scene",
+      "uuid": "a0b17fba-bcf9-4bc3-9b02-15321efc0259@d4cb6",
+      "displayName": "",
+      "id": "d4cb6",
+      "name": "dance1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "face1.png",
+        "uri": "a0b17fba-bcf9-4bc3-9b02-15321efc0259@155a5"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 22.66666603088379,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 5.86,
+            "to": 22.66666603088379,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a0b17fba-bcf9-4bc3-9b02-15321efc0259@d4cb6",
+    "assetFinder": {
+      "meshes": [
+        "a0b17fba-bcf9-4bc3-9b02-15321efc0259@46540",
+        "a0b17fba-bcf9-4bc3-9b02-15321efc0259@6c5bb"
+      ],
+      "skeletons": [
+        "a0b17fba-bcf9-4bc3-9b02-15321efc0259@438fe"
+      ],
+      "textures": [
+        "a0b17fba-bcf9-4bc3-9b02-15321efc0259@2816c"
+      ],
+      "materials": [
+        "43164cb0-06d6-4df2-acbe-d41cd131b058",
+        "5a850bf3-c1cb-4335-8e07-b8f1a563c49e"
+      ],
+      "scenes": [
+        "a0b17fba-bcf9-4bc3-9b02-15321efc0259@d4cb6"
+      ]
+    },
+    "dumpMaterials": true,
+    "legacyFbxImporter": true,
+    "materialDumpDir": "db://assets/model-animation/model/dance/Materials_dance1",
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

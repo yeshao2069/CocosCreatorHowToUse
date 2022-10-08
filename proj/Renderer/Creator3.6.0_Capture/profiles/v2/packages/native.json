@@ -1,0 +1,13 @@
+{
+  "options": {
+    "android": {}
+  },
+  "__version__": "1.0.2",
+  "common": {
+    "buildStageGroup": {
+      "build": [
+        "make"
+      ]
+    }
+  }
+}

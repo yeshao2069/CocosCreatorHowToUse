@@ -1,0 +1,12 @@
+{
+  "__version__": "1.0.2",
+  "options": {
+    "wechatgame": {
+      "startSceneAssetBundle": false,
+      "orientation": "portrait",
+      "appid": "wx6ac3f5090a6b99c5",
+      "separateEngine": false,
+      "wasm": "wasm"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "94c1fd",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "94c1fd",
+    "services": []
+  },
+  "__version__": "3.0.4"
+}
