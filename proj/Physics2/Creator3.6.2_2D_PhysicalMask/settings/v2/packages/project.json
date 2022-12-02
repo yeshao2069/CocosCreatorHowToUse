@@ -1,0 +1,25 @@
+{
+  "layer": [],
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "Collider"
+      },
+      {
+        "index": 2,
+        "name": "testA"
+      },
+      {
+        "index": 3,
+        "name": "testB"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 2,
+      "2": 8,
+      "3": 4
+    }
+  }
+}
