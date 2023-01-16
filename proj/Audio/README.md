@@ -1,5 +1,5 @@
 ### Audio
-| 序号 | 类型 | 项目 | 演示 |
+| No. | Type | Project | Preview |
 | :---: |:---: |:---: |:---: |
 | 1 | 2D | [多个音效同时播放](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Audio/Creator3.6.0_PlayOneShot) |   |
 | 2 | 2D | [添加全局按钮音效](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Audio/Creator3.6.0_AddGlobalButtonSound) |   |

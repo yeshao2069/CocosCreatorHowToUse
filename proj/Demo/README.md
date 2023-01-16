@@ -1,5 +1,5 @@
 ### Demo
-| 序号 | 类型 | 项目 | 演示 |
+| No. | Type | Project | Preview |
 | :---: | :---: | :---: | :---: |
 | 1 | 3D | [物体是否在摄像机范围内](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_3D_ObjectIsInCameraView) |<div align=center><img src="../../gif/202203/2022030551.gif" width="400" height="300" /></div> |
 | 2 | 3D | [使用动画帧事件](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_UseAnimationFrameEvents) | <div align=center><img src="../../gif/202203/2022030561.gif" width="400" height="300" /></div> |

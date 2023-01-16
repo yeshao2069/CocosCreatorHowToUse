@@ -1,5 +1,5 @@
 ### Graphics
-| 编号 | 分类 | 项目 | 演示 |
+| No. | Type | Project | Preview |
 | :---: | :---: | :---: | :---: |
 | 1 | 2D | [画饼状图](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsArc) | <div align=center><img src="../../image/202203/2022030401.png" width="400" height="300" /></div> |
 | 2 | 2D | [画正方形](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsRect) | <div align=center><img src="../../image/202203/2022030402.png" width="400" height="300" /></div> |

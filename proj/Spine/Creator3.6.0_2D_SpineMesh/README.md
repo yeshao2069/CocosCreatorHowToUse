@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **Spine特效** 工程
+project created based on CocosCreator version 3.6.0 **Spine特效** 
 
 ### Preview
 ![image](../../../gif/202203/2022030223.gif)

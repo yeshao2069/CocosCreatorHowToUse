@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **旋转后矩形是否包含点** 工程
+project created based on CocosCreator version 3.6.0 **旋转后矩形是否包含点** 
 
 ### Preview
 ![image](../../../image/202203/2022030541.png)

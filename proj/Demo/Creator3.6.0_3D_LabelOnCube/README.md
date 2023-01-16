@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **3D模型上的文字** 工程
+project created based on CocosCreator version 3.6.0 **3D模型上的文字** 
 
 ### Preview
 ![image](../../../image/202205/2022051701.png)

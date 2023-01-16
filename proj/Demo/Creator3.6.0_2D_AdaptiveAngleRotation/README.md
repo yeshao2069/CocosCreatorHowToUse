@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **自适应最小角度旋转** 工程
+project created based on CocosCreator version 3.6.0 **自适应最小角度旋转** 
 
 ### Preview
 ![image](../../../gif/202203/2022032202.gif)

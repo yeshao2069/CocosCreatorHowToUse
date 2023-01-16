@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **粒子拖尾模块1** 工程
+project created based on CocosCreator version 3.6.0 **粒子拖尾模块1** 
 
 ### Preview
 ![image](../../../gif/202203/2022030532.gif)

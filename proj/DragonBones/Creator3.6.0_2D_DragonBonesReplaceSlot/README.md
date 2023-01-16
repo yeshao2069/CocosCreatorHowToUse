@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **替换龙骨动画(slot插槽)** 工程
+project created based on CocosCreator version 3.6.0 **替换龙骨动画(slot插槽)** 
 
 ### Preview
 ![image](../../../gif/202203/2022030402.gif)

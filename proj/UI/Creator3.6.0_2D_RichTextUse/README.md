@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **富文本示例** 示例工程
+project created based on CocosCreator version 3.6.0 **富文本示例** 示例
 
 ### Preview
 ![image](../../../image/202203/2022030203.jpg)

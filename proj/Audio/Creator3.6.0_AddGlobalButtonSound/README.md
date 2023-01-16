@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **添加全局按钮音效** 工程
+project created based on CocosCreator version 3.6.0 **添加全局按钮音效** 
 
 ### 实现思路
 1. 方案1：编写一个 MyButton 类继承 Button 类，然后重写 MyButton 类中的触摸监听 touchEnd 事件。然后所有使用 Button 组件的地方改为添加 MyButton 类

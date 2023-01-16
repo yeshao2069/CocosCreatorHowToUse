@@ -1,5 +1,5 @@
 ### Tween
-| 编号 | 类型 | 项目  | 演示 |
+| No. | Type | Project | Preview |
 | :---: | :---: | :---: | :---: |
 | 1 | 2D | [透明度渐变](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Tween/Creator3.6.0_2D_TweenOpacityChange) | <div align=center><img src="../../gif/202203/2022030501.gif" width="400" height="300" /></div> |
 | 2 | 2D | [旋转](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Tween/Creator3.6.0_3D_TweenRotateChange) | <div align=center><img src="../../gif/202203/2022030502.gif" width="400" height="300" /></div> |

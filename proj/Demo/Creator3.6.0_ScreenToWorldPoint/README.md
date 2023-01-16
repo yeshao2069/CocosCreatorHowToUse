@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **3D位置转化** 工程
+project created based on CocosCreator version 3.6.0 **3D位置转化** 
 
 ### Preview
 ![image](../../../gif/202203/2022030567.gif)

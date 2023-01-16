@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **粒子贴图动画模块** 工程
+project created based on CocosCreator version 3.6.0 **粒子贴图动画模块** 
 
 ### Preview
 ![image](../../../gif/202203/2022030544.gif)

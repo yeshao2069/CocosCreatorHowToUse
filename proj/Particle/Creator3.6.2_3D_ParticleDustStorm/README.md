@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.2 版本创建的 **沙尘暴** 工程
+project created based on CocosCreator version 3.6.2 **沙尘暴** 
 
 ### Preview
 ![image](../../../gif/202211/2022112101.gif)

@@ -1,5 +1,5 @@
 ### Model
-| 序号 | 类型 | 项目 | 演示 |
+| No. | Type | Project | Preview |
 | :---: | :---: | :---: | :---: |
 | 1 | 3D | [表情动画](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Model/Creator3.6.0_3D_MorphHead)  | <div align=center><img src="../../gif/202203/2022030511.gif" width="400" height="300" /></div> |
 | 2 | 3D | [跳舞的女人](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Model/Creator3.6.0_3D_DanceWoman)  | <div align=center><img src="../../gif/202203/2022030512.gif" width="400" height="300" /></div> |

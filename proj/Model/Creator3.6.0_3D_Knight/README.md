@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **骑士** 工程
+project created based on CocosCreator version 3.6.0 **骑士** 
 
 ### Preview
 

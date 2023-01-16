@@ -1,5 +1,5 @@
 ### UI
-| 序号 | 类型 | 项目 | 备注 | 演示 |
+| No. | Type | Project | Mark | Preview |
 | :---: | :---: | :---: | :---: | :---: |
 |  | Widget | AlignOnceWidget | DEMO链接    [Gitee](https://gitee.com/mirrors_cocos-creator/example-cases/tree/v2.4.3/assets/cases/02_ui/01_widget) && [Github](https://github.com/cocos-creator/example-cases/tree/v2.4.3/assets/cases/02_ui/01_widget)  |    |
 |  | Widget | AnimatedWidget | DEMO链接    [Gitee](https://gitee.com/mirrors_cocos-creator/example-cases/tree/v2.4.3/assets/cases/02_ui/01_widget) && [Github](https://github.com/cocos-creator/example-cases/tree/v2.4.3/assets/cases/02_ui/01_widget)  |    |

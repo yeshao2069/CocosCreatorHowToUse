@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.1 版本创建的 **基于box2D物体切割** 工程
+project created based on CocosCreator version 3.6.1 **基于box2D物体切割** 
 
 ### Preview
 ![image](../../../gif/202211/2022110301.gif)

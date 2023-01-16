@@ -1,3 +1,3 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **多个音效同时播放** 工程
+project created based on CocosCreator version 3.6.0 **多个音效同时播放** 

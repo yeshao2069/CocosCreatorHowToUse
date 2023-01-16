@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **动态获取脚本的方法名** 工程
+project created based on CocosCreator version 3.6.0 **动态获取脚本的方法名** 
 
 ### 实现思路
 1. 使用js.getClassByName 尝试获取，终于获取到了。

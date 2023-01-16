@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.2 版本创建的 **物理点击测试(2D)** 工程
+project created based on CocosCreator version 3.6.2 **物理点击测试(2D)** 
 
 ### Preview
 ![image](../../../gif/202211/2022112301.gif)

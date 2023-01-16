@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **动态获取动画属性数据** 工程
+project created based on CocosCreator version 3.6.0 **动态获取动画属性数据** 
 
 ### Preview
 1. 当 a/b模式时

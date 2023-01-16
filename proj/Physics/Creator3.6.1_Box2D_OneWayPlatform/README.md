@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.1 版本创建的 **基于box2D单向平台** 工程
+project created based on CocosCreator version 3.6.1 **基于box2D单向平台** 
 
 ### Preview
 ![image](../../../gif/202211/2022110304.gif)

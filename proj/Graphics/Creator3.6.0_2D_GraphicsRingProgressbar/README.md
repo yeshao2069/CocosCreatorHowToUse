@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **环形进度条** 工程
+project created based on CocosCreator version 3.6.0 **环形进度条** 
 
 ### Preview
 ![image](../../../gif/20220306/2022030602.gif)

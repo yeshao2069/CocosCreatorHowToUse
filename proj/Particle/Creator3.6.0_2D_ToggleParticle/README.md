@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **2D粒子显隐** 工程
+project created based on CocosCreator version 3.6.0 **2D粒子显隐** 
 
 ### Preview
 ![image](../../../gif/202203/2022030546.gif)

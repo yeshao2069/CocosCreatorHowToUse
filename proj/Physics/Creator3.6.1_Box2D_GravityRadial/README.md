@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.1 版本创建的 **基于box2D重力辐射** 工程
+project created based on CocosCreator version 3.6.1 **基于box2D重力辐射** 
 
 ### Preview
 ![image](../../../gif/202211/2022110302.gif)

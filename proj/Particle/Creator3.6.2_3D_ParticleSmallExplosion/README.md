@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.2 版本创建的 **爆炸** 工程
+project created based on CocosCreator version 3.6.2 **爆炸** 
 
 ### Preview
 ![image](../../../gif/202211/2022112102.gif)

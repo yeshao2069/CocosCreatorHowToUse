@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **物理分组掩码** 工程
+project created based on CocosCreator version 3.6.0 **物理分组掩码** 
 
 ### Preview
 ![image](../../../gif/202203/2022030429.gif)

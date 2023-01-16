@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **胶囊体触发器测试** 工程
+project created based on CocosCreator version 3.6.0 **胶囊体触发器测试** 
 
 ### Preview
 ![image](../../../gif/202203/2022030437.gif)

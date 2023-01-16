@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.2 版本创建的 **文字两端对齐** 示例工程
+project created based on CocosCreator version 3.6.2 **文字两端对齐** 示例
 
 ### Preview
 ![image](../../../image/202212/2022120601.png)

@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **遮挡查询剔除(原生平台)** 工程
+project created based on CocosCreator version 3.6.0 **遮挡查询剔除(原生平台)** 
 
 ### Preview
 ![image](../../../gif/202205/2022051701.gif)

@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **贝塞尔曲线路径在线绘制工具** 工程
+project created based on CocosCreator version 3.6.0 **贝塞尔曲线路径在线绘制工具** 
 
 ### Preview
 ![image](../../../gif/202203/2022030565.gif)

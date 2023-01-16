@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.2 版本创建的 **能量爆炸** 工程
+project created based on CocosCreator version 3.6.2 **能量爆炸** 
 
 ### Preview
 ![image](../../../gif/202212/2022120601.gif)

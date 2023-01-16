@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **涂鸦** 工程
+project created based on CocosCreator version 3.6.0 **涂鸦** 
 
 ### Preview
 ![image](../../../gif/202203/2022030412.gif)

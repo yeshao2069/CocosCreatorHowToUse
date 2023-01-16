@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **视频置于UI之下** 示例工程
+project created based on CocosCreator version 3.6.0 **视频置于UI之下** 示例
 
 ### Preview
 ![image](../../../image/202203/2022030208.jpg)

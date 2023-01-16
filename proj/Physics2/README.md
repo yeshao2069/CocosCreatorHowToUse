@@ -1,5 +1,5 @@
 ### Physics
-| 序号 | 类型 | 项目 | 演示 |
+| No. | Type | Project | Preview |
 | :---: | :---: | :---: | :---: |
 | 31 | 2D | [基于box2D链条关节](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Physics2/Creator3.6.1_Box2D_HingeJoint) | <div align=center><img src="../../gif/202211/2022110314.gif" width="400" height="300" /></div> |
 | 32 | 2D | [基于box2D链条关节曲柄](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Physics2/Creator3.6.1_Box2D_HingeJointCrank) | <div align=center><img src="../../gif/202211/2022110315.gif" width="400" height="300" /></div> |

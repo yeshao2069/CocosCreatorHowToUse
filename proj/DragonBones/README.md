@@ -1,5 +1,5 @@
 ### DragonBones
-| 序号 | 类型 | 项目 | 演示 |
+| No. | Type | Project | Preview |
 | :---: | :---: | :---: | :---: |
 | 1 | 2D | [替换龙骨动画](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/DragonBones/Creator3.6.0_2D_DragonBonesReplaceSlot) | <div align=center><img src="../../gif/202203/2022030402.gif" width="400" height="300" /></div> |
 | 2 | 2D | [加载龙骨动画](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/DragonBones/Creator3.6.0_2D_LoadDragonBones) | <div align=center><img src="../../gif/202203/2022030401.gif" width="400" height="300" /></div> |

@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **Tween封装** 示例工程
+project created based on CocosCreator version 3.6.0 **Tween封装** 示例
 
 ### 接口支持
 1. cc.fadeIn      -->  CCUtils.fadeIn

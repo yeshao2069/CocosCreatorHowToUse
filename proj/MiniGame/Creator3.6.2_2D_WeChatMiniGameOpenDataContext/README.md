@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.2 版本创建的 **微信小游戏开放域** 工程
+project created based on CocosCreator version 3.6.2 **微信小游戏开放域** 
 
 ### Preview
 ![image](../../../image/202212/2022120701.png)

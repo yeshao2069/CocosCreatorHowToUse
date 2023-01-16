@@ -147,37 +147,37 @@ Cocos Creator v3.6.x
 ### SpriteFrameAnimation
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 5.1 | [精灵帧动画](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Animation/Creator3.6.0_2D_SpriteFrameAnimation) | 3.6.0 | [Back To Top](#quick) |  |
+| 5.1 | [SpriteFrame Animation](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Animation/Creator3.6.0_2D_SpriteFrameAnimation) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030211.gif" width="400" height="300" /></div>
 
 ### SpriteMoveAnimation
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 5.2 | [精灵帧移动动画](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Animation/Creator3.6.0_2D_SpriteMoveAnimation) | 3.6.0 | [Back To Top](#quick) |  |
+| 5.2 | [SpriteFrame Move Animation](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Animation/Creator3.6.0_2D_SpriteMoveAnimation) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030212.gif" width="400" height="300" /></div>
 
 ### CreateAnimationClip
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 5.3 | [动态创建精灵帧动画](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Animation/Creator3.6.0_2D_CreateAnimationClip) | 3.6.0 | [Back To Top](#quick) |  |
+| 5.3 | [Dynamic Create AnimationClip](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Animation/Creator3.6.0_2D_CreateAnimationClip) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030213.gif" width="400" height="300" /> </div>
 
 ### AnimationWater
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 5.4 | [水动画](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Animation/Creator3.6.0_2D_AnimationWater) | 3.6.0 | [Back To Top](#quick) |  |
+| 5.4 | [SpriteFrame Animation Water](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Animation/Creator3.6.0_2D_AnimationWater) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202205/2022052201.gif" width="400" height="300" /> </div>
 
 ### AnimationFish
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 5.5 | [美人鱼动画](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Animation/Creator3.6.0_2D_AnimationFish) | 3.6.0 | [Back To Top](#quick) |  |
+| 5.5 | [SpriteFrame Animation Fish](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Animation/Creator3.6.0_2D_AnimationFish) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202205/2022052202.gif" width="400" height="300" /> </div>
 
 ### MsAmoy
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 5.6 | [淘气包](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Animation/Creator3.6.0_3D_MsAmoy) | 3.6.0 | [Back To Top](#quick) |  |
+| 5.6 | [Ms. Amoy](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Animation/Creator3.6.0_3D_MsAmoy) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202209/2022091401.gif" width="400" height="300" /> </div>
 
 ### LoadSpine

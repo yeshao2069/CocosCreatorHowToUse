@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **动态加载材质** 工程
+project created based on CocosCreator version 3.6.0 **动态加载材质** 
 
 ### Preview
 ![image](../../../gif/202203/2022032701.gif)

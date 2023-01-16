@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **动态创建网格** 工程
+project created based on CocosCreator version 3.6.0 **动态创建网格** 
 
 ### Preview
 ![image](../../../image/202205/2022052201.png)

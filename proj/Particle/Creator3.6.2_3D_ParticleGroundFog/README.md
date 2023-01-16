@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.2 版本创建的 **地表雾** 工程
+project created based on CocosCreator version 3.6.2 **地表雾** 
 
 ### Preview
 ![image](../../../gif/202212/2022120501.gif)

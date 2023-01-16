@@ -1,5 +1,5 @@
 ### Particle
-| 编号 | 类型 | 项目 | 演示 |
+| No. | Type | Project | Preview |
 | :---: | :---: | :---: | :---: |
 | 1 | 3D | [火焰](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Particle/Creator3.6.0_3D_FlameSimulation) | <div align=center><img src="../../gif/202203/2022030531.gif" width="400" height="300" /></div> |
 | 2 | 3D | [粒子拖尾1](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Particle/Creator3.6.0_3D_ParticleTrails01) | <div align=center><img src="../../gif/202203/2022030532.gif" width="400" height="300" /></div> |

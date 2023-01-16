@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **GPU Instancing合批** 工程
+project created based on CocosCreator version 3.6.0 **GPU Instancing合批** 
 
 ### Preview
 未开启 GPU Instancing

@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **物体旋转跳跃** 工程
+project created based on CocosCreator version 3.6.0 **物体旋转跳跃** 
 
 ### Preview
 ![image](../../../gif/202203/2022030424.gif)

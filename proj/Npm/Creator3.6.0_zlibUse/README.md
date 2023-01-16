@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **NPM-zlib使用** 工程
+project created based on CocosCreator version 3.6.0 **NPM-zlib使用** 
 
 ### Preview
 ![image](../../../image/202211/2022112201.png)

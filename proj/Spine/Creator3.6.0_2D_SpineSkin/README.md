@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **Spine换肤** 工程
+project created based on CocosCreator version 3.6.0 **Spine换肤** 
 
 ### Preview
 ![image](../../../gif/202203/2022030224.gif)

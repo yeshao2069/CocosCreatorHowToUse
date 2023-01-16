@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **碰撞点数据测试** 工程
+project created based on CocosCreator version 3.6.0 **碰撞点数据测试** 
 
 ### Preview
 ![image](../../../gif/202203/2022030433.gif)

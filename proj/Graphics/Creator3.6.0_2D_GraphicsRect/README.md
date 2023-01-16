@@ -1,6 +1,6 @@
 ### Introduction
 
-基于 CocosCreator 3.6.0 版本创建的 **画正方形** 工程
+project created based on CocosCreator version 3.6.0 **画正方形** 
 
 ### Preview
 ![image](../../../image/202203/2022030402.png)
