@@ -840,7 +840,7 @@ Cocos Creator v3.6.x
 ### ZlibUse
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 14.1 | [zlib使用](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Npm/Creator3.6.0_zlibUse) | 3.6.0 | [Back To Top](#quick) |  |
+| 14.1 | [Zlib Suage](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Npm/Creator3.6.0_zlibUse) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202211/2022112201.png" width="450" height="300" /></div>
 
 ### ObjectIsInCameraView

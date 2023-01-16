@@ -1,6 +1,6 @@
 ### Introduction
 
-project created based on CocosCreator version 3.6.0 **NPM-zlib使用** 
+**Zlib Suage** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../image/202211/2022112201.png)
