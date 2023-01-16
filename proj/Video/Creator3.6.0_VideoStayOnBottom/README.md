@@ -1,6 +1,6 @@
 ### Introduction
 
-project created based on CocosCreator version 3.6.0 **视频置于UI之下** 示例
+**VideoPlayer Stay On Bottom** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../image/202203/2022030208.jpg)

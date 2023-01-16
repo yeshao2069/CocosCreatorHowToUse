@@ -101,47 +101,47 @@ Cocos Creator v3.6.x
 ### StaticBatch
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 2.2 | [静态合批](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Performance/Creator3.6.0_3D_StaticBatch) | 3.6.0 | [Back To Top](#quick) |  |
+| 2.2 | [Static Batch](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Performance/Creator3.6.0_3D_StaticBatch) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202204/2022042804.png" width="400" height="300" /></div> |
 
 ### VBBatch
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 2.3 | [VB合并](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Performance/Creator3.6.0_3D_VBBatch) | 3.6.0 | [Back To Top](#quick) |  |
+| 2.3 | [VB Batch](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Performance/Creator3.6.0_3D_VBBatch) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202204/2022042808.png" width="400" height="300" /></div>
 
 ### NativeOcclusionQuery
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 2.4 | [遮挡查询剔除(原生)](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Performance/Creator3.6.0_3D_NativeOcclusionQuery) | 3.6.0 | [Back To Top](#quick) |  |
+| 2.4 | [Occlusion Query(Native)](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Performance/Creator3.6.0_3D_NativeOcclusionQuery) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202205/2022051701.gif" width="400" height="300" /></div>
 
 ### PlayOneShot
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 3.1 | [多个音效同时播放](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Audio/Creator3.6.0_PlayOneShot) | 3.6.0 | [Back To Top](#quick) |  |
+| 3.1 | [PlayOneShot Usage](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Audio/Creator3.6.0_PlayOneShot) | 3.6.0 | [Back To Top](#quick) |  |
 
 ### AddGlobalButtonSound
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 3.2 | [添加全局按钮音效](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Audio/Creator3.6.0_AddGlobalButtonSound) | 3.6.0 | [Back To Top](#quick) |  |
+| 3.2 | [Add Global Button Sound](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Audio/Creator3.6.0_AddGlobalButtonSound) | 3.6.0 | [Back To Top](#quick) |  |
 
 ### PianoPlay
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 3.3 | [模拟钢琴播放](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Audio/Creator3.6.0_PianoPlay) | 3.6.0 | [Back To Top](#quick) |  |
+| 3.3 | [Play Piano](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Audio/Creator3.6.0_PianoPlay) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202203/2022030211.png" width="400" height="300" /></div>
 
 ### VideoPlayer
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 4.1 | [视频范例](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Video/Creator3.6.0_VideoPlayer) | 3.6.0 | [Back To Top](#quick) |  |
+| 4.1 | [VideoPlayer Usage](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Video/Creator3.6.0_VideoPlayer) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202203/2022030207.jpg" width="400" height="300" /></div> |
 
 ### VideoStayOnBottom
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 4.2 | [视频置于UI之下](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Video/Creator3.6.0_VideoStayOnBottom) | 3.6.0 | [Back To Top](#quick) |  |
+| 4.2 | [VideoPlayer Stay On Bottom](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Video/Creator3.6.0_VideoStayOnBottom) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202203/2022030208.jpg" width="400" height="300" /></div>
 
 ### SpriteFrameAnimation

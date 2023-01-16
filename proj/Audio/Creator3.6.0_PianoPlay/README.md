@@ -1,6 +1,6 @@
 ### Introduction
 
-project created based on CocosCreator version 3.6.0 **模拟钢琴播放** 
+**Play Piano** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../image/202203/2022030211.png)

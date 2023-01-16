@@ -1,10 +1,10 @@
 ### Introduction
 
-project created based on CocosCreator version 3.6.0 **GPU Instancing合批** 
+ **GPU Instancing** project created based on CocosCreator version 3.6.0
 
 ### Preview
-未开启 GPU Instancing
+Without GPU Instancing
 ![image](../../../image/202204/2022042801.png)
 
-开启 GPU Instancing
+With GPU Instancing
 ![image](../../../image/202204/2022042802.png)

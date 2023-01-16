@@ -1,10 +1,10 @@
 ### Introduction
 
-project created based on CocosCreator version 3.6.0 **静态合批** 
+**Static Batch** project created based on CocosCreator version 3.6.0
 
 ### Preview
-未开启 GPU Instancing
+Without Static Batch
 ![image](../../../image/202204/2022042803.png)
 
-开启 GPU Instancing
+with Static Batch
 ![image](../../../image/202204/2022042804.png)
