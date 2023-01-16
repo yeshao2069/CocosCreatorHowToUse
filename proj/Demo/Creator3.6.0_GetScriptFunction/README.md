@@ -1,4 +1,4 @@
-### 简介
+### Introduction
 
 基于 CocosCreator 3.6.0 版本创建的 **动态获取脚本的方法名** 工程
 

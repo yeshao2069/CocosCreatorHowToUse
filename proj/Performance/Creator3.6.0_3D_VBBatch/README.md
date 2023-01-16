@@ -1,8 +1,8 @@
-### 简介
+### Introduction
 
 基于 CocosCreator 3.6.0 版本创建的 **VB合并** 工程
 
-### 效果预览
+### Preview
 未开启 VB 合并 , 模型未剔除面数 >= 900的模型
 ![image](../../../image/202204/2022042805.png)
 

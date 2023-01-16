@@ -1,4 +1,4 @@
-### 简介
+### Introduction
 
 基于 CocosCreator 3.6.0 版本创建的 **检测碰撞体是否存在** 工程
 

@@ -1,11 +1,11 @@
-### 简介
+### Introduction
 
 基于 CocosCreator 3.6.0 版本创建的 **遮挡查询剔除(原生平台)** 工程
 
-### 效果预览
+### Preview
 ![image](../../../gif/202205/2022051701.gif)
 
-### 相关链接
+### Related Links
 [Github](https://github.com/cocos/cocos-example-projects/tree/v3.4/occlusion-query)
 
 ### 原理

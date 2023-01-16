@@ -1,8 +1,8 @@
-### 简介
+### Introduction
 
 基于 CocosCreator 3.6.0 版本创建的 **动态获取动画属性数据** 工程
 
-### 效果预览
+### Preview
 1. 当 a/b模式时
 ![image](../../../image/202203/2022030531.png)
 ![image](../../../image/202203/2022030532.png)

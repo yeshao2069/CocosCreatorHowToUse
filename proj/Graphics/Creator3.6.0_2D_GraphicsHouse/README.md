@@ -1,6 +1,6 @@
-### 简介
+### Introduction
 
 基于 CocosCreator 3.6.0 版本创建的 **画房子** 工程
 
-### 效果预览
+### Preview
 ![image](../../../image/202203/2022030401.png)

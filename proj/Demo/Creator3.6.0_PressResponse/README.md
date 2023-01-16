@@ -1,4 +1,4 @@
-### 简介
+### Introduction
 
 基于 CocosCreator 3.6.0 版本创建的 **点击响应** 工程
 

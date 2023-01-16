@@ -1,9 +1,9 @@
-### 简介
+### Introduction
 
 基于 CocosCreator 3.6.0 版本创建的 **动态创建网格** 工程
 
-### 效果预览
+### Preview
 ![image](../../../image/202205/2022052201.png)
 
-### 相关链接
+### Related Links
 https://forum.cocos.org/t/creator-3d-3d/91064

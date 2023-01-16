@@ -1,8 +1,8 @@
-### 简介
+### Introduction
 
 基于 CocosCreator 3.6.0 版本创建的 **动态加载FBX模型中的Mesh** 工程
 
-### 效果预览
+### Preview
 ![image](../../../gif/202203/2022030566.gif)
 
 ### 实现思路

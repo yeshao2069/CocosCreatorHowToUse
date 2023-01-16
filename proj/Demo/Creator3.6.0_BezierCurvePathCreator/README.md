@@ -1,8 +1,8 @@
-### 简介
+### Introduction
 
 基于 CocosCreator 3.6.0 版本创建的 **贝塞尔曲线路径在线绘制工具** 工程
 
-### 效果预览
+### Preview
 ![image](../../../gif/202203/2022030565.gif)
 
 ### 功能支持
@@ -15,7 +15,7 @@
 7. 可以点击拖拽修改属性面板
 8. 支持导出json数据
 
-### 相关链接
+### Related Links
 https://forum.cocos.org/t/topic/88433    
 https://github.com/csdjk/BezierCurvePathCreater    
 https://csdjk.github.io/bezierPathCreater.github.io/
