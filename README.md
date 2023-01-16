@@ -183,43 +183,43 @@ Cocos Creator v3.6.x
 ### LoadSpine
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.1 | [加载Spine动画](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Spine/Creator3.6.0_2D_LoadSpine) | 3.6.0 | [Back To Top](#quick) |  |
+| 6.1 | [Dynamic Load Spine](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Spine/Creator3.6.0_2D_LoadSpine) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030221.gif" width="400" height="300" /></div>
 
 ### SpineAttach
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.2 | [Spine挂点](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Spine/Creator3.6.0_2D_SpineAttach) | 3.6.0 | [Back To Top](#quick) |  |
+| 6.2 | [Spine Attach](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Spine/Creator3.6.0_2D_SpineAttach) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030222.gif" width="400" height="300" /></div>
 
 ### SpineMesh
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.3 | [Spine特效](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Spine/Creator3.6.0_2D_SpineMesh) | 3.6.0 | [Back To Top](#quick) |  |
+| 6.3 | [Spine Mesh](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Spine/Creator3.6.0_2D_SpineMesh) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030223.gif" width="400" height="300" /></div>
 
 ### SpineSkin
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.4 | [Spine换肤](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Spine/Creator3.6.0_2D_SpineSkin) | 3.6.0 | [Back To Top](#quick) |  |
+| 6.4 | [Spine Change Skin](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Spine/Creator3.6.0_2D_SpineSkin) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030224.gif" width="400" height="300" /></div>
 
 ### SpineCollider
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.5 | [Spine挂点碰撞检测](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Spine/Creator3.6.0_2D_SpineCollider) | 3.6.0 | [Back To Top](#quick) |  |
+| 6.5 | [Spine Collider](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Spine/Creator3.6.0_2D_SpineCollider) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030225.gif" width="400" height="300" /></div>
 
 ### SpineBoy
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.6 | [Spine动作切换](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Spine/Creator3.6.0_2D_SpineBoy) | 3.6.0 | [Back To Top](#quick) |  |
+| 6.6 | [Spine Boy](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Spine/Creator3.6.0_2D_SpineBoy) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030226.gif" width="400" height="300" /></div>
 
 ### SpineSpecifiedFrame
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.7 | [Spine动画指定帧播放](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Spine/Creator3.6.0_2D_SpineSpecifiedFrame) | 3.6.0 | [Back To Top](#quick) |  |
+| 6.7 | [Spine Specified Frame](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Spine/Creator3.6.0_2D_SpineSpecifiedFrame) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022031502.gif" width="400" height="300" /></div>
 
 ### DragonBonesReplaceSlot
