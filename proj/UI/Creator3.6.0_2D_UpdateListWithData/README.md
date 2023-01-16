@@ -1,6 +1,6 @@
 ### Introduction
 
-project created based on CocosCreator version 3.6.0 **更新列表信息** 示例
+**Update ListView With Data** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../image/202203/2022030206.png)

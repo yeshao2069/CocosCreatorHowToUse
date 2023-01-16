@@ -1,6 +1,6 @@
 ### Introduction
 
-project created based on CocosCreator version 3.6.0 **富文本示例** 示例
+**RichText Usage** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../image/202203/2022030203.jpg)

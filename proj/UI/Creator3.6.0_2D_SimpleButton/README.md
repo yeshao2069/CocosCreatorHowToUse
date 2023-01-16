@@ -1,6 +1,6 @@
 ### Introduction
 
-project created based on CocosCreator version 3.6.0 **简单按钮** 示例
+**Simple Button** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202203/2022030201.gif)

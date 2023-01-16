@@ -1,6 +1,6 @@
 ### Introduction
 
-project created based on CocosCreator version 3.6.0 **超大文本** 示例
+**Large System Font Text** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../image/202203/2022030201.jpg)

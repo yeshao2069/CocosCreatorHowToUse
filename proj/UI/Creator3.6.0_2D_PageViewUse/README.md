@@ -1,6 +1,6 @@
 ### Introduction
 
-project created based on CocosCreator version 3.6.0 **页面视图示例** 示例
+**PageView Usage** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../image/202203/2022030204.jpg)
