@@ -846,120 +846,118 @@ Cocos Creator v3.6.x
 ### ObjectIsInCameraView
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.1 | [物体是否在摄像机范围内](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_3D_ObjectIsInCameraView) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.1 | [Object Is In Camera View](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_3D_ObjectIsInCameraView) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030551.gif" width="400" height="300" /></div>
 
 ### UseAnimationFrameEvents
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.2 | [使用动画帧事件](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_UseAnimationFrameEvents) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.2 | [Use Animation Frame Events](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_UseAnimationFrameEvents) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030561.gif" width="400" height="300" /></div>
 
 ### GetScriptFunction
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.3 | [动态获取脚本的方法名](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_GetScriptFunction) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.3 | [Get Script Function](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_GetScriptFunction) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202203/2022030521.png" width="400" height="300" /></div>
 
 ### GetAnimationClipDataByTime
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.4 | [动态获取动画属性数据](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_GetAnimationClipDataByTime) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.4 | [Get Animation Clip Data By Time](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_GetAnimationClipDataByTime) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202203/2022030536.png" width="400" height="300" /></div>
 
 ### PressResponseTest
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.5 | [点击响应](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_PressResponseTest) | 3.6.0 | [Back To Top](#quick) | 无 |
+| 15.5 | [Press Response Test](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_PressResponseTest) | 3.6.0 | [Back To Top](#quick) | 无 |
 
 ### ObjectAlwaysFollow
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.6 | [物体始终在人物右侧](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_3D_ObjectAlwaysFollow) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.6 | [Object Always Follow](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_3D_ObjectAlwaysFollow) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030562.gif" width="400" height="300" /></div>
 
 ### CircularProgressBar
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.7 | [圆形进度条](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_2D_CircularProgressBar) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.7 | [Circular Progress Bar](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_2D_CircularProgressBar) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030563.gif" width="400" height="300" /></div>
 
 ### EllipseMove
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.8 | [椭圆轨迹运动](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_2D_EllipseMove) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.8 | [Ellipse Move](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_2D_EllipseMove) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030564.gif" width="400" height="300" /></div>
 
 ### BezierCurvePathCreator
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.9 | [贝塞尔曲线路径在线绘制工具](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_BezierCurvePathCreator) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.9 | [Bezier Curve Path Creator](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_BezierCurvePathCreator) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030565.gif" width="400" height="300" /></div>
 
 ### DynamicLoadMesh
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.10 | [动态加载FBX模型中的Mesh](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_3D_DynamicLoadMesh) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.10 | [Dynamic Load Mesh](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_3D_DynamicLoadMesh) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030566.gif" width="400" height="300" /></div>
 
 ### AbovePointTest
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.11 | [旋转后矩形是否包含点](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_2D_AbovePointTest) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.11 | [Above Point Test](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_2D_AbovePointTest) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202203/2022030541.png" width="400" height="300" /></div>
 
 ### RoadCurved
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.12 | [弯曲的道路](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_3D_RoadCurved) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.12 | [Road Curved](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_3D_RoadCurved) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202203/2022030542.png" width="400" height="300" /></div>
 
 ### ScreenToWorldPoint
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.13 | [3D位置转化](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_ScreenToWorldPoint) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.13 | [Screen To World Point](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_ScreenToWorldPoint) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030567.gif" width="400" height="300" /></div>
 
 ### AutoGenerateSpriteframe
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.14 | [动态生成单色精灵](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_2D_AutoGenerateSpriteframe) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.14 | [Auto Generate Spriteframe](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_2D_AutoGenerateSpriteframe) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202203/2022030543.png" width="400" height="300" /></div>
 
 ### IrregularButton
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.15 | [不规则按钮](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_2D_IrregularButton) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.15 | [Irregular Button](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_2D_IrregularButton) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030568.gif" width="400" height="300" /></div>
 
 ### AdaptiveAngleRotation
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.16 | [自适应最小角度旋转](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_2D_AdaptiveAngleRotation) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.16 | [Adaptive Angle Rotation](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_2D_AdaptiveAngleRotation) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022032202.gif" width="400" height="300" /></div>
 
 ### AdaptiveRotation
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.17 | [自适应最小角度点击旋转](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_2D_AdaptiveRotation) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.17 | [Adaptive Rotation](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_2D_AdaptiveRotation) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022032201.gif" width="400" height="300" /></div>
 
 ### LabelOnCube
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.18 | [3D模型上的文字](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_3D_LabelOnCube) | 3.6.0 | [Back To Top](#quick) |  |
+| 15.18 | [Label On Cube](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.0_3D_LabelOnCube) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202205/2022051701.png" width="400" height="300" /></div>
 
 ### ModelAnchor
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 15.19 | [3D模型锚点](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.1_3D_ModelAnchor) | 3.6.1 | [Back To Top](#quick) |  |
+| 15.19 | [Model Anchor](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Demo/Creator3.6.1_3D_ModelAnchor) | 3.6.1 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202210/2022100801.gif" width="400" height="300" /></div>
 
 ### WeChatMiniGameOpenDataContext
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 16.1 | [微信小游戏开放域](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/MiniGame/Creator3.6.2_2D_WeChatMiniGameOpenDataContext) | 3.6.2 | [Back To Top](#quick) |  |
+| 16.1 | [WeChat Mini Game Open Data Context](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/MiniGame/Creator3.6.2_2D_WeChatMiniGameOpenDataContext) | 3.6.2 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202212/2022120701.png" width="250" height="400" /></div>
-
-- ·*· 代表有问题

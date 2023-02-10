@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.2 **微信小游戏开放域** 
+**WeChat Mini Game Open Data Context** project created based on CocosCreator version 3.6.2
 
 ### Preview
 ![image](../../../image/202212/2022120701.png)

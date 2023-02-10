@@ -1,15 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **使用动画帧事件** 
+**Use Animation Frame Events** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202203/2022030561.gif)
-
-### 实现思路
-1. 编辑动画（添加动画组件，保存动画animationClip等）
-![image](../../../image/202203/2022030551.png)
-2. 双击闪电图标(帧事件的标志)，添加动画的动画帧事件，编辑函数名A和参数
-![image](../../../image/202203/2022030552.png)
-3. 在添加动画的节点上添加TS脚本并编辑 函数名A等
-![image](../../../image/202203/2022030553.png)
-![image](../../../image/202203/2022030554.png)
