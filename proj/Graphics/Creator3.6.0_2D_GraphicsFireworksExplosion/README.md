@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **烟花爆炸** 
+**Graphics Fireworks Explosion** project created based on CocosCreator version 3.6.0 
 
 ### Preview
 ![image](../../../gif/202203/2022030415.gif)

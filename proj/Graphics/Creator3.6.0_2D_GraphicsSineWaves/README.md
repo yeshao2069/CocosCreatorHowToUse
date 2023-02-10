@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **画Sine曲线** 
+**Graphics Sine Waves** project created based on CocosCreator version 3.6.0 
 
 ### Preview
 ![image](../../../gif/202203/2022030413.gif)

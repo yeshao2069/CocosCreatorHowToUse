@@ -261,67 +261,67 @@ Cocos Creator v3.6.x
 ### GraphicsArc
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 8.1 | [画饼状图](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsArc) | 3.6.0 | [Back To Top](#quick) |  |
+| 8.1 | [Graphics Arc](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsArc) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202203/2022030401.png" width="400" height="300" /></div>
 
 ### GraphicsRect
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 8.2 | [画正方形](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsRect) | 3.6.0 | [Back To Top](#quick) |  |
+| 8.2 | [Graphics Rect](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsRect) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202203/2022030402.png" width="400" height="300" /></div>
 
 ### GraphicsLineTo
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 8.3 | [画菱形](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsLineTo) | 3.6.0 | [Back To Top](#quick) |  |
+| 8.3 | [Graphics LineTo](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsLineTo) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202203/2022030403.png" width="400" height="300" /></div>
 
 ### GraphicsEllipse
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 8.4 | [画椭圆形](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsEllipse) | 3.6.0 | [Back To Top](#quick) |  |
+| 8.4 | [Graphics Ellipse](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsEllipse) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202203/2022030404.png" width="400" height="300" /></div>
 
 ### GraphicsDrawCircle
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 8.5 | [三点画圆](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsDrawCircle) | 3.6.0 | [Back To Top](#quick) |  |
+| 8.5 | [Graphics Draw Circle](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsDrawCircle) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030411.gif" width="400" height="300" /></div>
 
 ### Doodle
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 8.6 | [涂鸦](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_Doodle) | 3.6.0 | [Back To Top](#quick) |  |
+| 8.6 | [Doodle](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_Doodle) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030412.gif" width="400" height="300" /></div>
 
 ### GraphicsSineWaves
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 8.7 | [画Sine曲线](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsSineWaves) | 3.6.0 | [Back To Top](#quick) |  |
+| 8.7 | [Graphics Sine Waves](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsSineWaves) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030413.gif" width="400" height="300" /></div>
 
 ### DrawLine
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 8.8 | [自由画线](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_DrawLine) | 3.6.0 | [Back To Top](#quick) |  |
+| 8.8 | [Graphics Draw Line](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_DrawLine) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030414.gif" width="400" height="300" /></div>
 
 ### GraphicsFireworksExplosion
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 8.9 | [烟花爆炸](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsFireworksExplosion) | 3.6.0 | [Back To Top](#quick) |  |
+| 8.9 | [Graphics Fireworks Explosion](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsFireworksExplosion) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030415.gif" width="400" height="300" /></div>
 
 ### GraphicsHouse
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 8.10 | [画房子](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsHouse) | 3.6.0 | [Back To Top](#quick) |  |
+| 8.10 | [Graphics House](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsHouse) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./image/202203/2022032101.png" width="400" height="300" /></div>
 
 ### GraphicsRingProgressbar
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 8.11 | [环形进度条](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsRingProgressbar) | 3.6.0 | [Back To Top](#quick) |  |
+| 8.11 | [Graphics Ring Progressbar](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Graphics/Creator3.6.0_2D_GraphicsRingProgressbar) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202206/2022062102.gif" width="280" height="400" /></div>
 
 ### PhysicsRaycastClosest

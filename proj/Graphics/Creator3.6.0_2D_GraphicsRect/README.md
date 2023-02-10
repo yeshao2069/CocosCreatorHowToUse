@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **画正方形** 
+**Graphics Rect** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../image/202203/2022030402.png)

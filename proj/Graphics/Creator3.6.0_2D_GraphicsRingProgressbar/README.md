@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **环形进度条** 
+**Graphics Ring Progressbar** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/20220306/2022030602.gif)

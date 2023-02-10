@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **画菱形** 
+**Graphics LineTo** project created based on CocosCreator version 3.6.0 
 
 ### Preview
 ![image](../../../image/202203/2022030403.png)
