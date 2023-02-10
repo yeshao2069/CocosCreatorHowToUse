@@ -609,37 +609,37 @@ Cocos Creator v3.6.x
 ### TweenOpacityChange
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 10.1 | [透明度渐变](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Tween/Creator3.6.0_2D_TweenOpacityChange) | 3.6.0 | [Back To Top](#quick) |  |
+| 10.1 | [Tween Opacity Change](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Tween/Creator3.6.0_2D_TweenOpacityChange) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030501.gif" width="400" height="300" /></div> |
 
 ### TweenRotateChange
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 10.2 | [旋转](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Tween/Creator3.6.0_3D_TweenRotateChange) | 3.6.0 | [Back To Top](#quick) |  |
+| 10.2 | [Tween Rotate Change](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Tween/Creator3.6.0_3D_TweenRotateChange) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030502.gif" width="400" height="300" /></div>
 
 ### TweenCircleMove
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 10.3 | [环形运动](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Tween/Creator3.6.0_2D_TweenCircleMove) | 3.6.0 | [Back To Top](#quick) |  |
+| 10.3 | [Tween Circle Move](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Tween/Creator3.6.0_2D_TweenCircleMove) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030503.gif" width="400" height="300" /></div>
 
 ### TweenRotateAndScaleForever
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 10.4 | [旋转并缩放](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Tween/Creator3.6.0_2D_TweenRotateAndScaleForever) | 3.6.0 | [Back To Top](#quick) |  |
+| 10.4 | [Tween Rotate And Scale Forever](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Tween/Creator3.6.0_2D_TweenRotateAndScaleForever) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030504.gif" width="400" height="300" /></div>
 
 ### TweenShowMonster
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 10.5 | [使用Easing示例](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Tween/Creator3.6.0_2D_TweenShowMonster) | 3.6.0 | [Back To Top](#quick) |  |
+| 10.5 | [Tween Show Monster](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Tween/Creator3.6.0_2D_TweenShowMonster) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030505.gif" width="400" height="300" /></div>
 
 ### TweenCCUtils
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 10.6 | [Tween封装](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Tween/Creator3.6.0_2D_TweenCCUtils) | 3.6.0 | [Back To Top](#quick) |  |
+| 10.6 | [Tween CC Utils](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Tween/Creator3.6.0_2D_TweenCCUtils) | 3.6.0 | [Back To Top](#quick) |  |
 
 ### MorphHead
 | No. | Project | Creator Version | Back To Top | Mark |
