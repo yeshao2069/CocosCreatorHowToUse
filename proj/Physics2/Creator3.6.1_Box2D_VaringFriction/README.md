@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.1 **基于box2D物体摩擦力** 
+**Box2D Varing Friction** project created based on CocosCreator version 3.6.1 
 
 ### Preview
 ![image](../../../gif/202211/2022110333.gif)

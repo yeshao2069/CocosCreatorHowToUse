@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.1 **基于box2D不规则碰撞** 
+**Box2D Manifold** project created based on CocosCreator version 3.6.1
 
 ### Preview
 ![image](../../../gif/202211/2022110303.gif)

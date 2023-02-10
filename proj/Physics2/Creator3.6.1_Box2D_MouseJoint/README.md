@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.1 **基于box2D鼠标关节** 
+**Box2D Mouse Joint** project created based on CocosCreator version 3.6.1 
 
 ### Preview
 ![image](../../../gif/202211/2022110316.gif)

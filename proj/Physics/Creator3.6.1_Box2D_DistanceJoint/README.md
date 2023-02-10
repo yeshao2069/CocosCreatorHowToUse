@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.1 **基于box2D距离关节** 
+**Box2D Distance Joint** project created based on CocosCreator version 3.6.1 
 
 ### Preview
 ![image](../../../gif/202211/2022110311.gif)

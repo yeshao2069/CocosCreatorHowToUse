@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.2 **物理形状碰撞** 
+**Physical Shape** project created based on CocosCreator version 3.6.2
 
 ### Preview
 ![image](../../../gif/202211/2022112303.gif)

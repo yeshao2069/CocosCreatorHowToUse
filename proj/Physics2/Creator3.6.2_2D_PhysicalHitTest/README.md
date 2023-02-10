@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.2 **物理点击测试(2D)** 
+**Physical Hit Test** project created based on CocosCreator version 3.6.2
 
 ### Preview
 ![image](../../../gif/202211/2022112301.gif)

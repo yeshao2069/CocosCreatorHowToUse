@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.1 **基于box2D滑块关节** 
+**Box2D Slider Joint** project created based on CocosCreator version 3.6.1 
 
 ### Preview
 ![image](../../../gif/202211/2022110319.gif)

@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **3D浮力** 
+**Buoyancy 3D**  project created based on CocosCreator version 3.6.0 
 
 ### Preview
 ![image](../../../gif/202209/2022092101.gif)

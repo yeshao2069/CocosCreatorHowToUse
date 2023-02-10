@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.1 **基于box2D弹簧关节频率** 
+**Box2D Spring Joint Frequency** project created based on CocosCreator version 3.6.1
 
 ### Preview
 ![image](../../../gif/202211/2022110321.gif)

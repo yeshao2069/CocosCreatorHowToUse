@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.1 **基于box2D物体射线检测** 
+**Box2D Raycast** project created based on CocosCreator version 3.6.1
 
 ### Preview
 ![image](../../../gif/202211/2022110305.gif)

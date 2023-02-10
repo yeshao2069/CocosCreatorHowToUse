@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **不规则物体碰撞** 
+**Physics Convex Colliders**  project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202203/2022030431.gif)

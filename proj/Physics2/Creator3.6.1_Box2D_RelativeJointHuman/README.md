@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.1 **基于box2D相对关节人偶** 
+**Box2D Relative Joint Human** project created based on CocosCreator version 3.6.1
 
 ### Preview
 ![image](../../../gif/202211/2022110317.gif)
