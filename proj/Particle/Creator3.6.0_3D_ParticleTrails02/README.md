@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **粒子拖尾模块2** 
+**Particle Tails Two** project created based on CocosCreator version 3.6.0 
 
 ### Preview
 ![image](../../../gif/202203/2022030533.gif)

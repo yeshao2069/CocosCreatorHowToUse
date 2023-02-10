@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.2 **沙尘暴** 
+**Dust Storm Particle** project created based on CocosCreator version 3.6.2
 
 ### Preview
 ![image](../../../gif/202211/2022112101.gif)

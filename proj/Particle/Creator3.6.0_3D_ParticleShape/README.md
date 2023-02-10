@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **粒子发射器模块** 
+**Particle Shape Module** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202203/2022030542.gif)

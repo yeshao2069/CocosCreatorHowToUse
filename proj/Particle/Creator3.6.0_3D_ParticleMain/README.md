@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **粒子主模块** 
+**Particle Main Module** project created based on CocosCreator version 3.6.0 
 
 ### Preview
 ![image](../../../gif/202203/2022030539.gif)

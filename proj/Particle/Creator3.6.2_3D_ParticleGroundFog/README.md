@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.2 **地表雾** 
+**Ground Fog Particle** project created based on CocosCreator version 3.6.2
 
 ### Preview
 ![image](../../../gif/202212/2022120501.gif)

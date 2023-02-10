@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **2D粒子完成后自动移除** 
+**Particle 2D Auto Remove** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202203/2022030547.gif)

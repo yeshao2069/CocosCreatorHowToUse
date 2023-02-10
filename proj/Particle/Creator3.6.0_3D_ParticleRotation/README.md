@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **粒子旋转模块** 
+**Particle Rotation Module** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202203/2022030541.gif)

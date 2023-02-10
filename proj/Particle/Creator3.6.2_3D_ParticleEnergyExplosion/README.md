@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.2 **能量爆炸** 
+**Energy Explosion Particle** project created based on CocosCreator version 3.6.2
 
 ### Preview
 ![image](../../../gif/202212/2022120601.gif)

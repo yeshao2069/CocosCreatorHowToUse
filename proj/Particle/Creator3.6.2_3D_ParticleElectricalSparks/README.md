@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.2 **电火花** 
+**Electrical Sparks Particle** project created based on CocosCreator version 3.6.2
 
 ### Preview
 ![image](../../../gif/202211/2022112201.gif)

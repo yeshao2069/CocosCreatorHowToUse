@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.2 **火焰喷射** 
+**Jet Fires Particle** project created based on CocosCreator version 3.6.2
 
 ### Preview
 ![image](../../../gif/202211/2022112202.gif)

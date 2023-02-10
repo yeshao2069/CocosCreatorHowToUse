@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.2 **爆炸** 
+**Small Explosion Particle** project created based on CocosCreator version 3.6.2 
 
 ### Preview
 ![image](../../../gif/202211/2022112102.gif)
