@@ -1,19 +1,18 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **骑士** 
+**Model Knight** project created based on CocosCreator version 3.6.0 
 
 ### Preview
 
-春天
+Spring
 ![image](../../../image/202203/2022030511.png)
 
-夏天
+Summer
 ![image](../../../image/202203/2022030512.png)
 
-秋天
+Autumn
 ![image](../../../image/202203/2022030513.png)
 
-冬天
+Winter
 ![image](../../../image/202203/2022030514.png)
 
 ### Related Links

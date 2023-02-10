@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **动态创建网格** 
+**Model Create Mesh** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../image/202205/2022052201.png)
