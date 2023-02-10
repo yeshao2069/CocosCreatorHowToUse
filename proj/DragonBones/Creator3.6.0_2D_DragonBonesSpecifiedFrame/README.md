@@ -1,7 +1,5 @@
-## Cocos Creator Demos
-
-##### Introduction
-project created based on CocosCreator version 3.6.0 **龙骨动画指定帧播放** 
+### Introduction
+**DragonBones Specified Frame** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202203/2022031501.gif)

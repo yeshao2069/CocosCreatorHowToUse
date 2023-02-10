@@ -225,37 +225,37 @@ Cocos Creator v3.6.x
 ### DragonBonesReplaceSlot
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.1 | [替换龙骨动画](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/DragonBones/Creator3.6.0_2D_DragonBonesReplaceSlot) | 3.6.0 | [Back To Top](#quick) |  |
+| 7.1 | [DragonBones Replace Slot](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/DragonBones/Creator3.6.0_2D_DragonBonesReplaceSlot) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030402.gif" width="400" height="300" /></div>
 
 ### LoadDragonBones
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.2 | [加载龙骨动画](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/DragonBones/Creator3.6.0_2D_LoadDragonBones) | 3.6.0 | [Back To Top](#quick) |  |
+| 7.2 | [Load DragonBones](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/DragonBones/Creator3.6.0_2D_LoadDragonBones) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030401.gif" width="400" height="300" /></div>
 
 ### DragonBonesCollider
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.3 | [龙骨动画碰撞检测](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/DragonBones/Creator3.6.0_2D_DragonBonesCollider) | 3.6.0 | [Back To Top](#quick) |  |
+| 7.3 | [DragonBones Collider](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/DragonBones/Creator3.6.0_2D_DragonBonesCollider) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030403.gif" width="400" height="300" /></div>
 
 ### DragonBonesAttach
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.4 | [龙骨动画挂点](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/DragonBones/Creator3.6.0_2D_DragonBonesAttach) | 3.6.0 | [Back To Top](#quick) |  |
+| 7.4 | [DragonBones Attach](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/DragonBones/Creator3.6.0_2D_DragonBonesAttach) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030404.gif" width="400" height="300" /></div>
 
 ### DragonBones
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.5 | [切换龙骨动画](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/DragonBones/Creator3.6.0_2D_DragonBones) | 3.6.0 | [Back To Top](#quick) |  |
+| 7.5 | [DragonBones](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/DragonBones/Creator3.6.0_2D_DragonBones) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030405.gif" width="400" height="300" /></div>
 
 ### DragonBonesSpecifiedFrame
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.6 | [龙骨动画指定帧播放](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/DragonBones/Creator3.6.0_2D_DragonBonesSpecifiedFrame) | 3.6.0 | [Back To Top](#quick) |  |
+| 7.6 | [DragonBones Specified Frame](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/DragonBones/Creator3.6.0_2D_DragonBonesSpecifiedFrame) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022031501.gif" width="400" height="300" /></div>
 
 ### GraphicsArc
