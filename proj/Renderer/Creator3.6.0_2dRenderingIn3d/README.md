@@ -1,6 +1,5 @@
 ### Introduction
-
-project created based on CocosCreator version 3.6.0 **2D的物体渲染在3D场景中** 
+**2D Rendering In 3D** project created based on CocosCreator version 3.6.0 
 
 ### Preview
 ![image](../../../gif/202203/2022030521.gif)

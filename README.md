@@ -698,13 +698,13 @@ Cocos Creator v3.6.x
 ### 2dRenderingIn3d
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 12.1 | [2D在3D中渲染](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Renderer/Creator3.6.0_2dRenderingIn3d) | 3.6.0 | [Back To Top](#quick) |  |
+| 12.1 | [2D Rendering In 3D](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Renderer/Creator3.6.0_2dRenderingIn3d) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030521.gif" width="400" height="300" /></div>
 
 ### Capture
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
-| 12.2 | [Web截图](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Renderer/Creator3.6.0_Capture) | 3.6.0 | [Back To Top](#quick) |  |
+| 12.2 | [Web Capture](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.6.x/proj/Renderer/Creator3.6.0_Capture) | 3.6.0 | [Back To Top](#quick) |  |
 <div align=center><img src="./gif/202203/2022030522.gif" width="400" height="300" /></div>
 
 ### FlameSimulation
