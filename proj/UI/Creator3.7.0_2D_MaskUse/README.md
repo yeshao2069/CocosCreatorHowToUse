@@ -1,8 +1,9 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **遮罩示例** 示例工程
+### Introduction
 
-### 效果预览
+**Mask Usage** project created based on CocosCreator version 3.7.0
+
+### Preview
 ![image](../../../image/202203/2022030205.jpg)
 
-### 相关链接
+### Related Links
 [Gitee](https://gitee.com/mirrors_cocos-creator/example-cases/tree/v2.4.3/assets/cases/02_ui/15_mask) | [Github](https://github.com/cocos-creator/example-cases/tree/v2.4.3/assets/cases/02_ui/15_mask)

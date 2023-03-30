@@ -1,5 +1,6 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **弹窗控制器** 示例工程
+### Introduction
 
-### 效果预览
+**Popup Controller** project created based on CocosCreator version 3.7.0
+
+### Preview
 ![image](../../../gif/202210/2022100901.gif)

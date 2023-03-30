@@ -1,8 +1,9 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **文字两端对齐** 示例工程
+### Introduction
 
-### 效果预览
+**Text Alignment At Both Ends** project created based on CocosCreator version 3.7.0
+
+### Preview
 ![image](../../../image/202212/2022120601.png)
 
-### 相关链接
+### Related Links
 https://forum.cocos.org/t/cocoscreator/91503/5
