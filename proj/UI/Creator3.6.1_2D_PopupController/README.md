@@ -1,5 +1,4 @@
 ### Introduction
-
 **Popup Controller** project created based on CocosCreator version 3.6.1
 
 ### Preview

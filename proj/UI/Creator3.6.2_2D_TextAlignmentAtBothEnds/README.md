@@ -1,5 +1,4 @@
 ### Introduction
-
 **Text Alignment At Both Ends** project created based on CocosCreator version 3.6.2
 
 ### Preview
