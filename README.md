@@ -1009,4 +1009,4 @@ Cocos Creator v3.7.x
 | No. | Project | Creator Version | Back To Top | Mark |
 | :---: | :---: | :---: | :---: | :---: |
 | 17.1 | [Terrian Lod](https://github.com/yeshao2069/CocosCreatorHowToUse/tree/v3.7.x/proj/Terrian/Creator3.7.0_3D_TerrianLod) | 3.7.0 | [Back To Top](#quick) |  |
-<div align=center><img src="./image/202302/2023020901.png" width="400" height="300" /></div>
+<div align=center><img src="./gif/202302/2023020901.gif" width="400" height="300" /></div>
