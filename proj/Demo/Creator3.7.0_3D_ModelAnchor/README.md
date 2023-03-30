@@ -1,5 +1,5 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **3D节点锚点** 工程
+### Introduction
+**Model Anchor** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202210/2022100801.gif)

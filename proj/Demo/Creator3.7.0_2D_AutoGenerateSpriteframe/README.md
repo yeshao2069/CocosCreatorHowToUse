@@ -1,5 +1,5 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **动态生成单色精灵** 工程
+### Introduction
+**Auto Generate Spriteframe** project created based on CocosCreator version 3.7.0 
 
-### 效果预览
+### Preview
 ![image](../../../image/202203/2022030543.png)

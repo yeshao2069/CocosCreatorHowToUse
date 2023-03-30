@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **椭圆轨迹运动** 工程
+### Introduction
+**Ellipse Move** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202203/2022030564.gif)
 
-### 相关链接
+### Related Links
 https://forum.cocos.org/t/ellipse/83277
