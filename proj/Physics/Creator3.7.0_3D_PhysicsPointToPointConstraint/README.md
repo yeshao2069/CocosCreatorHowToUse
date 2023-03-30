@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **点对点约束** 工程
+### Introduction
+**Physics Point To Point Constraint** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202203/2022030432.gif)
 
-### 相关链接
+### Related Links
 [Gitee](https://gitee.com/mirrors_cocos-creator/example-3d/blob/master/physics-3d/assets/cases/scenes) | [Github](https://github.com/cocos-creator/example-3d/blob/master/physics-3d/assets/cases/scenes)

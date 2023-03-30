@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **3D浮力** 工程
+### Introduction
+**Buoyancy 3D**  project created based on CocosCreator version 3.7.0 
 
-### 效果预览
+### Preview
 ![image](../../../gif/202209/2022092101.gif)
 
-### 相关链接
+### Related Links
 [Github](https://github.com/cocos/cocos-example-projects/tree/v3.6/physics-3d/assets/demo/buoyancy)

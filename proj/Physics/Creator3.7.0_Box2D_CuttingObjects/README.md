@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **基于box2D物体切割** 工程
+### Introduction
+**Box2D Cutting Objects** project created based on CocosCreator version 3.7.0  
 
-### 效果预览
+### Preview
 ![image](../../../gif/202211/2022110301.gif)
 
-### 相关链接
+### Related Links
 [Gitee](https://gitee.com/mirrors_cocos-creator/cocos-example-physics/tree/v3.x/2d/box2d/assets/cases/demo) | [Github](https://github.com/cocos/cocos-example-physics/tree/v3.x/2d/box2d/assets/cases/demo)

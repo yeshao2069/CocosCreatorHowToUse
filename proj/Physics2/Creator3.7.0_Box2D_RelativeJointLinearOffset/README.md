@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **基于box2D相对关节线性偏移** 工程
+### Introduction
+**Box2D Relative Joint Linear Offset** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202211/2022110318.gif)
 
-### 相关链接
+### Related Links
 [Gitee](https://gitee.com/mirrors_cocos-creator/cocos-example-physics/tree/v3.x/2d/box2d/assets/cases/example/joints) | [Github](https://github.com/cocos/cocos-example-physics/tree/v3.x/2d/box2d/assets/cases/example/joints)

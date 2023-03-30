@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **物理点击测试(2D)** 工程
+### Introduction
+**Physical Hit Test** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202211/2022112301.gif)
 
-### 相关链接
+### Related Links
 [Gitee](https://gitee.com/mirrors_cocos-creator/cocos-example-physics/tree/v3.x/2d/common/assets/cases) | [Github](https://github.com/cocos/cocos-example-physics/tree/v3.x/2d/common/assets/cases)
