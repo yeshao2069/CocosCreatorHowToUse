@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.2 版本创建的 **HDR/LDR** 工程
+### Introduction
+**HDR/LDR** project created based on CocosCreator version 3.7.2
 
-### 效果预览
+### Preview
 ![image](../../../gif/202303/2023032901.gif)
 
-### 相关链接
+### Related Links
 https://github.com/cocos/cocos-example-projects/tree/master/show-cases/assets/scenes
