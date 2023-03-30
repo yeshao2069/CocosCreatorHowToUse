@@ -1,2 +1,3 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **多个音效同时播放** 工程
+### Introduction
+
+**PlayOneShot Usage** project created based on CocosCreator version 3.7.0
