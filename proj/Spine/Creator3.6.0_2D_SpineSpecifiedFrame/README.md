@@ -1,6 +1,4 @@
-## Cocos Creator Demos
-
-##### Introduction
+### Introduction
 **Spine Specified Frame** project created based on CocosCreator version 3.6.0
 
 ### Preview

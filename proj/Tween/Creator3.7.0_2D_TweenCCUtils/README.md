@@ -1,14 +1,14 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **Tween封装** 示例工程
+### Introduction
+**Tween CC Utils** project created based on CocosCreator version 3.7.0 
 
-### 接口支持
+### Support (Interface)
 1. cc.fadeIn      -->  CCUtils.fadeIn
 2. cc.fadeOut     -->  CCUtils.fadeOut
 3. cc.show        -->  CCUtils.show
 4. cc.hide        -->  CCUtils.hide
 5. cc.toggleVisibility    -->  CCUtils.toggleVisibility
 
-### 组件支持
+### Support (UI)
 - Sprite 精灵图片
 - Label 文本
 - EditBox 输入框

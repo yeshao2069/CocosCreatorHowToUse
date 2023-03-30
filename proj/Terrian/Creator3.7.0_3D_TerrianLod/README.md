@@ -1,5 +1,5 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **地形Lod使用** 示例工程
+### Introduction
+**Terrian Lod** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202302/2023020901.gif)
