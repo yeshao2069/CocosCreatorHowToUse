@@ -1,5 +1,6 @@
-### 简介
-基于 CocosCreator 3.7.1 版本创建的 **阴影贴图分辨率** 工程
+### Introduction
 
-### 效果预览
+**Shadow Map Size** project created based on CocosCreator version 3.7.1
+
+### Preview
 ![image](../../../gif/202302/2023022701.gif)

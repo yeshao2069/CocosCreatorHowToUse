@@ -1,15 +1,16 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **VB合并** 工程
+### Introduction
 
-### 效果预览
-未开启 VB 合并 , 模型未剔除面数 >= 900的模型
+**VB Batch** project created based on CocosCreator version 3.7.0
+
+### Preview
+Without VB Batch, Model triangular surface >= 900
 ![image](../../../image/202204/2022042805.png)
 
-开启 VB 合并 , 模型未剔除面数 >= 900的模型 (负优化)
+With VB Batch , Model triangular surface  >= 900
 ![image](../../../image/202204/2022042806.png)
 
-未开启 VB 合并 , 模型剔除面数 >= 900的模型
+Without VB Batch, Model triangular surface >= 900
 ![image](../../../image/202204/2022042807.png)
 
-开启 VB 合并 , 模型剔除面数 >= 900的模型 (负优化)
+With VB Batch , Model triangular surface >= 900
 ![image](../../../image/202204/2022042808.png)
