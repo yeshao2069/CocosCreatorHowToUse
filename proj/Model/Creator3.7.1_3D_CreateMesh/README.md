@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.1 版本创建的 **动态创建网格(静态网格)** 工程
+### Introduction
+**Model Create Mesh** project created based on CocosCreator version 3.7.1
 
-### 效果预览
+### Preview
 ![image](../../../image/202205/2022052201.png)
 
-### 相关链接
+### Related Links
 https://forum.cocos.org/t/creator-3d-3d/91064

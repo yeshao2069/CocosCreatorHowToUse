@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **跳舞男孩** 工程
+### Introduction
+**Dancing Boy** project created based on CocosCreator version 3.7.0 
 
-### 效果预览
+### Preview
 ![image](../../../gif/202302/2023020701.gif)
 
-### 相关链接
+### Related Links
 https://forum.cocos.org/t/topic/134818

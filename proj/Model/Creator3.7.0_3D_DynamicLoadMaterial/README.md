@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **动态加载材质** 工程
+### Introduction
+**Model Dynamic Load Material** project created based on CocosCreator version 3.7.0 
 
-### 效果预览
+### Preview
 ![image](../../../gif/202203/2022032701.gif)
 
-### 相关链接
+### Related Links
 [Gitee](https://gitee.com/mirrors_cocos-creator/example-cases/tree/v2.4.3/assets/cases/3d) | [Github](https://github.com/cocos-creator/example-cases/tree/v2.4.3/assets/cases/3d)

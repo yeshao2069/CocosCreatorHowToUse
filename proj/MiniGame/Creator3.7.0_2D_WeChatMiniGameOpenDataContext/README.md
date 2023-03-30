@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **微信小游戏开放域** 工程
+### Introduction
+**WeChat Mini Game Open Data Context** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../image/202212/2022120701.png)
 
-### 相关链接
+### Related Links
 https://github.com/cocos/cocos-example-open-data-context/tree/master/3d_mainProject
