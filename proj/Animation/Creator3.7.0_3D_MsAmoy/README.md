@@ -1,5 +1,6 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **淘气包** 工程
+### Introduction
 
-### 效果预览
+**Ms Amoy** project created based on CocosCreator version 3.7.0
+
+### Preview
 ![image](../../../gif/202209/2022091401.gif)

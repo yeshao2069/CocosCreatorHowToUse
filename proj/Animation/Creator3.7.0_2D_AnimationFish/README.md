@@ -1,5 +1,6 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **美人鱼** 工程
+### Introduction
 
-### 效果预览
+**SpriteFrame Animation Fish** project created based on CocosCreator version 3.7.0
+
+### Preview
 ![image](../../../gif/202205/2022052202.gif)
