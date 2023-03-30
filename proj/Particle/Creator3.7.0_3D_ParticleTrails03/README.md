@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **粒子拖尾模块3** 工程
+### Introduction
+**Particle Tails Three** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202203/2022030534.gif)
 
-### 相关链接
+### Related Links
 [Gitee](https://gitee.com/mirrors_cocos-creator/test-cases-3d/blob/v3.0/assets/cases/particle) | [Github](https://github.com/cocos-creator/test-cases-3d/blob/v3.0/assets/cases/particle)

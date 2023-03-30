@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **火焰喷射** 工程
+### Introduction
+**Jet Fires Particle** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202211/2022112202.gif)
 
-### 相关链接
+### Related Links
 https://github.com/cocos/cocos-awesome-tech-solutions/tree/3.6.x-release/particle/Creator3.4.2_2D%263D_ParticleTest

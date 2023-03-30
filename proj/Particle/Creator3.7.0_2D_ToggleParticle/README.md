@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **2D粒子显隐** 工程
+### Introduction
+**Particle 2D Toggle** project created based on CocosCreator version 3.7.0 
 
-### 效果预览
+### Preview
 ![image](../../../gif/202203/2022030546.gif)
 
-### 相关链接
+### Related Links
 [Gitee](https://gitee.com/mirrors_cocos-creator/example-cases/tree/v2.4.3/assets/cases/01_graphics/02_particle) | [Github](https://github.com/cocos-creator/example-cases/tree/v2.4.3/assets/cases/01_graphics/02_particle)
