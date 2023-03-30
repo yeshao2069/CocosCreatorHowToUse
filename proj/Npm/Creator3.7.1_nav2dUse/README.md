@@ -1,8 +1,9 @@
-### 简介
-基于 CocosCreator 3.7.1 版本创建的 **NPM-nav2d使用** 工程
+### Introduction
 
-### 效果预览
+**nav2d Usage** project created based on CocosCreator version 3.7.1
+
+### Preview
 ![image](../../../image/202302/2023022702.png)
 
-### 相关链接    
+### Related Links
 https://www.npmjs.com/package/nav2d

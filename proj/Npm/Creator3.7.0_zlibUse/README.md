@@ -1,8 +1,9 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **NPM-zlib使用** 工程
+### Introduction
 
-### 效果预览
-![image](../../../image/202211/2022112201.jpeg)
+**zlib Usage** project created based on CocosCreator version 3.7.0
 
-### 相关链接
+### Preview
+![image](../../../image/202211/2022112201.png)
+
+### Related Links
 https://github.com/imaya/zlib.js/blob/develop/bin/zlib.pretty.js
