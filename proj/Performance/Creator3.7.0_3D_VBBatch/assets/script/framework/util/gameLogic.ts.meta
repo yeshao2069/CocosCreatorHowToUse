@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "da479318-8997-466e-b964-0d22a271ab35",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/model-animation/script/framework/util/gameLogic.js",
+    "simulateGlobals": []
+  }
+}

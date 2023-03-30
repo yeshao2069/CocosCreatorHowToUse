@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "4c07351f-3eb3-4452-b475-1d840a7f4b1b",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/EditableGeometry/EditableCapsule.js",
+    "simulateGlobals": []
+  }
+}

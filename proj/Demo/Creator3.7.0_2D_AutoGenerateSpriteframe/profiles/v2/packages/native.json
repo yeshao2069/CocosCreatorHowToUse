@@ -1,0 +1,28 @@
+{
+  "__version__": "1.0.2",
+  "builder": {
+    "taskOptionsMap": {
+      "1652348457718": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "686nQFm/1IYYrXYn",
+        "compressZip": false,
+        "JobSystem": "tbb",
+        "__version__": "1.0.0"
+      }
+    },
+    "__version__": "1.3.4",
+    "common": {
+      "buildStageGroup": {
+        "build": [
+          "make"
+        ]
+      }
+    },
+    "options": {
+      "android": {}
+    }
+  }
+}

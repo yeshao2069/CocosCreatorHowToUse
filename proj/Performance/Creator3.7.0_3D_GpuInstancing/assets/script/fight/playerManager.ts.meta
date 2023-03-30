@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "a4e784fe-db66-4e5b-b498-938f9bb0ca71",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/model-animation/script/fight/playerManager.js",
+    "simulateGlobals": []
+  }
+}

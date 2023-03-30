@@ -1,0 +1,32 @@
+{
+  "__version__": "1.0.4",
+  "general": {
+    "designResolution": {
+      "fitWidth": false,
+      "fitHeight": true
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "BIT_1"
+      },
+      {
+        "index": 2,
+        "name": "BIT_2"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 5,
+      "1": 6,
+      "2": 7
+    },
+    "defaultMaterial": "b1d9dcac-6df0-4548-a279-6540dda5b891"
+  },
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  }
+}

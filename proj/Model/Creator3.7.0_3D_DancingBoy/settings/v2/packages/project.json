@@ -1,0 +1,15 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 750,
+      "height": 1624,
+      "fitHeight": false
+    }
+  },
+  "__version__": "1.0.4",
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "3c2b0e89-17ef-4e35-8e51-97f302c836b7",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/EditableGeometry/EditableCylinder.js",
+    "simulateGlobals": []
+  }
+}

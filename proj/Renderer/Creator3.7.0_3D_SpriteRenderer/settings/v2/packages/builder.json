@@ -1,0 +1,17 @@
+{
+  "__version__": "1.3.4",
+  "textureCompressConfig": {
+    "userPreset": {
+      "01EJKHpPBP35nOPV0VWBVc": {
+        "name": "aa",
+        "options": {
+          "web": {
+            "etc2_rgba": {
+              "quality": "fast"
+            }
+          }
+        }
+      }
+    }
+  }
+}

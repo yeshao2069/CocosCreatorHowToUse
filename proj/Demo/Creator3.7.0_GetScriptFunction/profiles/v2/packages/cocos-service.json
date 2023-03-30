@@ -1,0 +1,15 @@
+{
+  "__version__": "3.0.5",
+  "builder-options": {
+    "configID": "ca7670",
+    "services": []
+  },
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "configID": "ca7670",
+        "services": []
+      }
+    }
+  }
+}

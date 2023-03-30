@@ -1,0 +1,16 @@
+{
+  "builder": {
+    "taskOptionsMap": {
+      "1634615077203": {
+        "packageName": "com.cocos.project",
+        "renderBackEnd": {
+          "metal": true
+        },
+        "targetVersion": "10.14",
+        "supportM1": false,
+        "__version__": "1.0.0"
+      }
+    },
+    "__version__": "1.3.4"
+  }
+}

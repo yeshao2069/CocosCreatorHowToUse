@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "5990bb3e-6f0b-4af7-b0cb-71377ba6d23b",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/EditableGeometry/EditableSphere.js",
+    "simulateGlobals": []
+  }
+}

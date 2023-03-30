@@ -1,0 +1,23 @@
+{
+  "__version__": "1.0.0",
+  "builder": {
+    "taskOptionsMap": {
+      "1644817323940": {
+        "renderBackEnd": {
+          "metal": true
+        },
+        "targetVersion": "10.14",
+        "supportM1": false,
+        "skipUpdateXcodeProject": false,
+        "packageName": "com.chengen.testa",
+        "__version__": "1.0.0"
+      }
+    },
+    "__version__": "1.3.4",
+    "options": {
+      "mac": {
+        "packageName": "com.chengen.testa"
+      }
+    }
+  }
+}

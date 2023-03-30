@@ -1,0 +1,15 @@
+{
+  "builder": {
+    "taskOptionsMap": {
+      "1648114467564": {
+        "orientation": "auto",
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "__version__": "1.0.0"
+      }
+    },
+    "__version__": "1.3.4"
+  },
+  "__version__": "1.0.1"
+}

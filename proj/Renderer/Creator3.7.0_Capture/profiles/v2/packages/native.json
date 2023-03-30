@@ -1,0 +1,48 @@
+{
+  "__version__": "1.0.2",
+  "builder": {
+    "taskOptionsMap": {
+      "1634614703147": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "6bavOB2GpM2JM5/l",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1634614753746": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "6bavOB2GpM2JM5/l",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1634615077203": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "6bavOB2GpM2JM5/l",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      }
+    },
+    "__version__": "1.3.4",
+    "common": {
+      "buildStageGroup": {
+        "build": [
+          "make"
+        ]
+      }
+    },
+    "options": {
+      "android": {}
+    }
+  }
+}

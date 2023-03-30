@@ -1,0 +1,17 @@
+{
+  "builder-options": {
+    "configID": "182cd8",
+    "services": [],
+    "__version__": "3.0.4"
+  },
+  "__version__": "3.0.5",
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "configID": "182cd8",
+        "services": [],
+        "__version__": "3.0.4"
+      }
+    }
+  }
+}
